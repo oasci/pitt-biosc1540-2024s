@@ -15,6 +15,7 @@ mkdocs-material = "^9.4.7"
 material-plausible-plugin = "^0.2.0"
 pymdown-extensions = "^10.3.1"
 mkdocs-table-reader-plugin = "^2.0.3"
+pylint = "^3.0.2"
 
 [tool.bumpversion]
 current_version = "2023.11.2"

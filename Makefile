@@ -3,11 +3,8 @@ PYTHON_VERSION := 3.11
 PYTHON_VERSION_CONDENSED := 311
 PACKAGE_NAME := pitt-biosc-1540-2024-spring
 REPO_PATH := $(shell git rev-parse --show-toplevel)
-PACKAGE_PATH := $(REPO_PATH)/$(PACKAGE_NAME)
 CONDA_NAME := $(PACKAGE_NAME)-dev
 CONDA := conda run -n $(CONDA_NAME)
-DOCS_URL := https://oasci.org/pitt-biosc-1540-2024-spring
-ADDR := $(lsof -ti tcp:$(PORT))
 
 ###   ENVIRONMENT   ###
 
@@ -82,9 +79,9 @@ formatting:
 
 .PHONY: check-codestyle
 check-codestyle:
-	$(CONDA) isort --diff --check-only $(PACKAGE_PATH)
-	$(CONDA) black --diff --check --config pyproject.toml $(PACKAGE_PATH)
-	- $(CONDA) pylint --rcfile pyproject.toml $(PACKAGE_PATH)
+	$(CONDA) isort --diff --check-only $(REPO_PATH)
+	$(CONDA) black --diff --check --config pyproject.toml $(REPO_PATH)
+	$(CONDA) pylint --recursive=y --rcfile pyproject.toml $(REPO_PATH)
 
 .PHONY: lint
 lint: check-codestyle
