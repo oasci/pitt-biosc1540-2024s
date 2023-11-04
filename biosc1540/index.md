@@ -1,6 +1,6 @@
 <h1 align="center">Computational Biology</h1>
 
-<h3 align="center">BIOSC 1540</h3>
+<h2 align="center">BIOSC 1540</h2>
 
 <p align="center">
     Spring 2024 •
