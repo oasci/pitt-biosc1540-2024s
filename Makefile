@@ -127,7 +127,6 @@ cleanup: pycache-remove dsstore-remove mypycache-remove ipynbcheckpoints-remove 
 
 .PHONY: serve
 serve:
-	- kill -9 $$(lsof -ti tcp:8000)
 	echo "Served at http://127.0.0.1:8000/"
 	$(CONDA) mkdocs serve
 
