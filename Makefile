@@ -7,7 +7,6 @@ PACKAGE_PATH := $(REPO_PATH)/$(PACKAGE_NAME)
 CONDA_NAME := $(PACKAGE_NAME)-dev
 CONDA := conda run -n $(CONDA_NAME)
 DOCS_URL := https://oasci.org/pitt-biosc-1540-2024-spring
-PORT := 8000
 ADDR := $(lsof -ti tcp:$(PORT))
 
 ###   ENVIRONMENT   ###
@@ -127,12 +126,25 @@ cleanup: pycache-remove dsstore-remove mypycache-remove ipynbcheckpoints-remove 
 
 .PHONY: serve
 serve:
-	echo "Served at http://127.0.0.1:8000/"
-	$(CONDA) mkdocs serve
+	# Ensure we have all files possible
+	export SECRETS_GPG_ARMOR=0
+	- $(CONDA) git secret hide -m 2>&1 || true  # Only encrpyt files that have been modified
+	- $(CONDA) git secret reveal -fF 2>&1 || true  # Decrypt all files from the secret to ensure consistency
+
+	echo "Served at http://127.0.0.1:8910/"
+	$(CONDA) mkdocs serve -a localhost:8910
 
 .PHONY: build
 build:
+	export SECRETS_GPG_ARMOR=0
+	- $(CONDA) git secret hide -m 2>&1 || true  # Only encrpyt files that have been modified
+	- $(CONDA) git secret reveal -fF 2>&1 || true  # Decrypt all files from the secret to ensure consistency
+
 	$(CONDA) mkdocs build
+
+.PHONY: open
+open:
+	xdg-open ./site/index.html 2>/dev/null
 
 .PHONY: deploy
 deploy:

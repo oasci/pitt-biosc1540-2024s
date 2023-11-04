@@ -8,6 +8,17 @@
     <a href="https://www.biology.pitt.edu/">Department of Biological Sciences</a>
 </p>
 
+## Encryption
+
+[git-secret](https://github.com/sobolevn/git-secret) is used to encrypt course materials that are in preparation.
+Use [`git secret add`](https://sobolevn.me/git-secret/git-secret-add) to encrypt an untracked file.
+This will add a line to `.gitignore` and `.gitsecret/paths/mapping.cfg` to mark that it should be a `.secret` file.
+To stop encrypting the file, remove the lines in `.gitignore` and `.gitsecret/paths/mapping.cfg` and delete the `.secret` file.
+
+[pre-commit](https://pre-commit.com/) hooks are used to ensure all desired files are encrypted before commits.
+Building the book before committing is beneficial as it will encrypt and decrypt files as necessary so you can see which files are changing.
+`git secret reveal` will allow you to decrypt these files if you have access.
+
 ## License
 
 Code contained in this project is released under the [MIT License](https://spdx.org/licenses/MIT.html) as specified in [`LICENSE_CODE`][license-code].

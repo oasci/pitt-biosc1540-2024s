@@ -21,3 +21,15 @@ repos:
     hooks:
       - id: black-jupyter
         language_version: python3.11
+
+
+  - repo: local
+    hooks:
+      - id: git-secret-hide
+        name: git-secret-hide
+        # If no unencrypted files are present, hide command fails?
+        # Always force to exit 0 with: 2>&1 || true
+        entry: bash -c "export SECRETS_GPG_ARMOR=0 && git secret hide -dm 2>&1 || true"
+        language: system
+        pass_filenames: false
+        always_run: false

@@ -11,6 +11,7 @@ repo_url: https://github.com/oasci/pitt-biosc-1540-2024-spring
 # https://squidfunk.github.io/mkdocs-material/
 theme:
   name: material
+  custom_dir: overrides
   language: en
   palette:
     primary: custom
@@ -47,6 +48,7 @@ validation:
 plugins:
   - search
   - material-plausible
+  - table-reader
 
 extra:
   generator: false

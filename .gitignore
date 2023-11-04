@@ -12,3 +12,6 @@ __pycache__
 site/
 
 .cache
+
+.gitsecret/keys/random_seed
+!*.secret
