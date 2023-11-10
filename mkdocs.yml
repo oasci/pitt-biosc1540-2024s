@@ -14,7 +14,17 @@ theme:
   custom_dir: overrides
   language: en
   palette:
-    primary: custom
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: dark
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
@@ -30,14 +40,13 @@ theme:
     - navigation.instant.progress
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.tracking
     - navigation.top
-    - navigation.footer
     - navigation.indexes
-    - navigation.sections
     - navigation.path
+    - navigation.prune
     - toc.follow
     - search.suggest
-    - navigation.footer
 
 validation:
   omitted_files: warn
@@ -57,7 +66,8 @@ extra:
     domain: pitt-biosc-1540-2024-spring
 
 extra_css:
-  - stylesheets/extra.css
+  - css/base.css
+  - css/colors.css
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -66,6 +76,8 @@ extra_javascript:
 
 markdown_extensions:
   - abbr
+  - toc:
+      permalink: true
   - admonition
   - attr_list
   - def_list
