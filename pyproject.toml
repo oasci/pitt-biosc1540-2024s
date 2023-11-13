@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pitt-biosc-1540-2024-spring"
+name = "pitt-biosc1540-2024s"
 version = "0.0.0"
 description = ""
 authors = [

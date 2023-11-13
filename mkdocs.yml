@@ -5,8 +5,8 @@ copyright: Copyright &copy; 2023, OASCI
 site_author: OASCI
 
 # Github
-repo_name: oasci/pitt-biosc-1540-2024-spring
-repo_url: https://gitlab.com/oasci/pitt-biosc-1540-2024-spring
+repo_name: oasci/pitt-biosc1540-2024s
+repo_url: https://gitlab.com/oasci/pitt-biosc1540-2024s
 
 # https://squidfunk.github.io/mkdocs-material/
 theme:
@@ -63,7 +63,7 @@ extra:
   generator: false
   analytics:
     provider: plausible
-    domain: pitt-biosc-1540-2024-spring
+    domain: pitt-biosc1540-2024s
 
 extra_css:
   - css/base.css

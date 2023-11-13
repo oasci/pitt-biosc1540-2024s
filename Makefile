@@ -1,7 +1,7 @@
 SHELL := /usr/bin/env bash
 PYTHON_VERSION := 3.11
 PYTHON_VERSION_CONDENSED := 311
-PACKAGE_NAME := pitt-biosc-1540-2024-spring
+PACKAGE_NAME := pitt-biosc1540-2024s
 REPO_PATH := $(shell git rev-parse --show-toplevel)
 CONDA_NAME := $(PACKAGE_NAME)-dev
 CONDA := conda run -n $(CONDA_NAME)
