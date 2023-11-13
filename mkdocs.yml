@@ -6,7 +6,7 @@ site_author: OASCI
 
 # Github
 repo_name: oasci/pitt-biosc-1540-2024-spring
-repo_url: https://github.com/oasci/pitt-biosc-1540-2024-spring
+repo_url: https://gitlab.com/oasci/pitt-biosc-1540-2024-spring
 
 # https://squidfunk.github.io/mkdocs-material/
 theme:
