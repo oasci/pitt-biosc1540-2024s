@@ -31,8 +31,8 @@ theme:
     repo: fontawesome/brands/gitlab
     annotation: material/star-four-points-circle
   features:
-    - content.action.edit
-    - content.action.view
+    # - content.action.edit
+    # - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.code.select
