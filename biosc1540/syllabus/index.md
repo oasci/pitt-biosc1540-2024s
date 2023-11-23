@@ -20,3 +20,11 @@ Both the biological and computational underpinnings of the methods will be addre
 ## Prerequisites
 
 You must have received a minimum grade of `C` in (BIOSC 0160 or 0165 or 0180 or 0191 or 0716) or (BIOL 0102 or 0120).
+
+## Philosophy
+
+TODO:
+
+## Outcomes
+
+TODO:
