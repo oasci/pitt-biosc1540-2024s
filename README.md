@@ -10,15 +10,19 @@
 
 ## License
 
-Code contained in this project is released under the [MIT License](https://spdx.org/licenses/MIT.html) as specified in [`LICENSE_CODE`][license-code].
-This license grants you the freedom to use, modify, and distribute it as long as you include the original copyright notice contained in [`LICENSE_CODE`][license-code] and the following notice.
+Code contained in this project is released under the [GPLv3 license][gplv3] as specified in `LICENSE.md`.
+All other data, information, documentation, and associated content provided within this project are released under the [CC BY-ND 4.0 license][cc-by-nd-4.0] as specified in `LICENSE_INFO.md`.
 
-> Portions of this code were incorporated and adapted with permission from [BIOSC 1540 at Pitt](https://gitlab.com/oasci/pitt-biosc1540-2024s) by OASCI under the [MIT License](https://gitlab.com/oasci/pitt-biosc1540-2024s/blob/main/LICENSE_code.md).
+### Permissive release
 
-All other data, information, documentation, and associated content provided within this project are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) as specified in [`LICENSE_INFO`][license-info].
-This means you are free to share and adapt the non-code elements, but you must include the following notice.
+On **January 1, 2025**, the above [GPLv3][gplv3] and [CC BY-ND 4.0][cc-by-nd-4.0] licenses are voided and superseded by the immediately following paragraph.
 
-> Portions of this project were incorporated and adapted with permission from [BIOSC 1540 at Pitt](https://gitlab.com/oasci/pitt-biosc1540-2024s) by OASCI under the [CC BY 4.0 License](https://gitlab.com/oasci/pitt-biosc1540-2024s/blob/main/LICENSE_INFO.md).
+> Code contained in this project is released under the [MIT license][mit] as specified in `LICENSE.md`.
+> All other data, information, documentation, and associated content provided within this project are released under the [CC BY 4.0 license][cc-by-4.0] as specified in `LICENSE_INFO.md`.
 
-[license-code]: https://gitlab.com/oasci/pitt-biosc1540-2024s/blob/main/LICENSE_CODE.md
-[license-info]: https://gitlab.com/oasci/pitt-biosc1540-2024s/blob/main/LICENSE_INFO.md
+A manual permissive release can be made by the maintainers whenever they see fit by updating the license files and updating this section.
+
+[gplv3]: https://spdx.org/licenses/GPL-3.0-only.html
+[cc-by-nd-4.0]: https://creativecommons.org/licenses/by-nd/4.0/
+[mit]: https://spdx.org/licenses/MIT.html
+[cc-by-4.0]: https://creativecommons.org/licenses/by/4.0/
