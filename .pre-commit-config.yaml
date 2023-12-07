@@ -10,10 +10,13 @@ repos:
       - id: check-executables-have-shebangs
       - id: detect-private-key
       - id: end-of-file-fixer
+      - id: check-yaml
+        exclude: "mkdocs.yml"
       - id: mixed-line-ending
         args: [--fix=lf]
       - id: trailing-whitespace
         args: [--markdown-linebreak-ext=md]
+      - id: detect-private-key
 
   # https://github.com/psf/black/blob/main/docs/integrations/source_version_control.md
   - repo: https://github.com/psf/black-pre-commit-mirror
@@ -22,14 +25,14 @@ repos:
       - id: black-jupyter
         language_version: python3.11
 
-
-  - repo: local
+  - repo: https://github.com/pycqa/isort
+    rev: 5.12.0
     hooks:
-      - id: git-secret-hide
-        name: git-secret-hide
-        # If no unencrypted files are present, hide command fails?
-        # Always force to exit 0 with: 2>&1 || true
-        entry: bash -c "export SECRETS_GPG_ARMOR=0 && git secret hide -dm 2>&1 || true"
-        language: system
-        pass_filenames: false
-        always_run: false
+      - id: isort
+        name: isort (python)
+
+  - repo: https://github.com/psf/black-pre-commit-mirror
+    rev: 23.11.0
+    hooks:
+      - id: black
+        language_version: python3.11

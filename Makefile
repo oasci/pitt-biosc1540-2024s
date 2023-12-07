@@ -66,8 +66,8 @@ install:
 .PHONY: environment
 environment: conda-create from-conda-lock pre-commit-install nodejs-dependencies install
 
-.PHONY: refresh-locks
-refresh-locks: conda-create conda-setup conda-dependencies conda-lock pre-commit-install poetry-lock nodejs-dependencies install
+.PHONY: locks
+locks: conda-create conda-setup conda-dependencies conda-lock pre-commit-install poetry-lock nodejs-dependencies install
 
 
 
@@ -133,10 +133,30 @@ cleanup: pycache-remove dsstore-remove mypycache-remove ipynbcheckpoints-remove 
 
 ###   MKDOCS   ###
 
+.PHONY: docs-env
+docs-env:
+	$(CONDA) poetry install --no-interaction --only docs
+
+mkdocs_port := $(shell \
+	start_port=3000; \
+	max_attempts=100; \
+	for i in $$(seq 0 $$(($$max_attempts - 1))); do \
+		current_port=$$(($$start_port + i)); \
+		if ! lsof -i :$$current_port > /dev/null; then \
+			echo $$current_port; \
+			break; \
+		fi; \
+		if [ $$i -eq $$(($$max_attempts - 1)) ]; then \
+			echo "Error: Unable to find an available port after $$max_attempts attempts."; \
+			exit 1; \
+		fi; \
+	done \
+)
+
 .PHONY: serve
 serve:
-	echo "Served at http://127.0.0.1:8910/"
-	$(CONDA) mkdocs serve -a localhost:8910
+	echo "Served at http://127.0.0.1:$(mkdocs_port)/"
+	$(CONDA) mkdocs serve -a localhost:$(mkdocs_port)
 
 .PHONY: docs
 docs:
