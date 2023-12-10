@@ -1,0 +1,7 @@
+nav:
+    - index.md
+    - "Biology": bio
+    - "Computational Biology": comp-bio
+    - "Data science": data-science
+    - "Machine learning": ml
+    - "Software development": software-dev
