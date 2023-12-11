@@ -1,8 +1,9 @@
 nav:
-    - Modules: index.md
-    - Preliminaries: prelims
-    - Modelers toolkit: toolkit
-    - Genomics: genomics
-    - Transcriptomics: transcriptomics
-    - Molecular simulations: simulations
-    - Docking: docking
+    - index.md
+    - prelims
+    - modeling
+    - genomics
+    - transcriptomics
+    - simulations
+    - cadd
+    - bonus
