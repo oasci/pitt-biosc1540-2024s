@@ -1,6 +1,6 @@
 nav:
-    - Home: index.md
-    - Syllabus: syllabus
-    - Modules: modules
-    - Lectures: lectures
-    - Resources: resources
+    - index.md
+    - syllabus
+    - modules
+    - lectures
+    - resources
