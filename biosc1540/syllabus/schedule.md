@@ -14,9 +14,9 @@
 
 ### Week 5
 
-### Week 6
-
 ## [Module 03 - Transcriptomics][module 03]
+
+### Week 6
 
 ### Week 7
 
@@ -34,9 +34,9 @@
 
 ### Week 12
 
-### Week 13
-
 ## [Module 05 - Computer-aided drug design][module 05]
+
+### Week 13
 
 ### Week 14
 
