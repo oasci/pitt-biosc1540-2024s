@@ -2,7 +2,7 @@ nav:
     - index.md
     - prelims
     - modeling
-    - genomics
+    - 02 - Genomics: genomics
     - transcriptomics
     - simulations
     - cadd
