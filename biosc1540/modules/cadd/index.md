@@ -1,3 +1,3 @@
-# 05 - Computer-aided drug design
+# 05 - CADD
 
 Drug discovery for SARS-CoV-2

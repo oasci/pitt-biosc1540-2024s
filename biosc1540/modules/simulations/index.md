@@ -1,3 +1,3 @@
-# 04 - Molecular simulations
+# 04 - Simulations
 
 Untangling the dynamics of tau protein
