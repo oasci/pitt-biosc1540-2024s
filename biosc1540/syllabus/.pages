@@ -1,3 +1,8 @@
 nav:
     - index.md
+    - Philosophy: philosophy.md
+    - Outcomes: outcomes.md
+    - Schedule: schedule.md
+    - Assessments: assessments.md
+    - Policies: policies.md
     - ...
