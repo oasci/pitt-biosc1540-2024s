@@ -7,11 +7,33 @@
 ### Textbooks
 
 -   [**[singh2024bioinformatics]**](https://www.routledge.com/Bioinformatics-and-Computational-Biology-Technological-Advancements-Applications/Singh-Saini-Comar-Junior/p/book/9781032361581) Singh, T. R., Saini, H., Comar Jr., M. (2024) *Bioinformatics and Computational Biology: Technological advancements, applications, and opportunities*. CRC Press.
+
+    In-depth writings of many applications across bioinformatics and computational biology.
+    Focused primarily on algorithms used to approach certain tasks.
+    Recommended if you are looking for information on a specific topic.
+
 -   [**[low2023practical]**](https://doi.org/10.1142/12908) Low, L., Tammi, M. (2023) *Practical bioinformatics for beginners: From raw sequence analysis to machine learning applications*. World Scientific.
+
+    Beginner-friendly textbook primarily focused hands-on of genomics with bash scripting and software.
+    Also has some chapters on other bioinformatics topics such as exome sequencing, transcriptomics, metagenomics.
+
 -   [**[ramsden2023bioinformatics]**](https://link.springer.com/book/10.1007/978-3-030-45607-8) Ramsden, J. (2023) *Bioinformatics: An introduction* (4th Ed.). Springer Nature.
+
+    Comprehensive text on many topics central to bioinformatics such as biology, information theory, and omics.
+    Text is more beginner to intermediate for non-biology topics.
+    Also has applications that connects the material to real-world topics.
+
 -   [**[roy2022handbook]**](https://link.springer.com/book/10.1007/978-981-16-9158-4) Roy, S. S., Taguchi, Y. H. (2022) *Handbook of machine learning applications for genomics*. Springer Nature.
+
+    Essentially a collection of genomic studies that use machine learning.
+
 -   [**[gagniuc2021algorithms]**](https://doi.org/10.1002/9781119698005) Gagniuc, P. A. (2021) *Algorithms in bioinformatics: Theory and implementation*. John Wiley & Sons.
--   [**[lesk2019introduction]**](https://global.oup.com/academic/product/introduction-to-bioinformatics-9780198794141?cc=us&lang=en&) Lesk, A. (2019) *Introduction to bioinformatics* (5th ed.). Oxford University Press.
+
+    Explanation and introduction to several important algorithms and implementations in JavaScript.
+
+-   [**[lesk2019introduction]**](https://global.oup.com/academic/product/introduction-to-bioinformatics-9780198794141?cc=us&lang=en&) Lesk, A. (2014) *Introduction to bioinformatics* (4th ed.). Oxford University Press.
+
+    Beginner introduction to bioinformatics from more of a biological perspective.
 
 !!! tip
 
