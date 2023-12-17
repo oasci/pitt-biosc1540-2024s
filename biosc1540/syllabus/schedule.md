@@ -4,43 +4,185 @@
 
 ### Week 1
 
+**Tuesday** (Jan 9)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Jan 11)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
 ### Week 2
+
+**Tuesday** (Jan 16)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Jan 18)
+
+-   ^^Topics^^:
+-   ^^Due^^:
 
 ## [Module 02 - Genomics][module 02]
 
 ### Week 3
 
+**Tuesday** (Jan 23)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Jan 25)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
 ### Week 4
 
+**Tuesday** (Jan 30)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Feb 1)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
 ### Week 5
+
+**Tuesday** (Feb 6)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Feb 8)
+
+-   ^^Topics^^: Guest lecture from [Dr. Emily Kopania](https://ekopania.github.io/) on evolutionary genomics.
+-   ^^Due^^:
 
 ## [Module 03 - Transcriptomics][module 03]
 
 ### Week 6
 
+**Tuesday** (Feb 13)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Feb 15)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
 ### Week 7
 
+**Tuesday** (Feb 20)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Feb 22)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
 ### Week 8
+
+**Tuesday** (Feb 27)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Feb 29)
+
+-   ^^Topics^^:
+-   ^^Due^^:
 
 ## [Module 04 - Molecular simulations][module 04]
 
 ### Week 9
 
+**Tuesday** (Mar 5)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Mar 7)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
 ### Week 10
 
 **Spring break**
 
+No class
+
 ### Week 11
 
+**Tuesday** (Mar 19)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Mar 21)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
 ### Week 12
+
+**Tuesday** (Mar 26)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Mar 28)
+
+-   ^^Topics^^:
+-   ^^Due^^:
 
 ## [Module 05 - Computer-aided drug design][module 05]
 
 ### Week 13
 
+**Tuesday** (Apr 2)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Apr 4)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
 ### Week 14
 
+**Tuesday** (Apr 9)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Apr 11)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
 ### Week 15
+
+**Tuesday** (Apr 16)
+
+-   ^^Topics^^:
+-   ^^Due^^:
+
+**Thursday** (Apr 18)
+
+-   ^^Topics^^:
+-   ^^Due^^:
 
 <!-- LINKS -->
 
