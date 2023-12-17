@@ -1,6 +1,6 @@
-# Learning scenario
+# Genomic approaches for predicting and monitoring antibiotic resistance
 
-**Genomic approaches for predicting and monitoring antibiotic resistance**
+**Learning scenario**
 
 ## Background
 
@@ -16,4 +16,27 @@ The motivation behind employing genomics in the study of antibiotic resistance l
 Traditional methods of identifying antibiotic-resistant strains rely on time-consuming culture-based techniques, often leading to delayed diagnosis and treatment.
 Genomic approaches offer a rapid and comprehensive alternative, enabling clinicians to predict resistance patterns, tailor treatment regimens, and monitor the emergence of resistance in real-time.
 
-[^1]: Darby, E. M., Trampari, E., Siasat, P., Gaya, M. S., Alav, I., Webber, M. A., & Blair, J. M. (2023). Molecular mechanisms of antibiotic resistance revisited. *Nature Reviews Microbiology*, 21(5), 280-295.
+## Objectives
+
+### Genomic profiling
+
+This objective involves the comprehensive examination of the entire genomic landscape of bacterial strains demonstrating varying degrees of antibiotic resistance.
+By collecting samples from a diverse array of sources, including clinical settings, hospitals, and communities, we aim to construct a rich and representative dataset.
+Through this genomic profiling initiative, we seek to unravel the intricate genetic makeup of antibiotic-resistant strains, providing a foundational understanding of the genomic basis for resistance phenomena.
+
+### Identification of resistance genes
+
+This objective entails a sophisticated exploration of genomic data through the adept application of bioinformatics tools and databases.
+The goal is to meticulously identify specific genes and mutations that underlie antibiotic resistance.
+In addition to scrutinizing well-documented resistance mechanisms, we aspire to unearth novel genetic determinants contributing to resistance phenotypes.
+By discerning the genetic signatures associated with resistance, we aim to deepen our comprehension of the intricate interplay between bacterial genomes and the development of antibiotic resistance.
+
+### Development of predictive models
+
+Employing advanced machine learning algorithms, this objective seeks to transcend traditional approaches by developing predictive models capable of anticipating antibiotic resistance based on genomic data.
+By training these models with the genomic profiles of known resistant strains, we aim to equip them with the ability to discern subtle patterns and correlations indicative of resistance.
+The validation of these models against clinical outcomes serves to ensure their accuracy and efficacy in forecasting antibiotic resistance, thereby empowering healthcare practitioners with proactive and targeted treatment strategies.
+
+<!-- LINKS -->
+
+[^1]: Darby, E. M., Trampari, E., Siasat, P., Gaya, M. S., Alav, I., Webber, M. A., & Blair, J. M. (2023). Molecular mechanisms of antibiotic resistance revisited. *Nature Reviews Microbiology*, 21(5), 280-295. DOI: [10.1038/s41579-022-00820-y](https://doi.org/10.1038/s41579-022-00820-y)
