@@ -9,7 +9,7 @@ Each module will cover learning objectives simultaneously across four categories
 
 -   🧫 **Biology**: cellular and molecular biology, physiology, microbiology.
 -   🐍 **Python**: programming, data processing, visualization.
--   🧮 **Algorithms**: methods, simulations, techniques, mathematics.
+-   🧮 **Methods**: algorithms, simulations, techniques.
 -   🤖 **Machine learning**: regression, dimensionality reduction, neural networks.
 
 !!! note
