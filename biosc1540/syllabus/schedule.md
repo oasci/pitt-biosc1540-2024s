@@ -70,7 +70,7 @@
 
 **Tuesday** (Feb 13)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Learning scenario](/modules/transcriptomics/learning-scenario)
 -   ^^Due^^:
 
 **Thursday** (Feb 15)
@@ -108,7 +108,7 @@
 
 **Tuesday** (Mar 5)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Learning scenario](/modules/simulations/learning-scenario)
 -   ^^Due^^:
 
 **Thursday** (Mar 7)
@@ -152,7 +152,7 @@ No class
 
 **Tuesday** (Apr 2)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario)
 -   ^^Due^^:
 
 **Thursday** (Apr 4)
