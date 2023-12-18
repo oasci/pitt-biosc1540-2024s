@@ -46,7 +46,7 @@
 
     Bioinformatics from more of a biological perspective.
 
--   [**[griffiths20012introduction]**](https://www.abebooks.com/9781464109485/Introduction-Genetic-Analysis-Griffiths-Anthony-1464109486/plp) Griffths, A. J. F., Wessler, S. R., Carrol, S. B., Doebley, J. (2005) *Computational genome analysis: An introduction*. Springer.
+-   [**[griffiths2015introduction]**](https://www.abebooks.com/9781464109485/Introduction-Genetic-Analysis-Griffiths-Anthony-1464109486/plp) Griffths, A. J. F., Wessler, S. R., Carrol, S. B., Doebley, J. (2015) *Introduction to genetic analysis*. Springer.
 
     TODO:
 
