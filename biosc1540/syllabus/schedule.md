@@ -49,14 +49,14 @@
 
 **Thursday** (Feb 1)
 
--   ^^Topics^^: [Gene identification](/modules/genomics/gene-identification)
+-   ^^Topics^^: [Reference gene annotation](/modules/genomics/ref-gene-annotation)
 -   ^^Due^^:
 
 ### Week 5
 
 **Tuesday** (Feb 6)
 
--   ^^Topics^^: [Gene annotation](/modules/genomics/gene-annotation)
+-   ^^Topics^^: [De novo gene annotation](/modules/genomics/de-novo-gene-annotation)
 -   ^^Due^^:
 
 **Thursday** (Feb 8)
