@@ -1,1 +1,1 @@
-# Gene annotation I
+# Reference gene annotation

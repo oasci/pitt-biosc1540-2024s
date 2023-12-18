@@ -1,1 +1,1 @@
-# Gene annotation II
+# De novo gene annotation
