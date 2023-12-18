@@ -2,6 +2,17 @@
 
 ## Learning objectives
 
+-   🧫 Define genomics and articulate its significance in the study of living organisms.
+-   🧫 Describe the factors contributing to the emergence and spread of antibiotic-resistant bacteria.
+-   🧫 Identify different types of genetic variations including mutations, SNPs, and indels.
+-   🧮 Describe the key techniques used in genomics such as DNA sequencing, gene annotation, and genome assembly.
+-   🧮 Explain the principles of sequencing techniques including Sanger, ion torrent, illumina, shotgun, and nanopore.
+-   🧮 Perform the annotation of genes and functional elements in a genome.
+-   🐍 Demonstrate the ability to retrieve and analyze genomic data using bioinformatics resources.
+-   🐍 Utilize bioinformatics tools to identify specific genes and mutations associated with antibiotic resistance.
+-   🤖 Understand the principles of machine learning in the context of genomics.
+-   🤖 Apply machine learning algorithms to develop predictive models for antibiotic resistance based on genomic data.
+
 ## Resources
 
 ### Textbooks
