@@ -2,3 +2,8 @@ nav:
     - index.md
     - Learning scenario: learning-scenario.md
     - Sequencing: sequencing.md
+    - Genome assembly: genome-assembly.md
+    - Sequence alignment: sequence-alignment.md
+    - Gene identification: gene-identification.md
+    - Gene annotation: gene-annotation.md
+    - Evolutionary genomics: evolutionary-genomics.md

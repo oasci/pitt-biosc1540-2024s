@@ -32,36 +32,36 @@
 
 **Tuesday** (Jan 23)
 
--   ^^Topics^^: [Learning scenario](/modules/genomics/learning-scenario), [sequencing](/modules/genomics/sequencing)
+-   ^^Topics^^: [Learning scenario](/modules/genomics/learning-scenario) and [sequencing](/modules/genomics/sequencing).
 -   ^^Due^^:
 
 **Thursday** (Jan 25)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Genome assembly](/modules/genomics/genome-assembly)
 -   ^^Due^^:
 
 ### Week 4
 
 **Tuesday** (Jan 30)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Sequence alignment](/modules/genomics/sequence-alignment)
 -   ^^Due^^:
 
 **Thursday** (Feb 1)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Gene identification](/modules/genomics/gene-identification)
 -   ^^Due^^:
 
 ### Week 5
 
 **Tuesday** (Feb 6)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Gene annotation](/modules/genomics/gene-annotation)
 -   ^^Due^^:
 
 **Thursday** (Feb 8)
 
--   ^^Topics^^: Guest lecture from [Dr. Emily Kopania](https://ekopania.github.io/) on evolutionary genomics.
+-   ^^Topics^^: Guest lecture from [Dr. Emily Kopania](https://ekopania.github.io/) on [evolutionary genomics](/modules/genomics/evolutionary-genomics).
 -   ^^Due^^:
 
 ## [Module 03 - Transcriptomics][module 03]
