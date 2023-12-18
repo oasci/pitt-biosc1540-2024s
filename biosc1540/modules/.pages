@@ -1,9 +1,8 @@
 nav:
     - index.md
-    - prelims
-    - modeling
+    - 00 - Preliminaries: prelims
+    - 01 - Modeling: modeling
     - 02 - Genomics: genomics
-    - transcriptomics
-    - simulations
-    - cadd
-    - bonus
+    - 03 - Transcriptomics: transcriptomics
+    - 04 - Simulations: simulations
+    - 05 - CADD: cadd

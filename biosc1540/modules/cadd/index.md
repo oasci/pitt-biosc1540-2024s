@@ -1,3 +1,5 @@
 # 05 - CADD
 
-Drug discovery for SARS-CoV-2
+## Learning objectives
+
+## Additional resources

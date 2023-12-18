@@ -1,3 +1,5 @@
 # 04 - Simulations
 
-Untangling the dynamics of tau protein
+## Learning objectives
+
+## Additional resources

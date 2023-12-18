@@ -32,7 +32,7 @@
 
 **Tuesday** (Jan 23)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Learning scenario](/modules/genomics/learning-scenario), [sequencing](/modules/genomics/sequencing)
 -   ^^Due^^:
 
 **Thursday** (Jan 25)

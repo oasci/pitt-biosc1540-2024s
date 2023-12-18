@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-## Resources
+## Additional resources
 
 ### Textbooks
 
