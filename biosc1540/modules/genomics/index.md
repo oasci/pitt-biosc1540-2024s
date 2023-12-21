@@ -17,42 +17,28 @@
 
 ### Textbooks
 
--   [**[singh2024bioinformatics]**](https://www.routledge.com/Bioinformatics-and-Computational-Biology-Technological-Advancements-Applications/Singh-Saini-Comar-Junior/p/book/9781032361581) Singh, T. R., Saini, H., Comar Jr., M. (2024) *Bioinformatics and Computational Biology: Technological advancements, applications, and opportunities*. CRC Press.
-
-    In-depth writings on many applications across bioinformatics and computational biology.
+-   [**[singh2024bioinformatics]**](https://www.routledge.com/Bioinformatics-and-Computational-Biology-Technological-Advancements-Applications/Singh-Saini-Comar-Junior/p/book/9781032361581):[^1] In-depth writings on many applications across bioinformatics and computational biology.
     Focused primarily on algorithms used to approach certain tasks.
     Recommended if you are looking for information on a specific topic.
 
--   [**[low2023practical]**](https://doi.org/10.1142/12908) Low, L., Tammi, M. (2023) *Practical bioinformatics for beginners: From raw sequence analysis to machine learning applications*. World Scientific.
+-   [**[ismail2023bioinformatics]**](https://doi.org/10.1002/9781119698005):[^2] TODO:
 
-    Beginner-friendly textbook primarily focused on hands-on genomics with bash scripting and software.
+-   [**[low2023practical]**](https://doi.org/10.1142/12908):[^3] Beginner-friendly textbook primarily focused on hands-on genomics with bash scripting and software.
     Also has some chapters on other bioinformatics topics such as exome sequencing, transcriptomics, and metagenomics.
 
--   [**[ramsden2023bioinformatics]**](https://link.springer.com/book/10.1007/978-3-030-45607-8) Ramsden, J. (2023) *Bioinformatics: An introduction* (4th Ed.). Springer Nature.
-
-    Comprehensive text on many topics central to bioinformatics such as biology, information theory, and omics.
+-   [**[ramsden2023bioinformatics]**](https://link.springer.com/book/10.1007/978-3-030-45607-8):[^4] Comprehensive text on many topics central to bioinformatics such as biology, information theory, and omics.
     Text is more beginner to intermediate for non-biology topics.
     Also has applications that connect the material to real-world topics.
 
--   [**[roy2022handbook]**](https://link.springer.com/book/10.1007/978-981-16-9158-4) Roy, S. S., Taguchi, Y. H. (2022) *Handbook of machine learning applications for genomics*. Springer Nature.
+-   [**[roy2022handbook]**](https://link.springer.com/book/10.1007/978-981-16-9158-4):[^5] Essentially a collection of genomic studies that use machine learning.
 
-    Essentially a collection of genomic studies that use machine learning.
+-   [**[gagniuc2021algorithms]**](https://doi.org/10.1002/9781119698005):[^6] Explanation and introduction to several important algorithms and implementations in JavaScript.
 
--   [**[gagniuc2021algorithms]**](https://doi.org/10.1002/9781119698005) Gagniuc, P. A. (2021) *Algorithms in bioinformatics: Theory and implementation*. John Wiley & Sons.
+-   [**[lesk2014introduction]**](https://global.oup.com/academic/product/introduction-to-bioinformatics-9780198794141?cc=us&lang=en&):[^7] Bioinformatics from more of a biological perspective.
 
-    Explanation and introduction to several important algorithms and implementations in JavaScript.
+-   [**[griffiths2015introduction]**](https://www.abebooks.com/9781464109485/Introduction-Genetic-Analysis-Griffiths-Anthony-1464109486/plp):[^8] TODO:
 
--   [**[lesk2014introduction]**](https://global.oup.com/academic/product/introduction-to-bioinformatics-9780198794141?cc=us&lang=en&) Lesk, A. (2014) *Introduction to bioinformatics* (4th ed.). Oxford University Press.
-
-    Bioinformatics from more of a biological perspective.
-
--   [**[griffiths2015introduction]**](https://www.abebooks.com/9781464109485/Introduction-Genetic-Analysis-Griffiths-Anthony-1464109486/plp) Griffths, A. J. F., Wessler, S. R., Carrol, S. B., Doebley, J. (2015) *Introduction to genetic analysis*. Springer.
-
-    TODO:
-
--   [**[deonier2005computational]**](https://link.springer.com/book/10.1007/0-387-28807-4) Deonier, R. C., Waterman, M. S., Tavaré, S. (2005) *Computational genome analysis: An introduction*. Springer.
-
-    Great foundational textbook on genomics using R with a focus on statistics.
+-   [**[deonier2005computational]**](https://link.springer.com/book/10.1007/0-387-28807-4):[^9] Great foundational textbook on genomics using R with a focus on statistics.
 
 !!! tip
 
@@ -71,3 +57,13 @@
 [city tech]: http://www.citytech.cuny.edu/
 [openlab]: https://openlab.citytech.cuny.edu/
 [bio3352]: https://openlab.citytech.cuny.edu/bio3352f2019/
+
+[^1]: Singh, T. R., Saini, H., Comar Jr., M. (2024) *Bioinformatics and Computational Biology: Technological advancements, applications, and opportunities*. CRC Press.
+[^2]: Ismail, H. D. (2023) *Bioinformatics: A practical guide to next generation sequencing data analysis*. CRC Press.
+[^3]: Low, L., Tammi, M. (2023) *Practical bioinformatics for beginners: From raw sequence analysis to machine learning applications*. World Scientific.
+[^4]: Ramsden, J. (2023) *Bioinformatics: An introduction* (4th Ed.). Springer Nature.
+[^5]: Roy, S. S., Taguchi, Y. H. (2022) *Handbook of machine learning applications for genomics*. Springer Nature.
+[^6]: Gagniuc, P. A. (2021) *Algorithms in bioinformatics: Theory and implementation*. John Wiley & Sons.
+[^7]: Lesk, A. (2014) *Introduction to bioinformatics* (4th ed.). Oxford University Press.
+[^8]: Griffths, A. J. F., Wessler, S. R., Carrol, S. B., Doebley, J. (2015) *Introduction to genetic analysis*. Springer.
+[^9]: Deonier, R. C., Waterman, M. S., Tavaré, S. (2005) *Computational genome analysis: An introduction*. Springer.
