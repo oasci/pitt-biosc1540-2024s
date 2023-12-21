@@ -13,8 +13,16 @@
 
 -   [**[ismail2023bioinformatics]**](https://doi.org/10.1002/9781119698005):[^3] TODO:
 
+-   [**[low2023practical]**](https://www.worldscientific.com/worldscibooks/10.1142/12908):[^4] TODO:
+
+-   [**[ramsden2023bioinformatics]**](https://link.springer.com/book/10.1007/978-3-030-45607-8):[^5] Comprehensive text on many topics central to bioinformatics such as biology, information theory, and omics.
+    Text is more beginner to intermediate for non-biology topics.
+    Also has applications that connect the material to real-world topics.
+
 <!-- LINKS -->
 
 [^1]: Sobti, R. C., Mukesh, M., Sobti, A. (2023) *Genomics, proteomics, and biotechnology*. CRC Press.
 [^2]: Gonzaga-Jauregui, C., Lupski, J. R. (2021) *Genomics of rare diseases: Understanding disease genetics using genomic approaches*. Academic Press. doi: [10.1016/C2019-0-01157-0](https://doi.org/https://doi.org/10.1016/C2019-0-01157-0)
 [^3]: Ismail, H. D. (2023) *Bioinformatics: A practical guide to next generation sequencing data analysis*. CRC Press.
+[^4]: Low, L., Tammi, M. (2023) *Practical bioinformatics for beginners: From raw sequence analysis to machine learning applications*. World Scientific.
+[^5]: Ramsden, J. (2023) *Bioinformatics: An introduction* (4th Ed.). Springer Nature.
