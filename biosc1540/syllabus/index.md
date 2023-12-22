@@ -19,4 +19,14 @@ Both the biological and computational underpinnings of the methods will be addre
 
 ## Prerequisites
 
-You must have received a minimum grade of `C` in (BIOSC 0160 or 0165 or 0180 or 0191 or 0716) or (BIOL 0102 or 0120).
+You must have received a minimum grade of `C` in Foundations of Biology 2 (BIOSC 0160, 0165, or 0716).
+
+## Important dates
+
+-   **Jan 15:** Dr. Martin Luther King’s Birthday Observance (University Closed)
+-   **Jan 19:** Spring Term Add/Drop Period Ends
+-   **Jan 26:** Spring Term Extended Drop Period Ends (Undergraduate Students Only)
+-   **Mar 8:**
+    -   Final Exam Conflict Form Submission Deadline
+    -   Spring Term Deadline for Students to Submit Monitored Withdrawal Forms to Dean’s Office
+-   **Apr 19:** Spring Term: Last Day for Undergraduate Day Classes
