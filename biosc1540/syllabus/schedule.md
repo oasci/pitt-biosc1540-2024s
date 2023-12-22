@@ -32,7 +32,7 @@
 
 **Tuesday** (Jan 23)
 
--   ^^Topics^^: [Learning scenario](/modules/genomics/learning-scenario) and [sequencing](/modules/genomics/sequencing).
+-   ^^Topics^^: [Learning scenario](/modules/genomics/learning-scenario) and [sequencing](/modules/genomics/sequencing)
 -   ^^Due^^:
 
 **Thursday** (Jan 25)
@@ -70,36 +70,36 @@
 
 **Tuesday** (Feb 13)
 
--   ^^Topics^^: [Learning scenario](/modules/transcriptomics/learning-scenario)
+-   ^^Topics^^: [Learning scenario](/modules/transcriptomics/learning-scenario) and [sequencing](/modules/transcriptomics/sequencing)
 -   ^^Due^^:
 
 **Thursday** (Feb 15)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Read mapping](/modules/transcriptomics/read-mapping)
 -   ^^Due^^:
 
 ### Week 7
 
 **Tuesday** (Feb 20)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Quantification](/modules/transcriptomics/quantification)
 -   ^^Due^^:
 
 **Thursday** (Feb 22)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Differential gene expression analysis](/modules/transcriptomics/diff-expression)
 -   ^^Due^^:
 
 ### Week 8
 
 **Tuesday** (Feb 27)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Gene set enrichment analysis](/modules/transcriptomics/gene-set-enrichment)
 -   ^^Due^^:
 
 **Thursday** (Feb 29)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Spatial transcriptomics](/modules/transcriptomics/spatial)
 -   ^^Due^^:
 
 ## [Module 04 - Molecular simulations][module 04]

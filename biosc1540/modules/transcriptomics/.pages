@@ -1,3 +1,9 @@
 nav:
     - index.md
     - Learning scenario: learning-scenario.md
+    - Sequencing: sequencing.md
+    - Read mapping: read-mapping.md
+    - Quantification: quantification.md
+    - Differential gene expression analysis: diff-expression.md
+    - Gene set enrichment analysis: gene-set-enrichment.md
+    - Spatial transcriptomics: spatial.md

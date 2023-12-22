@@ -19,6 +19,13 @@
     Text is more beginner to intermediate for non-biology topics.
     Also has applications that connect the material to real-world topics.
 
+### Online
+
+-   [DIY Transcriptomics](https://diytranscriptomics.com/) is an open-educational resource for hands-on transcriptomics in R.
+-   [Omics tutorials](https://omicstutorials.com/)
+-   https://biocorecrg.github.io/PHINDaccess_RNAseq_2020/
+-   https://csoneson.github.io/teaching.html
+
 <!-- LINKS -->
 
 [^1]: Sobti, R. C., Mukesh, M., Sobti, A. (2023) *Genomics, proteomics, and biotechnology*. CRC Press.
