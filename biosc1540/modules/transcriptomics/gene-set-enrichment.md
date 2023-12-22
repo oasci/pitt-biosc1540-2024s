@@ -1,5 +1,0 @@
-# Sequencing
-
-TODO:
-
-<!-- LINKS -->

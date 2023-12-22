@@ -1,4 +1,4 @@
-# Sequencing
+# Spatial transcriptomics
 
 TODO:
 

@@ -4,6 +4,6 @@ nav:
     - Sequencing: sequencing.md
     - Read mapping: read-mapping.md
     - Quantification: quantification.md
-    - Differential gene expression analysis: diff-expression.md
-    - Gene set enrichment analysis: gene-set-enrichment.md
+    - Gene expression analysis: gene-expression-analysis.md
+    - Single-cell sequencing: single-cell.md
     - Spatial transcriptomics: spatial.md

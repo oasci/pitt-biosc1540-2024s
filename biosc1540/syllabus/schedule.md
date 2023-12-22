@@ -87,7 +87,7 @@
 
 **Thursday** (Feb 22)
 
--   ^^Topics^^: [Differential gene expression analysis](/modules/transcriptomics/diff-expression)
+-   ^^Topics^^: [Gene expression analysis](/modules/transcriptomics/gene-expression-analysis)
 -   ^^Due^^:
 
 ### Week 8
@@ -116,13 +116,13 @@
 -   ^^Topics^^:
 -   ^^Due^^:
 
-### Week 10
+### Spring break
 
 **Spring break**
 
 No class
 
-### Week 11
+### Week 10
 
 **Tuesday** (Mar 19)
 
@@ -134,7 +134,7 @@ No class
 -   ^^Topics^^:
 -   ^^Due^^:
 
-### Week 12
+### Week 11
 
 **Tuesday** (Mar 26)
 
@@ -148,7 +148,7 @@ No class
 
 ## [Module 05 - Computer-aided drug design][module 05]
 
-### Week 13
+### Week 12
 
 **Tuesday** (Apr 2)
 
@@ -160,7 +160,7 @@ No class
 -   ^^Topics^^:
 -   ^^Due^^:
 
-### Week 14
+### Week 13
 
 **Tuesday** (Apr 9)
 
@@ -172,7 +172,7 @@ No class
 -   ^^Topics^^:
 -   ^^Due^^:
 
-### Week 15
+### Week 14
 
 **Tuesday** (Apr 16)
 
