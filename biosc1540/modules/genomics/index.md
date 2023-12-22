@@ -49,6 +49,11 @@
 
 -   [EMBL's European Bioinformatics Institute][EMBL-EBI] provides [on-demand training materials][EMBL-EBI-training].
 -   [OpenLab][openlab] at [New York City College of Technology][city tech]  [BIO3352 Bioinformatics II, FA2019][bio3352].
+-   https://genomics.sschmeier.com/
+-   https://biocorecrg.github.io/CRG_Bioinformatics_for_Biologists_2021/
+-   [Computational Biology - Genomes, Networks, and Evolution (Kellis et al.)](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.))
+-   https://learngenomics.dev/
+-   https://csoneson.github.io/teaching.html
 
 <!-- LINKS -->
 
