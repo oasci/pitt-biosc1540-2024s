@@ -1,2 +1,10 @@
 nav:
     - index.md
+    - Computational biology: comp-bio.md
+    - Model framing: model-framing.md
+    - Python basics: python-basics.md
+    - Data manipulation: data-manipulation.md
+    - Plotting: plotting.md
+    - Clustering: clustering.md
+    - Regression: regression.md
+    - Neural networks: neural-networks.md

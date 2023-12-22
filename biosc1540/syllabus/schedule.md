@@ -6,24 +6,24 @@
 
 **Tuesday** (Jan 9)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Syllabus](/syllabus) and [computational biology](/modules/modeling/comp-bio)
 -   ^^Due^^:
 
 **Thursday** (Jan 11)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Model framing](/modules/modeling/model-framing) and [Python basics](/modules/modeling/python-basics)
 -   ^^Due^^:
 
 ### Week 2
 
 **Tuesday** (Jan 16)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Data manipulation](/modules/modeling/data-manipulation), [clustering](/modules/modeling/clustering), and [plotting](/modules/modeling/plotting).
 -   ^^Due^^:
 
 **Thursday** (Jan 18)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Regression](/modules/modeling/regression) and [neural networks](/modules/modeling/neural-networks).
 -   ^^Due^^:
 
 ## [Module 02 - Genomics][module 02]
