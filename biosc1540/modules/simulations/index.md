@@ -1,4 +1,4 @@
-# 04 - Simulations
+# 04 - Molecular simulations
 
 ## Learning objectives
 

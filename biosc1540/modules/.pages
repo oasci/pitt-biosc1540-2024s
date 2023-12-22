@@ -1,8 +1,8 @@
 nav:
     - index.md
     - 00 - Preliminaries: prelims
-    - 01 - Modeling: modeling
+    - 01 - Python and ML: python-ml
     - 02 - Genomics: genomics
     - 03 - Transcriptomics: transcriptomics
-    - 04 - Simulations: simulations
+    - 04 - Molecular simulations: simulations
     - 05 - CADD: cadd

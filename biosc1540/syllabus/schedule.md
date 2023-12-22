@@ -1,6 +1,6 @@
 # Schedule
 
-## [Module 01 - Modeling][module 01]
+## [Module 01 - Python and ML][module 01]
 
 ### Week 1
 
@@ -186,7 +186,7 @@ No class
 
 <!-- LINKS -->
 
-[module 01]: /modules/modeling
+[module 01]: /modules/python-ml
 [module 02]: /modules/genomics
 [module 03]: /modules/transcriptomics
 [module 04]: /modules/simulations
