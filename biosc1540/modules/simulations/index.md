@@ -2,4 +2,19 @@
 
 ## Learning objectives
 
-## Additional resources
+## Resources
+
+## Research labs
+
+The following academic labs perform research with molecular simulations of biomolecular systems at Pitt.
+
+-   [Dr. Jacob Durrant](https://www.biology.pitt.edu/person/jacob-durrant) in the Department of Biological Sciences.
+-   [Dr. David Koes](https://www.csb.pitt.edu/people/faculty/david-koes/) in Department of Computational and Systems Biology.
+-   [Dr. Mert Gur](https://www.csb.pitt.edu/people/faculty/mert-gur/) in Department of Computational and Systems Biology.
+-   [Dr. Lillian Chong](https://chonglab-pitt.github.io/) in Department of Chemistry.
+
+!!! info
+
+    If I am missing any labs, please submit a [merge request][merge-request]!
+
+[merge-request]: https://gitlab.com/oasci/courses/pitt/biosc1540-2024s/-/merge_requests

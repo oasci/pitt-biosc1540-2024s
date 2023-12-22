@@ -55,6 +55,23 @@
 -   https://learngenomics.dev/
 -   https://csoneson.github.io/teaching.html
 
+## Research labs
+
+The following academic labs perform genomics research at Pitt.
+
+-   [Dr. Nathan Clark](https://www.biology.pitt.edu/person/nathan-l-clark) in the Department of Biological Sciences.
+-   [Dr. Anne-Ruxandra Carvunis](https://carvunislab.csb.pitt.edu/) in the Department of Computational and Systems Biology.
+-   [Dr. Yu-Chih Chen](https://www.ycchenlab.org/) in the Department of Computational and Systems Biology.
+-   [Dr. Maria Chikina](http://chikinalab.org/) in the Department of Computational and Systems Biology.
+-   [Dr. Jishnu Das](https://www.jishnulab.org/) in Department of Immunology.
+-   [Dr. Dennis Kostka](https://www.kostkalab.net/) in Department of Developmental Biology.
+-   [Dr. Silvia Liu](https://sites.pitt.edu/~shl96/) in Department of Pathology.
+-   [Dr. Hatice Osmanbeyoglu](https://www.osmanbeyoglulab.com/) in Department of Biomedical Informatics.
+
+!!! info
+
+    If I am missing any labs, please submit a [merge request][merge-request]!
+
 <!-- LINKS -->
 
 [EMBL-EBI]: https://www.ebi.ac.uk/
@@ -62,6 +79,7 @@
 [city tech]: http://www.citytech.cuny.edu/
 [openlab]: https://openlab.citytech.cuny.edu/
 [bio3352]: https://openlab.citytech.cuny.edu/bio3352f2019/
+[merge-request]: https://gitlab.com/oasci/courses/pitt/biosc1540-2024s/-/merge_requests
 
 [^1]: Singh, T. R., Saini, H., Comar Jr., M. (2024) *Bioinformatics and Computational Biology: Technological advancements, applications, and opportunities*. CRC Press.
 [^2]: Ismail, H. D. (2023) *Bioinformatics: A practical guide to next generation sequencing data analysis*. CRC Press.

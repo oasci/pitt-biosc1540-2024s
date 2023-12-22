@@ -26,7 +26,26 @@
 -   https://biocorecrg.github.io/PHINDaccess_RNAseq_2020/
 -   https://csoneson.github.io/teaching.html
 
+## Research labs
+
+The following academic labs perform genomics research at Pitt.
+
+-   [Dr. Anne-Ruxandra Carvunis](https://carvunislab.csb.pitt.edu/) in the Department of Computational and Systems Biology.
+-   [Dr. Yu-Chih Chen](https://www.ycchenlab.org/) in the Department of Computational and Systems Biology.
+-   [Dr. Keisuke Ishihara](https://keisukeishihara.mystrikingly.com/) in the Department of Computational and Systems Biology.
+-   [Dr. Wayne Stallaert](https://www.stallaertlab.com/) in the Department of Computational and Systems Biology.
+-   [Dr. Shikhar Uttam](https://www.uttamlab.com/) in the Department of Computational and Systems Biology.
+-   [Dr. Jianhua Xing](https://www.csb.pitt.edu/Faculty/xing/) in the Department of Computational and Systems Biology.
+-   [Dr. Rachel Gottschalk](https://gottschalklab.com/) in the Department of Immunology.
+-   [Dr. Hatice Osmanbeyoglu](https://www.osmanbeyoglulab.com/) in Department of Biomedical Informatics.
+
+!!! info
+
+    If I am missing any labs, please submit a [merge request][merge-request]!
+
 <!-- LINKS -->
+
+[merge-request]: https://gitlab.com/oasci/courses/pitt/biosc1540-2024s/-/merge_requests
 
 [^1]: Sobti, R. C., Mukesh, M., Sobti, A. (2023) *Genomics, proteomics, and biotechnology*. CRC Press.
 [^2]: Gonzaga-Jauregui, C., Lupski, J. R. (2021) *Genomics of rare diseases: Understanding disease genetics using genomic approaches*. Academic Press. doi: [10.1016/C2019-0-01157-0](https://doi.org/https://doi.org/10.1016/C2019-0-01157-0)
