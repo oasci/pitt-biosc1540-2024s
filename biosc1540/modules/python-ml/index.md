@@ -2,6 +2,17 @@
 
 ## Learning objectives
 
+-   🧫 🧮 Explore the integration of computer science techniques to address complex problems in computational biology.
+-   🐍 Be comfortable the syntax and semantics of Python programming language.
+-   🐍 Apply Python skills to write and execute basic scripts, demonstrating fundamental programming competence.
+-   🐍 Demonstrate understanding of core Python concepts (variables, data types, control flow) for effective problem-solving.
+-   🐍 Proficiently use biological data using Python libraries, with a focus on Pandas and NumPy.
+-   🐍 Use Python libraries (e.g., Matplotlib, Seaborn) to create visually compelling plots that communicate complex biological data effectively.
+-   🐍 🧮 Develop an understanding of clustering concepts and implement common algorithms to identify patterns in biological data.
+-   🐍 🧮 Implement linear and non-linear regression models to capture relationships within biological variables.
+-   🐍 🤖 Acquire a solid understanding of neural network basics, including architecture and fundamental principles.
+-   🐍 🤖 Implement and deploy simple neural network models for classification and prediction, showcasing practical proficiency in neural network applications.
+
 ## Resources
 
 ## Research labs
