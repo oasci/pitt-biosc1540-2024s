@@ -2,6 +2,24 @@
 
 ## Learning objectives
 
+-   Define transcriptomics and its significance in computational biology.
+-   Describe the principles and workflow of RNA sequencing (RNA-Seq).
+-   Compare and contrast different next-generation sequencing (NGS) platforms.
+-   Explain the fundamentals of alignment algorithms used in read mapping.
+-   Apply read mapping tools and understand their parameters.
+-   Discuss challenges associated with read mapping, including spliced alignments.
+-   Define and differentiate metrics for transcript abundance estimation.
+-   Utilize tools for quantifying gene expression.
+-   Understand the importance of normalization and its application in gene expression analysis.
+-   Perform differential expression analysis using tools like DESeq2 and edgeR.
+-   Interpret statistical concepts in the context of differential gene expression.
+-   Conduct pathway analysis and interpret enrichment analysis results.
+-   Explain the principles of single-cell transcriptomics.
+-   Address challenges associated with single-cell data analysis.
+-   Define spatial transcriptomics and its relevance.
+-   Compare techniques and technologies used in spatial transcriptomics.
+-   Interpret results from real-world examples in computational biology.
+
 ## Resources
 
 ### Textbooks
