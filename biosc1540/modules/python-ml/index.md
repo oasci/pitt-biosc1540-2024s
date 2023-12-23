@@ -10,10 +10,15 @@
 -   🐍 Use Python libraries (e.g., Matplotlib, Seaborn) to create visually compelling plots that communicate complex biological data effectively.
 -   🐍 🧮 Develop an understanding of clustering concepts and implement common algorithms to identify patterns in biological data.
 -   🐍 🧮 Implement linear and non-linear regression models to capture relationships within biological variables.
--   🐍 🤖 Acquire a solid understanding of neural network basics, including architecture and fundamental principles.
--   🐍 🤖 Implement and deploy simple neural network models for classification and prediction, showcasing practical proficiency in neural network applications.
+-   🤖 Acquire a understanding of neural network basics, including architecture and fundamental principles.
 
 ## Resources
+
+-   [Google's ML crash course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+-   [Google's clustering course](https://developers.google.com/machine-learning/clustering)
+-   [Google's ML glossary](https://developers.google.com/machine-learning/glossary/fundamentals)
+-   [kaggle](https://www.kaggle.com/)
+-   [Machine learning mastery](https://machinelearningmastery.com/start-here/)
 
 ## Research labs
 
