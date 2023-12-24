@@ -1,3 +1,9 @@
 nav:
     - index.md
     - Learning scenario: learning-scenario.md
+    - drug-discovery-pipeline.md
+    - docking.md
+    - scoring-functions.md
+    - ligand-based-screening.md
+    - lead-optimization.md
+    - protein-protein-interactions.md

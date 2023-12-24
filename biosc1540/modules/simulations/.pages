@@ -1,3 +1,9 @@
 nav:
     - index.md
     - Learning scenario: learning-scenario.md
+    - Molecular simulations: molecular-simulations.md
+    - molecular-mechanics.md
+    - simulation-workflow.md
+    - structural-dynamic-analysis.md
+    - rare-event-sampling.md
+    - alchemical-simulations.md

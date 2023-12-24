@@ -108,12 +108,12 @@
 
 **Tuesday** (Mar 5)
 
--   ^^Topics^^: [Learning scenario](/modules/simulations/learning-scenario)
+-   ^^Topics^^: [Learning scenario](/modules/simulations/learning-scenario) and [types of molecular simulations](/modules/simulations/molecular-simulations)
 -   ^^Due^^:
 
 **Thursday** (Mar 7)
 
--   ^^Topics^^:
+-   ^^Topics^^: [molecular mechanics](/modules/simulations/molecular-mechanics)
 -   ^^Due^^:
 
 ### Spring break
@@ -126,24 +126,24 @@ No class
 
 **Tuesday** (Mar 19)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Simulation workflow](/modules/simulations/simulation-workflow)
 -   ^^Due^^:
 
 **Thursday** (Mar 21)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Structural and dynamic analysis](/modules/simulations/structural-dynamic-analysis)
 -   ^^Due^^:
 
 ### Week 11
 
 **Tuesday** (Mar 26)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Rare-event sampling](/modules/simulations/rare-event-sampling)
 -   ^^Due^^:
 
 **Thursday** (Mar 28)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Alchemical simulations](/modules/simulations/alchemical-simulations)
 -   ^^Due^^:
 
 ## [Module 05 - Computer-aided drug design][module 05]
@@ -152,36 +152,36 @@ No class
 
 **Tuesday** (Apr 2)
 
--   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario)
+-   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario) and [drug pipeline](/modules/cadd/drug-discovery-pipeline)
 -   ^^Due^^:
 
 **Thursday** (Apr 4)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Protein-ligand docking](/modules/cadd/docking)
 -   ^^Due^^:
 
 ### Week 13
 
 **Tuesday** (Apr 9)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Scoring functions](/modules/cadd/scoring-functions)
 -   ^^Due^^:
 
 **Thursday** (Apr 11)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Ligand-based screening](/modules/cadd/ligand-based-screening)
 -   ^^Due^^:
 
 ### Week 14
 
 **Tuesday** (Apr 16)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Lead optimization](/modules/cadd/lead-optimization)
 -   ^^Due^^:
 
 **Thursday** (Apr 18)
 
--   ^^Topics^^:
+-   ^^Topics^^: [Protein-protein interactions](/modules/cadd/protein-protein-interactions)
 -   ^^Due^^:
 
 <!-- LINKS -->
