@@ -31,8 +31,8 @@ It encourages timely submissions while acknowledging the influence of external c
 -   After this extension window, the assignment will not be accepted (i.e., zero points), but no extra credit would be lost.
 -   Exceptions for the loss of extra credit will be made in a similar procedure as the [attendance](../attendance) policy.
 
-Thus, I will not round up any final grades.
-If you submit every assignment on time, the extra credit is worth 5% of your total grade&mdash;equal to a bump to the next highest letter grade.
+If you submit every assignment on time, the extra credit is worth 2% of your total grade&mdash;equal to a bump to the next highest letter grade if you are close.
+Thus, I will not round up any final grades if requested.
 
 ## Midterm grades
 
