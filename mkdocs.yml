@@ -11,6 +11,7 @@ edit_uri: -/edit/main/biosc1540
 theme:
   name: material
   custom_dir: biosc1540/.overrides
+  logo: files/img/biosc-1540-logo-site.svg
   language: en
   palette:
     # Palette toggle for light mode
