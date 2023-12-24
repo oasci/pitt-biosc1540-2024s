@@ -122,7 +122,7 @@
 
 No class
 
-### Week 10
+### Week 11
 
 **Tuesday** (Mar 19)
 
@@ -134,7 +134,7 @@ No class
 -   ^^Topics^^: [Structural and dynamic analysis](/modules/simulations/structural-dynamic-analysis)
 -   ^^Due^^:
 
-### Week 11
+### Week 12
 
 **Tuesday** (Mar 26)
 
@@ -148,7 +148,7 @@ No class
 
 ## [Module 05 - Computer-aided drug design][module 05]
 
-### Week 12
+### Week 13
 
 **Tuesday** (Apr 2)
 
@@ -160,7 +160,7 @@ No class
 -   ^^Topics^^: [Protein-ligand docking](/modules/cadd/docking)
 -   ^^Due^^:
 
-### Week 13
+### Week 14
 
 **Tuesday** (Apr 9)
 
@@ -172,7 +172,7 @@ No class
 -   ^^Topics^^: [Ligand-based screening](/modules/cadd/ligand-based-screening)
 -   ^^Due^^:
 
-### Week 14
+### Week 15
 
 **Tuesday** (Apr 16)
 
