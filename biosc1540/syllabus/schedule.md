@@ -49,14 +49,14 @@
 
 **Thursday** (Feb 1)
 
--   ^^Topics^^: [Reference gene annotation](/modules/genomics/ref-gene-annotation)
+-   ^^Topics^^: [Gene annotation](/modules/genomics/gene-annotation)
 -   ^^Due^^:
 
 ### Week 5
 
 **Tuesday** (Feb 6)
 
--   ^^Topics^^: [De novo gene annotation](/modules/genomics/de-novo-gene-annotation)
+-   ^^Topics^^: Quiz
 -   ^^Due^^:
 
 **Thursday** (Feb 8)
@@ -94,12 +94,12 @@
 
 **Tuesday** (Feb 27)
 
--   ^^Topics^^: [Gene set enrichment analysis](/modules/transcriptomics/gene-set-enrichment)
+-   ^^Topics^^: [Spatial transcriptomics](/modules/transcriptomics/spatial)
 -   ^^Due^^:
 
 **Thursday** (Feb 29)
 
--   ^^Topics^^: [Spatial transcriptomics](/modules/transcriptomics/spatial)
+-   ^^Topics^^: Quiz
 -   ^^Due^^:
 
 ## [Module 04 - Molecular simulations][module 04]
@@ -143,7 +143,7 @@ No class
 
 **Thursday** (Mar 28)
 
--   ^^Topics^^: [Alchemical simulations](/modules/simulations/alchemical-simulations)
+-   ^^Topics^^: Quiz
 -   ^^Due^^:
 
 ## [Module 05 - Computer-aided drug design][module 05]
@@ -181,7 +181,7 @@ No class
 
 **Thursday** (Apr 18)
 
--   ^^Topics^^: [Protein-protein interactions](/modules/cadd/protein-protein-interactions)
+-   ^^Topics^^: Quiz
 -   ^^Due^^:
 
 <!-- LINKS -->

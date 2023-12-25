@@ -3,9 +3,53 @@
 The course will be out of **1000** points and letter grades will be assigned according the [Pitt's recommended scale](#scale).
 As the semester progresses, you will be able to clearly see your standing in the course.
 
+## Categories
+
+### Portfolio
+
+The main deliverable of this course is a computational biology portfolio for your assigned biological system.
+Each module will contribute a Jupyter Notebook section to your portfolio as [checkpoints](#checkpoints) with their unique criteria.
+At the end of the semester, your portfolio will be evaluated in its entirety with all module [checkpoints](#checkpoints).
+Thus, changes can be made to previous [checkpoints](#checkpoints) for the final submission.
+
+You are encouraged to publish your portfolio on your [GitHub](https://www.github.com) account.
+This will help you showcase your skills to your future employers or applications.
+
+### Checkpoints
+
+Instead of submitting one large [portfolio](#portfolio) at the end of the semester, you will periodically submit checkpoints at the end of each module.
+This allows you to receive feedback and spread out the [portfolio's](#portfolio) weight on your grade.
+
+### Assignments
+
+A variety of assignments will be given to provide you with an opportunity for hands-on practice of the concepts we cover in class.
+These will also help you work towards preparing your [checkpoints](#checkpoints) and [portfolio](#portfolio).
+[Gradescope](https://www.gradescope.com/) will be used to grade these assignments.
+
+### Quizzes
+
+To fairly assess your understanding of the material, we will have in-class assessments at the end of each module.
+
+### Participation
+
+We will periodically have some worksheets and TopHat questions during class.
+
 ## Distribution
 
-TODO:
+-   [**Portfolio**](#portfolio) (20% or 200 points)
+-   [**Checkpoints**](#checkpoints) (30% or 300 points)
+    -   Genomics (100 points)
+    -   Transcriptomics (100 points)
+    -   Molecular simulations (100 points)
+-   [**Assignments**](#assignments) (20% or 200 points)
+    -   To be determined
+-   [**Quizzes**](#quizzes) (20% or 200 points)
+    -   Genomics (50 points)
+    -   Transcriptomics (50 points)
+    -   Molecular simulations (50 points)
+    -   CADD (50 points)
+-   [**Participation**](#participation) (10% or 100 points)
+    -   To be determined
 
 ## Late assignments and extensions
 
@@ -30,9 +74,10 @@ It encourages timely submissions while acknowledging the influence of external c
     For example, if you submit an assignment worth 10 points one day late, your extra credit will be reduced by 2 points.
 -   After this extension window, the assignment will not be accepted (i.e., zero points), but no extra credit would be lost.
 -   Exceptions for the loss of extra credit will be made in a similar procedure as the [attendance](../attendance) policy.
+-   Once your extra credit becomes zero, no late assignments will be automatically accepted.
 
 If you submit every assignment on time, the extra credit is worth 2% of your total grade&mdash;equal to a bump to the next highest letter grade if you are close.
-Thus, I will not round up any final grades if requested.
+Thus, I will not round up any final grades.
 
 ## Midterm grades
 
