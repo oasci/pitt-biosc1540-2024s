@@ -15,10 +15,14 @@ Thus, changes can be made to previous [checkpoints](#checkpoints) for the final 
 You are encouraged to publish your portfolio on your [GitHub](https://www.github.com) account.
 This will help you showcase your skills to your future employers or applications.
 
+[More information](../assessments/portfolio.md)
+
 ### Checkpoints
 
 Instead of submitting one large [portfolio](#portfolio) at the end of the semester, you will periodically submit checkpoints at the end of each module.
 This allows you to receive feedback and spread out the [portfolio's](#portfolio) weight on your grade.
+
+[More information](../assessments/checkpoints/README.md)
 
 ### Assignments
 
@@ -26,13 +30,19 @@ A variety of assignments will be given to provide you with an opportunity for ha
 These will also help you work towards preparing your [checkpoints](#checkpoints) and [portfolio](#portfolio).
 [Gradescope](https://www.gradescope.com/) will be used to grade these assignments.
 
+[More information](../assessments/assignments/README.md)
+
 ### Quizzes
 
 To fairly assess your understanding of the material, we will have in-class assessments at the end of each module.
 
+[More information](../assessments/quizzes/README.md)
+
 ### Participation
 
 We will periodically have some worksheets and TopHat questions during class.
+
+[More information](../assessments/participation/README.md)
 
 ## Distribution
 
