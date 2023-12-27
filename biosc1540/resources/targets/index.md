@@ -8,7 +8,7 @@ A [Therapeutic Target Database search][ttd-search] was used to identify possible
 
     These need to be checked for quality.
 
--   Bacterial Fatty acid synthetase I; *Mycobacterium tuberculosis*; Target ID [T79068][T79068]; UniProt ID [P9WGR1][T79068-uniprot]; Taxon ID [83332][T79068-taxon]
+-   Bacterial Fatty acid synthetase I; *Mycobacterium tuberculosis*; Target ID [T79068][T79068]; UniProt ID [P9WGR1][T79068-uniprot]; Taxon ID [83332][T79068-taxon]; Gene ID [886523][T79068-gene]
 -   Streptococcus Topoisomerase IV A; *Streptococcus pneumoniae*; Target ID [T02228][T02228]; UniProt ID [P72525][T02228-uniprot]; Taxon ID [170187][T02228-taxon]
 -   Bacterial Oxoacyl-[acyl-carrier-protein] synthase II; *Escherichia coli*; Target ID [T82723][T82723]; UniProt ID [P0AAI5][T82723-uniprot]; Taxon ID [83333][T82723-taxon]
 -   Bacterial UDP-N-acetylglucosamine carboxyvinyltransferase; *Escherichia coli*; Target ID [T24634][T24634]; UniProt ID [P0A749][T24634-uniprot]; Taxon ID [83333][T24634-taxon]
@@ -29,6 +29,7 @@ A [Therapeutic Target Database search][ttd-search] was used to identify possible
 [T79068]: https://db.idrblab.net/ttd/data/target-binding-site/details/t79068
 [T79068-uniprot]: https://www.uniprot.org/uniprotkb/P9WGR1
 [T79068-taxon]: https://www.uniprot.org/taxonomy/83332
+[T79068-gene]: https://www.ncbi.nlm.nih.gov/gene/886523
 
 [T64410]: https://db.idrblab.net/ttd/data/target-binding-site/details/t64410
 [T64410-uniprot]: https://www.uniprot.org/uniprotkb/Q47746
