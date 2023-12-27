@@ -1,3 +1,4 @@
 nav:
     - README.md
+    - NCBI Gene: ncbi-gene
     - Sequence Read Archive (SRA): sra
