@@ -43,6 +43,7 @@
 -   [Omics tutorials](https://omicstutorials.com/)
 -   https://biocorecrg.github.io/PHINDaccess_RNAseq_2020/
 -   https://csoneson.github.io/teaching.html
+-   https://bioinformatics.ccr.cancer.gov/docs/b4b/
 
 ## Research labs
 
