@@ -2,4 +2,5 @@ nav:
     - README.md
     - NCBI Gene: ncbi-gene
     - Sequence Read Archive (SRA): sra
+    - Gene Expression Omnibus (GEO): geo
     - National Database of Antibiotic Resistant Organisms (NDARO): ndaro
