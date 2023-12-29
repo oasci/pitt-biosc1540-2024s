@@ -44,6 +44,7 @@
 -   https://biocorecrg.github.io/PHINDaccess_RNAseq_2020/
 -   https://csoneson.github.io/teaching.html
 -   https://bioinformatics.ccr.cancer.gov/docs/b4b/
+-   https://www.sc-best-practices.org
 
 ## Research labs
 
