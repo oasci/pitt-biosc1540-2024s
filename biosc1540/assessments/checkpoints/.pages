@@ -1,3 +1,5 @@
 nav:
     - README.md
+    - Genomics: genomics.md
+    - Transcriptomics: transcriptomics.md
     - ...
