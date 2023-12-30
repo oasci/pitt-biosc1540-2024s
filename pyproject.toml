@@ -25,6 +25,7 @@ python-dotenv = "^1.0.0"
 plotly = "^5.18.0"
 matplotlib = "^3.8.2"
 mkdocs-glightbox = "^0.3.5"
+seaborn = "^0.13.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.10.0"
