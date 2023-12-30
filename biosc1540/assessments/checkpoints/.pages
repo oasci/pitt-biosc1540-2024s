@@ -1,6 +1,6 @@
 nav:
     - README.md
     - Genomics: genomics
-    - Transcriptomics: transcriptomics.md
+    - Transcriptomics: transcriptomics
     - Computer-aided drug design: cadd.md
     - Molecular simulations: simulations.md
