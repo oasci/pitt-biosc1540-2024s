@@ -4,5 +4,5 @@ nav:
     - 01 - Python and ML: python-ml
     - 02 - Genomics: genomics
     - 03 - Transcriptomics: transcriptomics
-    - 04 - Molecular simulations: simulations
-    - 05 - CADD: cadd
+    - 04 - CADD: cadd
+    - 05 - Molecular simulations: simulations

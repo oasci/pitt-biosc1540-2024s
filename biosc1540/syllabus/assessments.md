@@ -50,14 +50,14 @@ We will periodically have some worksheets and TopHat questions during class.
 -   [**Checkpoints**](#checkpoints) (30% or 300 points)
     -   Genomics (100 points)
     -   Transcriptomics (100 points)
-    -   Molecular simulations (100 points)
+    -   CADD (100 points)
 -   [**Assignments**](#assignments) (20% or 200 points)
     -   To be determined
 -   [**Quizzes**](#quizzes) (20% or 200 points)
     -   Genomics (50 points)
     -   Transcriptomics (50 points)
-    -   Molecular simulations (50 points)
     -   CADD (50 points)
+    -   Molecular simulations (50 points)
 -   [**Participation**](#participation) (10% or 100 points)
     -   To be determined
 

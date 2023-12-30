@@ -102,18 +102,18 @@
 -   ^^Topics^^: Quiz
 -   ^^Due^^:
 
-## [Module 04 - Molecular simulations][module 04]
+## [Module 04 - Computer-aided drug design][module 04]
 
 ### Week 9
 
 **Tuesday** (Mar 5)
 
--   ^^Topics^^: [Learning scenario](/modules/simulations/learning-scenario) and [types of molecular simulations](/modules/simulations/molecular-simulations)
+-   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario) and [drug pipeline](/modules/cadd/drug-discovery-pipeline)
 -   ^^Due^^:
 
 **Thursday** (Mar 7)
 
--   ^^Topics^^: [molecular mechanics](/modules/simulations/molecular-mechanics)
+-   ^^Topics^^: [Protein-ligand docking](/modules/cadd/docking)
 -   ^^Due^^:
 
 ### Spring break
@@ -126,19 +126,19 @@ No class
 
 **Tuesday** (Mar 19)
 
--   ^^Topics^^: [Simulation workflow](/modules/simulations/simulation-workflow)
+-   ^^Topics^^: [Scoring functions](/modules/cadd/scoring-functions)
 -   ^^Due^^:
 
 **Thursday** (Mar 21)
 
--   ^^Topics^^: [Structural and dynamic analysis](/modules/simulations/structural-dynamic-analysis)
+-   ^^Topics^^: [Ligand-based screening](/modules/cadd/ligand-based-screening)
 -   ^^Due^^:
 
 ### Week 12
 
 **Tuesday** (Mar 26)
 
--   ^^Topics^^: [Rare-event sampling](/modules/simulations/rare-event-sampling)
+-   ^^Topics^^: [Lead optimization](/modules/cadd/lead-optimization)
 -   ^^Due^^:
 
 **Thursday** (Mar 28)
@@ -146,37 +146,37 @@ No class
 -   ^^Topics^^: Quiz
 -   ^^Due^^:
 
-## [Module 05 - Computer-aided drug design][module 05]
+## [Module 05 - Molecular simulations][module 05]
 
 ### Week 13
 
 **Tuesday** (Apr 2)
 
--   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario) and [drug pipeline](/modules/cadd/drug-discovery-pipeline)
+-   ^^Topics^^: [Learning scenario](/modules/simulations/learning-scenario) and [types of molecular simulations](/modules/simulations/molecular-simulations)
 -   ^^Due^^:
 
 **Thursday** (Apr 4)
 
--   ^^Topics^^: [Protein-ligand docking](/modules/cadd/docking)
+-   ^^Topics^^: [molecular mechanics](/modules/simulations/molecular-mechanics)
 -   ^^Due^^:
 
 ### Week 14
 
 **Tuesday** (Apr 9)
 
--   ^^Topics^^: [Scoring functions](/modules/cadd/scoring-functions)
+-   ^^Topics^^: [Simulation workflow](/modules/simulations/simulation-workflow)
 -   ^^Due^^:
 
 **Thursday** (Apr 11)
 
--   ^^Topics^^: [Ligand-based screening](/modules/cadd/ligand-based-screening)
+-   ^^Topics^^: [Structural and dynamic analysis](/modules/simulations/structural-dynamic-analysis)
 -   ^^Due^^:
 
 ### Week 15
 
 **Tuesday** (Apr 16)
 
--   ^^Topics^^: [Lead optimization](/modules/cadd/lead-optimization)
+-   ^^Topics^^: [Rare-event sampling](/modules/simulations/rare-event-sampling)
 -   ^^Due^^:
 
 **Thursday** (Apr 18)
@@ -189,5 +189,5 @@ No class
 [module 01]: /modules/python-ml
 [module 02]: /modules/genomics
 [module 03]: /modules/transcriptomics
-[module 04]: /modules/simulations
-[module 05]: /modules/cadd
+[module 04]: /modules/cadd
+[module 05]: /modules/simulations

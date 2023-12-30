@@ -1,4 +1,4 @@
-# 05 - Computer-aided drug design
+# 04 - Computer-aided drug design
 
 ## Learning objectives
 
