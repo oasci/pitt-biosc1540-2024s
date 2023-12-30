@@ -8,6 +8,11 @@
     <a href="https://www.biology.pitt.edu/">Department of Biological Sciences</a>
 </p>
 
+## Acknowledgements
+
+A huge thanks to Dr. Nathan Brouwer for putting years of effort into developing this course.
+I am very lucky to benefit from your insight and hard work and very appreciative that you switched to Python 🐍.
+
 ## License
 
 Code contained in this project is released under the [GPLv3 license][gplv3] as specified in `LICENSE.md`.
