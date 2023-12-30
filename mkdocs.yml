@@ -62,6 +62,10 @@ plugins:
   - search
   - material-plausible
   - table-reader
+  - mkdocs-jupyter:
+        no_input: False
+        include_requirejs: true
+        include_source: True
   - awesome-pages:
         collapse_single_pages: true
         strict: false
