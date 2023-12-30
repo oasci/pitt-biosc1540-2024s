@@ -45,6 +45,7 @@
 -   https://csoneson.github.io/teaching.html
 -   https://bioinformatics.ccr.cancer.gov/docs/b4b/
 -   https://www.sc-best-practices.org
+-   https://rnaseq.uoregon.edu/
 
 ## Research labs
 
