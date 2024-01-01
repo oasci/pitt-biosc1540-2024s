@@ -20,7 +20,7 @@ This is a Google voice number, so I will just deactivate or change it if this be
 I am generally in my office or somewhere on campus Monday through Friday from 8:00 am to 4:00 pm.
 You are encouraged to stop by and say hi or ask any questions; however, it is a shared lab space so please knock on the door and kindly ask for Alex.
 
-**Office:** 103C Clapp Hall
+**Office:** 103 Clapp Hall
 
 <div style="overflow:hidden;max-width:100%;width:400;height:400px;"><div id="canvas-for-googlemap" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Clapp+Hall,+Fifth+Avenue,+Pittsburgh,+PA,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="our-googlemap-code" href="https://kbj9qpmy.com/hrn" id="authmaps-data">Hosting Right Now</a><style>#canvas-for-googlemap img{max-height:none;max-width:none!important;background:none!important;}</style></div>
 
