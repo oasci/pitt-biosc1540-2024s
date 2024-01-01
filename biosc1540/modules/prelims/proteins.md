@@ -2,10 +2,10 @@
 
 Skills to develop:
 
-1. Describe the functions proteins perform in the cell and in tissues
-2. Discuss the relationship between amino acids and proteins
-3. Explain the four levels of protein organization
-4. Describe the ways in which protein shape and function are linked
+1.  Describe the functions proteins perform in the cell and in tissues
+2.  Discuss the relationship between amino acids and proteins
+3.  Explain the four levels of protein organization
+4.  Describe the ways in which protein shape and function are linked
 
 ## Introduction
 
