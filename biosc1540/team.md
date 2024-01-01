@@ -33,7 +33,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** Junior
 
-**Office hours:** TBD
+**Office hours:** Wednesday 11:00 am - 12:00 pm at TBD
 
 **Ask me about . . .**
 
@@ -97,7 +97,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** Senior
 
-**Office hours:** TBD
+**Office hours:** Wednesday 1:00 pm - 2:00 pm at TBD
 
 **Ask me about . . .**
 
