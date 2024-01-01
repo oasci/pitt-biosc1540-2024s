@@ -1,5 +1,9 @@
 # Assessments
 
+!!! danger "DRAFT"
+
+    This page is a work-in-progress and is subject to change at any moment.
+
 The course will be out of **1000** points and letter grades will be assigned according the [Pitt's recommended scale](#scale).
 As the semester progresses, you will be able to clearly see your standing in the course.
 

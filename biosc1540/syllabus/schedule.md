@@ -1,5 +1,9 @@
 # Schedule
 
+!!! danger "DRAFT"
+
+    This page is a work-in-progress and is subject to change at any moment.
+
 ## [Module 01 - Python and ML][module 01]
 
 ### Week 1

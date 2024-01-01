@@ -1,5 +1,9 @@
 # Sequence alignment
 
+!!! danger "DRAFT"
+
+    This page is a work-in-progress and is subject to change at any moment.
+
 ### Attribution
 
 Adapted from the Wikipedia article on [sequence alignment](https://en.wikipedia.org/wiki/Sequence_alignment), [multiple sequence alignment], [homology](https://en.wikipedia.org/wiki/Homology_(biology), and [consensus sequence](https://en.wikipedia.org/wiki/Consensus_sequence).
@@ -9,8 +13,8 @@ Adapted from the Wikipedia article on [sequence alignment](https://en.wikipedia.
 In bioinformatics, a **sequence alignment** is a way of arranging the 2 or more sequences of DNA, RNA, or protein to identify regions of similarity that may be a consequence of functional, structural, or evolutionary relationships between the sequences.  In many cases, the input set of query sequences are assumed to have an evolutionary relationship by which they share a linkage and are descended from a common ancestor. Aligned sequences of nucleotide or amino acid residues are typically represented as rows within a matrix. **Gaps** are inserted between the residues so that identical or similar characters are aligned in columns.  A **pairwise alignment** aligns two sequences, while a **multiple sequence alignment (MSA)** aligns three or more.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Histone_Alignment.png" width="50%" />
-  <figcaption> A multiple sequence alignment of mammalian histone proteins. Sequences are the amino acids for residues 120-180 of the proteins. Residues that are **conserved** across all sequences are highlighted in grey. Below the protein sequences is a key denoting conserved sequence (*), conservative mutations (:), semi-conservative mutations (.), and non-conservative mutations ( ). Conservative mutations result in amino acids that are chemically similar to each other, while non-conservative mutations result in chemically distance residues </figcaption>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Histone_Alignment.png" width="50%" />
+    <figcaption> A multiple sequence alignment of mammalian histone proteins. Sequences are the amino acids for residues 120-180 of the proteins. Residues that are **conserved** across all sequences are highlighted in grey. Below the protein sequences is a key denoting conserved sequence (*), conservative mutations (:), semi-conservative mutations (.), and non-conservative mutations ( ). Conservative mutations result in amino acids that are chemically similar to each other, while non-conservative mutations result in chemically distance residues </figcaption>
 </figure>
 
 ## Homology
@@ -32,8 +36,8 @@ A **highly conserved sequence** is one that has remained relatively unchanged fa
 Just because two sequences are similar does not mean that the sequence has been conserved and the sequences are homologs.  **Convergent evolution** can result in two un-related sequence becoming similar.  In some cases, two sequences can code for proteins or parts of proteins with similar function but with no shared evolutionary history.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Caspase-motif-alignment.png" width="80%" />
-  <figcaption> MSA of the seven Drosophila caspases colored by motifs.  Note the long stretches of gaps (-) required to align the sequences </figcaption>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Caspase-motif-alignment.png" width="80%" />
+    <figcaption> MSA of the seven Drosophila caspases colored by motifs.  Note the long stretches of gaps (-) required to align the sequences </figcaption>
 </figure>
 
 ### Global and local alignments
@@ -54,8 +58,8 @@ Multiple sequence alignment also refers to the process of aligning a set of sequ
 MSAs allow determination of a **consensus sequence**.  In molecular biology and bioinformatics, the consensus sequence (or canonical sequence) is the calculated sequence of most frequent residues, either nucleotide or amino acid, found at each position in a sequence alignment. Consensus sequences are often printed at the bottom of MSAs, and can be elaborated on using sequence logos (see below).  Developing software for pattern recognition is a major topic in genetics, molecular biology, and bioinformatics. Specific sequence motifs can function as regulatory sequences controlling biosynthesis, or as signal sequences that direct a molecule to a specific site within the cell or regulate its maturation. Since the regulatory function of these sequences is important, they are thought to be conserved across long periods of evolution. In some cases, evolutionary relatedness can be estimated by the amount of conservation of these sites.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Hemagglutinin-alignments.png" width="30%" />
-  <figcaption> MSA of 27 avian influenza hemagglutinin protein sequences colored by residue conservation (top) and residue properties (bottom) </figcaption>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Hemagglutinin-alignments.png" width="30%" />
+    <figcaption> MSA of 27 avian influenza hemagglutinin protein sequences colored by residue conservation (top) and residue properties (bottom) </figcaption>
 </figure>
 
 
@@ -70,18 +74,18 @@ Multiple sequence alignments can also be used to identify functionally important
 Below are examples of MSAs.  Try to determine what the color-coding indicates, how highly conserved regions are with the alignments, and if a consensus sequence is shown.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/RPLP0_90_ClustalW_aln.gif" width="50%" />
-  <figcaption> First 90 positions of a protein multiple sequence alignment of instances of the acidic ribosomal protein P0 (L10E) from several organisms. Generated with ClustalX. </figcaption>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/RPLP0_90_ClustalW_aln.gif" width="50%" />
+    <figcaption> First 90 positions of a protein multiple sequence alignment of instances of the acidic ribosomal protein P0 (L10E) from several organisms. Generated with ClustalX. </figcaption>
 </figure>
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/WPP_domain_alignment.PNG" width="70%" />
-  <figcaption> . </figcaption>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/WPP_domain_alignment.PNG" width="70%" />
+    <figcaption> . </figcaption>
 </figure>
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Muscle_alignment_view.png/1600px-Muscle_alignment_view.png" width="70%" />
-  <figcaption> These are sequences being compared in a MUSCLE multiple sequence alignment (MSA). Each sequence name (leftmost column) is from various louse species, while the sequences themselves are in the second column. Note the large insertion present in a single sequence </figcaption>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Muscle_alignment_view.png/1600px-Muscle_alignment_view.png" width="70%" />
+    <figcaption> These are sequences being compared in a MUSCLE multiple sequence alignment (MSA). Each sequence name (leftmost column) is from various louse species, while the sequences themselves are in the second column. Note the large insertion present in a single sequence </figcaption>
 </figure>
 
 ## Sequence logos
@@ -98,8 +102,8 @@ In bioinformatics, a **sequence logo** is a graphical representation of the 
 A sequence logo consists of a stack of letters at each position, though sometimes one letter is much larger than the others. The relative sizes of the letters indicate their frequency in the sequences. The total height of the letters depicts the information content of the position, with more informative positions giving researchers more confidence in conclusions about a position in the logo.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/KozakConsensus.jpg" width="50%" />
-  <figcaption> A sequence logo showing the most conserved bases around the initiation codon from all human mRNAs (Kozak consensus sequence). Note that the initiation codon is not drawn to scale. </figcaption>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/KozakConsensus.jpg" width="50%" />
+    <figcaption> A sequence logo showing the most conserved bases around the initiation codon from all human mRNAs (Kozak consensus sequence). Note that the initiation codon is not drawn to scale. </figcaption>
 </figure>
 
 ### Sequence motif
@@ -111,8 +115,8 @@ Similarity in a sequence alignment or sequence logo may be due to relatively rec
 A consensus logo is a simplified variation of a sequence logo. Like a sequence logo, a consensus logo is created from a collection of aligned protein or DNA/RNA sequences and conveys information about the conservation of each position of a sequence motif or sequence alignment. However, a consensus logo displays only conservation information, and not explicitly the frequency information of each nucleotide or amino acid at each position. Instead of a stack made of several characters, denoting the relative frequency of each character, the consensus logo depicts the degree of conservation of each position using the height of the consensus character at that position.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/LexA_gram_positive_bacteria_sequence_logo.png" width="50%" />
-  <figcaption> A consensus logo for the LexA-binding motif of several Gram-positive species.</figcaption>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/LexA_gram_positive_bacteria_sequence_logo.png" width="50%" />
+    <figcaption> A consensus logo for the LexA-binding motif of several Gram-positive species.</figcaption>
 </figure>
 
 

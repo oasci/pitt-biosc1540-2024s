@@ -1,5 +1,9 @@
 # Modules
 
+!!! danger "DRAFT"
+
+    This page is a work-in-progress and is subject to change at any moment.
+
 Content here provides curated resources relevant for learning course material.
 
 ## Learning objectives

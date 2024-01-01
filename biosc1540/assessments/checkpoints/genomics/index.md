@@ -1,5 +1,9 @@
 # Genomics
 
+!!! danger "DRAFT"
+
+    This page is a work-in-progress and is subject to change at any moment.
+
 Our first portfolio checkpoint will involve a genomics-themed project involving *Escherichia coli* (*E. coli*).
 In the realm of biomedical research, *E. coli* is a foundational model organism and is characterized by its genetic simplicity and relevance in elucidating fundamental biological processes.
 

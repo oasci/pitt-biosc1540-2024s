@@ -1,5 +1,9 @@
 # 02 - Genomics
 
+!!! danger "DRAFT"
+
+    This page is a work-in-progress and is subject to change at any moment.
+
 ## Learning objectives
 
 -   🧫 Define genomics and articulate its significance in the study of living organisms.

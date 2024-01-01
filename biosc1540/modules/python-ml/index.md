@@ -1,5 +1,9 @@
 # 01 - Python and machine learning
 
+!!! danger "DRAFT"
+
+    This page is a work-in-progress and is subject to change at any moment.
+
 ## Learning objectives
 
 -   🧫 🧮 Explore the integration of computer science techniques to address complex problems in computational biology.
