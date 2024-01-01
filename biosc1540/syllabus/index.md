@@ -26,7 +26,9 @@ You must have received a minimum grade of `C` in Foundations of Biology 2 (BIOSC
 -   **Jan 15:** Dr. Martin Luther King’s Birthday Observance (University Closed)
 -   **Jan 19:** Spring Term Add/Drop Period Ends
 -   **Jan 26:** Spring Term Extended Drop Period Ends (Undergraduate Students Only)
+-   **Feb 19:** Midterm grades must be Approved by Instructors by 11:59 pm.
 -   **Mar 8:**
     -   Final Exam Conflict Form Submission Deadline
     -   Spring Term Deadline for Students to Submit Monitored Withdrawal Forms to Dean’s Office
 -   **Apr 19:** Spring Term: Last Day for Undergraduate Day Classes
+-   **May 1:** Spring Term Grades Must Be Approved by Instructors by 11:59 pm.
