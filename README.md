@@ -16,18 +16,11 @@ I am very lucky to benefit from your insight and hard work and very appreciative
 ## License
 
 Code contained in this project is released under the [GPLv3 license][gplv3] as specified in `LICENSE.md`.
-All other data, information, documentation, and associated content provided within this project are released under the [CC BY-ND 4.0 license][cc-by-nd-4.0] as specified in `LICENSE_INFO.md`.
+All other data, information, documentation, and associated content provided within this project are released under the [CC BY-NC-SA 4.0 license][cc-by-nc-sa-4.0] as specified in `LICENSE_INFO.md`.
 
-### Permissive release
-
-On **January 1, 2025**, the above [GPLv3][gplv3] and [CC BY-ND 4.0][cc-by-nd-4.0] licenses are voided and superseded by the immediately following paragraph.
-
-> Code contained in this project is released under the [MIT license][mit] as specified in `LICENSE.md`.
-> All other data, information, documentation, and associated content provided within this project are released under the [CC BY 4.0 license][cc-by-4.0] as specified in `LICENSE_INFO.md`.
-
-A manual permissive release can be made by the maintainers whenever they see fit by updating the license files and updating this section.
+Why are we using copyleft licenses?
+Many people have dedicated countless hours to producing high-quality materials that are incorporated in this website.
+We want to ensure that students maintain access to these materials.
 
 [gplv3]: https://spdx.org/licenses/GPL-3.0-only.html
-[cc-by-nd-4.0]: https://creativecommons.org/licenses/by-nd/4.0/
-[mit]: https://spdx.org/licenses/MIT.html
-[cc-by-4.0]: https://creativecommons.org/licenses/by/4.0/
+[cc-by-nc-sa-4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
