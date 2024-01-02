@@ -16,7 +16,7 @@ You can text or call me at (412) 282-3467 for more instantaneous or time-sensiti
 Appropriate examples include asking if I am available to meet on short notice (e.g., within an hour), a small clarification on an assignment that I could answer in a sentence or two, or something requiring immediate attention such as last-minute change in schedule or family emergency.
 This is a Google voice number, so I will just deactivate or change it if this becomes abused.
 
-**Office hours:** Monday 10:00 - 11:00 am, Wednesday 11:00 am - 12:00 pm in 102 Clapp Hall.
+**Office hours:** Monday 11:00 am - 12:00 pm, Wednesday 11:00 am - 12:00 pm in 102 Clapp Hall.
 I am also available [by appointment][alex-calendar].
 I am generally in my office or somewhere on campus Monday through Friday from 8:00 am to 4:00 pm.
 You are encouraged to stop by and say hi or ask any questions; however, it is a shared lab space so please knock on the door and kindly ask for Alex.
