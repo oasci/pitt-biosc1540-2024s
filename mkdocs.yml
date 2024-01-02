@@ -6,6 +6,7 @@ site_author: OASCI
 repo_name: oasci/courses/pitt/biosc1540-2024s
 repo_url: https://gitlab.com/oasci/courses/pitt/biosc1540-2024s
 edit_uri: -/edit/main/biosc1540
+copyright: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> by OASCI
 
 # https://squidfunk.github.io/mkdocs-material/
 theme:
@@ -75,10 +76,19 @@ plugins:
   - glightbox
 
 extra:
-  generator: false
+  generator: true
   analytics:
     provider: plausible
     domain: pitt-biosc1540-2024s
+  social:
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/oasci
+      name: OASCI on GitLab
+    - icon: fontawesome/brands/github
+      link: https://github.com/oasci
+      name: OASCI on GitHub
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:us@oasci.org
 
 extra_css:
   - css/base.css
