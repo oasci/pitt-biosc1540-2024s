@@ -23,6 +23,7 @@
 -   [Google's ML glossary](https://developers.google.com/machine-learning/glossary/fundamentals)
 -   [kaggle](https://www.kaggle.com/)
 -   [Machine learning mastery](https://machinelearningmastery.com/start-here/)
+-   [learnpython.org](https://learnpython.org/)
 
 ## Research labs
 
