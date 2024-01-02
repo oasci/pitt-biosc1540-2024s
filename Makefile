@@ -1,5 +1,5 @@
 SHELL := /usr/bin/env bash
-PYTHON_VERSION := 3.11
+PYTHON_VERSION := 3.11.7
 PYTHON_VERSION_CONDENSED := 311
 PACKAGE_NAME := biosc1540-2024s
 CONDA_NAME := $(PACKAGE_NAME)-dev
@@ -16,7 +16,7 @@ conda-create:
 	- conda deactivate
 	conda remove -y -n $(CONDA_NAME) --all
 	conda create -y -n $(CONDA_NAME)
-	$(CONDA) conda install -y python=$(PYTHON_VERSION)
+	$(CONDA) conda install -y -c conda-forge python=$(PYTHON_VERSION)
 	$(CONDA) conda install -y conda-lock
 
 # Default packages that we always need.
