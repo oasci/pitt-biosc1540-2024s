@@ -4,6 +4,14 @@
 
     This page is a work in progress and is subject to change at any moment.
 
+!!! quote "**Figure XYZ**"
+
+    <figure markdown>
+    ![](https://geneviatechnologies.com/site/assets/files/4812/genetics_bioinformatics.png){ alight=left width=550 }
+    </figure>
+
+    Credit: [GeneVia Technologies](https://geneviatechnologies.com/research-areas/bioinformatics-for-genetics/).
+
 ## Learning objectives
 
 -   🧫 Define genomics and articulate its significance in the study of living organisms.
