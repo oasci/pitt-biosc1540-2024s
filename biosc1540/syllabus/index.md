@@ -2,7 +2,7 @@
 
 !!! danger "DRAFT"
 
-    This page is a work-in-progress and is subject to change at any moment.
+    This page is a work in progress and is subject to change at any moment.
 
 **Semester:** Spring 2024
 <br>

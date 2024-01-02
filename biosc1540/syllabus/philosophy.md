@@ -2,7 +2,7 @@
 
 !!! danger "DRAFT"
 
-    This page is a work-in-progress and is subject to change at any moment.
+    This page is a work in progress and is subject to change at any moment.
 
 This course, Computational Biology, provides a brief exploration of using computational approaches to gain insight into biological phenomena.
 Below is my course philosophy that drives my approach in how I teach this course.
@@ -31,7 +31,7 @@ If you start working ahead and then things change, that is your time lost.
 
 !!! danger "DRAFT"
 
-    This page is a work-in-progress and is subject to change at any moment.
+    This page is a work in progress and is subject to change at any moment.
 
 I will do my best to avoid mistakes, but they can happen.
 If you see grammar or spelling issues or confusing passages that don't have the DRAFT admonition, feel free to tell me about it so I can correct.

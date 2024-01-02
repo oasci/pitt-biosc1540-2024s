@@ -2,7 +2,7 @@
 
 !!! danger "DRAFT"
 
-    This page is a work-in-progress and is subject to change at any moment.
+    This page is a work in progress and is subject to change at any moment.
 
 In this course, we will be following a structured cadence that is designed to help you achieve your academic goals.
 The cadence of the course refers to the rhythm and pace at which we will cover the material.

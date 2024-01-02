@@ -2,7 +2,7 @@
 
 !!! danger "DRAFT"
 
-    This page is a work-in-progress and is subject to change at any moment.
+    This page is a work in progress and is subject to change at any moment.
 
 In the previous module, we used *Escherichia coli* (*E. coli*) as a model organism for combating antibiotic resistance.
 However, just because *E. coli* can be a bad guy by causing foodborne illnesses and gastrointestinal infections.

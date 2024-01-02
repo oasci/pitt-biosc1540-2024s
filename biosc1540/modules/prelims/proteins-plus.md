@@ -2,7 +2,7 @@
 
 !!! danger "DRAFT"
 
-    This page is a work-in-progress and is subject to change at any moment.
+    This page is a work in progress and is subject to change at any moment.
 
 The **tertiary structure** of a protein consists of the way a polypeptide is formed into complex three dimension shape.
 The tertiary structure will have a single polypeptide chain "backbone" with one or more protein secondary structures, such as **alpha helices**, **beta sheets**, or unstructured regions.

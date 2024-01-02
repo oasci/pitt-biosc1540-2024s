@@ -2,9 +2,9 @@
 
 !!! danger "DRAFT"
 
-    This page is a work-in-progress and is subject to change at any moment.
+    This page is a work in progress and is subject to change at any moment.
 
-This chapter reviews core concepts from first-year college biology related to nucleotides, nucleic acids, DNA, and RNA.
+This page reviews core concepts from first-year college biology related to nucleotides, nucleic acids, DNA, and RNA.
 
 Nucleic acids are the most important macromolecules for the continuity of life.
 They carry the genetic blueprint of a cell and carry instructions for the functioning of the cell.
@@ -17,13 +17,13 @@ It is found in the nucleus of eukaryotes and in the organelles, chloroplasts, an
 In prokaryotes, the DNA is not enclosed in a membranous envelope.
 
 The entire genetic content of a cell is known as its genome, and the study of genomes is genomics.
-In eukaryotic cells but not in prokaryotes, DNA forms a complex with histone proteins to form chromatin, the substance of eukaryotic chromosomes.
+In eukaryotic cells, DNA forms a complex with histone proteins to form chromatin, the substance of eukaryotic chromosomes.
 A chromosome may contain tens of thousands of genes.
 Many genes contain the information to make protein products; other genes code for RNA products.
 DNA controls all of the cellular activities by turning the genes "on" or "off."
 
 The other type of nucleic acid, RNA, is mostly involved in protein synthesis.
-The DNA molecules never leave the nucleus but instead use an intermediary to communicate with the rest of the cell.
+DNA molecules never leave the nucleus but instead use an intermediary to communicate with the rest of the cell.
 This intermediary is the messenger RNA (mRNA).
 Other types of RNA---like rRNA, tRNA, and microRNA---are involved in protein synthesis and its regulation.
 
