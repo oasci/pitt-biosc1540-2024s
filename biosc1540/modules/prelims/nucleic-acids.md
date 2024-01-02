@@ -60,7 +60,7 @@ The phosphate residue is attached to the hydroxyl group of the 5′ carbon of on
 The phosphodiester linkage is not formed by a simple dehydration reaction like the other linkages connecting monomers in macromolecules: its formation involves the removal of two phosphate groups.
 A polynucleotide may have thousands of such phosphodiester linkages.
 
-### Double-Helix Structure
+### Double-helix structure
 
 DNA has a double-helix structure (Figure 2).
 The sugar and phosphate lie on the outside of the helix, forming the backbone of the DNA.
