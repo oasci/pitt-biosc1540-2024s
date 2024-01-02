@@ -1,11 +1,5 @@
 # Nucleic Acids Review
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
-This page reviews core concepts from first-year college biology related to nucleotides, nucleic acids, DNA, and RNA.
-
 Nucleic acids are the most important macromolecules for the continuity of life.
 They carry the genetic blueprint of a cell and carry instructions for the functioning of the cell.
 
@@ -13,7 +7,7 @@ They carry the genetic blueprint of a cell and carry instructions for the functi
 
 The two main types of nucleic acids are deoxyribonucleic acid (DNA) and ribonucleic acid (RNA).
 DNA is the genetic material found in all living organisms, ranging from single-celled bacteria to multicellular mammals.
-It is found in the nucleus of eukaryotes and in the organelles, chloroplasts, and mitochondria.
+It is found in the nucleus of eukaryotes and the organelles, chloroplasts, and mitochondria.
 In prokaryotes, the DNA is not enclosed in a membranous envelope.
 
 The entire genetic content of a cell is known as its genome, and the study of genomes is genomics.
@@ -23,12 +17,12 @@ Many genes contain the information to make protein products; other genes code fo
 DNA controls all of the cellular activities by turning the genes "on" or "off."
 
 The other type of nucleic acid, RNA, is mostly involved in protein synthesis.
-DNA molecules never leave the nucleus but instead use an intermediary to communicate with the rest of the cell.
+DNA molecules never leave the nucleus but instead, use an intermediary to communicate with the rest of the cell.
 This intermediary is the messenger RNA (mRNA).
-Other types of RNA---like rRNA, tRNA, and microRNA---are involved in protein synthesis and its regulation.
+Other types of RNA&mdash;like rRNA, tRNA, and microRNA&mdash;are involved in protein synthesis and its regulation.
 
-DNA and RNA are made up of **monomers** known as nucleotides.
-The nucleotides combine with each other to form a **polymer** known as polynucleotide, DNA or RNA.
+DNA and RNA are made up of monomers known as nucleotides.
+The nucleotides combine to form a polymer known as polynucleotide, DNA, or RNA.
 Each nucleotide is made up of three components: a nitrogenous base, a pentose (five-carbon) sugar, and a phosphate group (Figure 1).
 Each nitrogenous base in a nucleotide is attached to a sugar molecule, which is attached to one or more phosphate groups.
 
@@ -45,7 +39,7 @@ Each nitrogenous base in a nucleotide is attached to a sugar molecule, which is 
     Two types of pentose are found in nucleotides, deoxyribose (found in DNA) and ribose (found in RNA).
     Deoxyribose is similar in structure to ribose, but it has an H instead of an OH at the 2′ position.
     Bases can be divided into two categories: purines and pyrimidines.
-    Purines have a double ring structure, and pyrimidines have a single ring.
+    Purines have a double-ring structure, and pyrimidines have a single ring.
     Source: LibreText: /bio.libretexts.org/@api/deki/files/965/Figure_03_05_01.jpg?revision=1
 
 The nitrogenous bases, important components of nucleotides, are organic molecules and are so named because they contain carbon and nitrogen.
@@ -56,14 +50,14 @@ Adenine and guanine are classified as purines.
 The primary structure of a purine is two carbon-nitrogen rings.
 Cytosine, thymine, and uracil are classified as pyrimidines which have a single carbon-nitrogen ring as their primary structure (Figure 1).
 Each of these basic carbon-nitrogen rings has different functional groups attached to it.
-In molecular biology shorthand, the nitrogenous bases are simply known by their symbols A, T, G, C, and U.
-DNA contains A, T, G, and C whereas RNA contains A, U, G, and C.
+In molecular biology shorthand, the nitrogenous bases are simply known by their symbols `A`, `T`, `G`, `C`, and `U`.
+DNA contains `A`, `T`, `G`, and `C` whereas RNA contains `A`, `U`, `G`, and `C`.
 
 The pentose sugar in DNA is deoxyribose, and in RNA, the sugar is ribose (Figure 1).
 The difference between the sugars is the presence of the hydroxyl group on the second carbon of the ribose and hydrogen on the second carbon of the deoxyribose.
 The carbon atoms of the sugar molecule are numbered as 1′, 2′, 3′, 4′, and 5′ (1′ is read as "one prime").
-The phosphate residue is attached to the hydroxyl group of the 5′ carbon of one sugar and the hydroxyl group of the 3′ carbon of the sugar of the next nucleotide, which forms a 5′--3′ phosphodiester linkage.
-The phosphodiester linkage is not formed by simple dehydration reaction like the other linkages connecting monomers in macromolecules: its formation involves the removal of two phosphate groups.
+The phosphate residue is attached to the hydroxyl group of the 5′ carbon of one sugar and the hydroxyl group of the 3′ carbon of the sugar of the next nucleotide, which forms a 5′&ndash;3′ phosphodiester linkage.
+The phosphodiester linkage is not formed by a simple dehydration reaction like the other linkages connecting monomers in macromolecules: its formation involves the removal of two phosphate groups.
 A polynucleotide may have thousands of such phosphodiester linkages.
 
 ### Double-Helix Structure
@@ -77,21 +71,44 @@ The two strands of the helix run in opposite directions, meaning that the 5′ c
 
 !!! quote "**Figure 2**"
 
-    <figure markdown>
-    ![](https://bio.libretexts.org/@api/deki/files/966/Figure_03_05_02.jpg){ alight=left width=500 }
-    </figure>
+    <div id="dna-view" class="mol-container"></div>
+    <script>
+        var uri = 'https://files.rcsb.org/view/8G9O.pdb';
+        jQuery.ajax( uri, {
+            success: function(data) {
+                // https://3dmol.org/doc/GLViewer.html
+                let viewer = $3Dmol.createViewer(
+                    document.querySelector('#dna-view'),
+                    { backgroundAlpha: '0.0' }
+                );
+                viewer.addModel(data, "pdb");
+                viewer.setStyle({}, {});
+                viewer.setStyle({chain: 'C'}, {'stick': {}});
+                viewer.setStyle({chain: 'D'}, {'stick': {}});
+                // viewer.zoomTo({chain: 'D'})
+                viewer.setView([ -161.09883216783226, -166.75760606060624, -143.52469930069938, -38.2880908209946, 0.5487204759120768, 0.03371018933075234, 0.12052074451927908, -0.8265858773234799 ]);
+                viewer.setClickable({}, true, function(atom,viewer,event,container) {
+                    console.log(viewer.getView());
+                });
+                viewer.render();
+            },
+            error: function(hdr, status, err) {
+                console.error( "Failed to load " + uri + ": " + err );
+            },
+        });
+    </script>
 
     Native DNA is an antiparallel double helix.
-    The phosphate backbone (indicated by the curvy lines) is on the outside, and the bases are on the inside.
+    The phosphate backbone is on the outside, and the bases are on the inside.
     Each base from one strand interacts via hydrogen bonding with a base from the opposing strand.
-    (credit: Jerome Walker/Dennis Myts)
+    PDB ID: [8G9O](https://www.rcsb.org/structure/8G9O)
 
 Only certain types of base pairing are allowed.
 For example, a certain purine can only pair with a certain pyrimidine.
-This means A can pair with T, and G can pair with C, as shown in Figure 3.
+This means `A` can pair with `T`, and `G` can pair with `C`, as shown in Figure 3.
 This is known as the base complementary rule.
 In other words, the DNA strands are complementary to each other.
-If the sequence of one strand is AATTGGCC, the complementary strand would have the sequence TTAACCGG.
+If the sequence of one strand is `AATTGGCC`, the complementary strand would have the sequence `TTAACCGG`.
 During DNA replication, each strand is copied, resulting in a daughter DNA double helix containing one parental DNA strand and a newly synthesized strand.
 
 !!! quote "**Figure 3**"
@@ -100,7 +117,7 @@ During DNA replication, each strand is copied, resulting in a daughter DNA doubl
     ![](https://bio.libretexts.org/@api/deki/files/967/Figure_03_05_03.jpg){ alight=left width=500 }
     </figure>
 
-    In a double stranded DNA molecule, the two strands run antiparallel to one another so that one strand runs 5′ to 3′ and the other 3′ to 5′.
+    In a double-stranded DNA molecule, the two strands run antiparallel to one another so that one strand runs 5′ to 3′ and the other 3′ to 5′.
     The phosphate backbone is located on the outside, and the bases are in the middle.
     Adenine forms hydrogen bonds (or base pairs) with thymine, and guanine base pairs with cytosine.
 
@@ -108,7 +125,7 @@ During DNA replication, each strand is copied, resulting in a daughter DNA doubl
 
 Ribonucleic acid, or RNA, is mainly involved in the process of protein synthesis under the direction of DNA.
 RNA is usually single-stranded and is made of ribonucleotides that are linked by phosphodiester bonds.
-A ribonucleotide in the RNA chain contains ribose (the pentose sugar), one of the four nitrogenous bases (A, U, G, and C), and the phosphate group.
+A ribonucleotide in the RNA chain contains ribose (the pentose sugar), one of the four nitrogenous bases (`A`, `U`, `G`, and `C`), and the phosphate group.
 
 There are four major types of RNA:
 
@@ -117,11 +134,11 @@ There are four major types of RNA:
 1.  transfer RNA (tRNA)
 1.  microRNA (miRNA).
 
-The first, mRNA,carries the message from DNA, which controls all of the cellular activities in a cell.
+The first, mRNA, carries the message from DNA, which controls all of the cellular activities in a cell.
 If a cell requires a certain protein to be synthesized, the gene for this product is turned "on" and the messenger RNA is synthesized in the nucleus.
 The RNA base sequence is complementary to the coding sequence of the DNA from which it has been copied.
-However, in RNA, the base T is absent and U is present instead.
-If the DNA strand has a sequence AATTGCGC, the sequence of the complementary RNA is UUAACGCG.
+However, in RNA, the base `T` is absent and `U` is present instead.
+If the DNA strand has a sequence `AATTGCGC`, the sequence of the complementary RNA is `UUAACGCG`.
 In the cytoplasm, the mRNA interacts with ribosomes and other cellular machinery (Figure 4).
 
 !!! quote "**Figure 4**"
@@ -141,9 +158,9 @@ Ribosomal RNA (rRNA) is a major constituent of ribosomes on which the mRNA binds
 The rRNA ensures the proper alignment of the mRNA and the ribosomes; the rRNA of the ribosome also has an enzymatic activity (peptidyl transferase) and catalyzes the formation of the peptide bonds between two aligned amino acids.
 Transfer RNA (tRNA) is one of the smallest of the four types of RNA, usually 70--90 nucleotides long.
 It carries the correct amino acid to the site of protein synthesis.
-It is the base pairing between the tRNA and mRNA that allows for the correct amino acid to be inserted in the polypeptide chain.
+It is the base pairing between the tRNA and mRNA that allows for the correct amino acid to be inserted into the polypeptide chain.
 microRNAs are the smallest RNA molecules and their role involves the regulation of gene expression by interfering with the expression of certain mRNA messages.
-Table 3.5.1 below summarizes features of DNA and RNA.
+Table 3.5.1 below summarizes the features of DNA and RNA.
 
 **Table 1** Features of DNA and eukaryotic mRNA.
 
@@ -156,11 +173,11 @@ Table 3.5.1 below summarizes features of DNA and RNA.
 | Pyrimidines | Cytosine, thymine | Cytosine, uracil |
 | Purines | Adenine, guanine | Adenine, guanine   |
 
-Even though the RNA is single stranded, most RNA types show extensive intramolecular base pairing between complementary sequences, creating a predictable three-dimensional structure essential for their function.
+Even though the RNA is single-stranded, most RNA types show extensive intramolecular base pairing between complementary sequences, creating a predictable three-dimensional structure essential for their function.
 
 As you have learned, information flow in an organism takes place from DNA to RNA to protein.
 DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation.
-This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections.
+This is known as the Central Dogma of Life, which holds for all organisms; however, exceptions to the rule occur in connection with viral infections.
 
 ## Summary
 
@@ -175,36 +192,6 @@ Messenger RNA (mRNA) is copied from the DNA, is exported from the nucleus to the
 Ribosomal RNA (rRNA) is a part of the ribosomes at the site of protein synthesis, whereas transfer RNA (tRNA) carries the amino acid to the site of protein synthesis.
 microRNA regulates the use of mRNA for protein synthesis.
 
-## Glossary
+## Acknowledgements
 
--   **deoxyribonucleic acid (DNA)**: double-helical molecule that carries the hereditary information of the cell
--   **messenger RNA (mRNA)**: DNA that carries information from DNA to ribosomes during protein synthesis
--   **monomer**: Subunit of a polymer
--   **nucleic acid**: biological macromolecule that carries the genetic blueprint of a cell
-and carries instructions for the functioning of the cell
--   **nucleotide**: monomer of nucleic acids; contains a pentose sugar, one or more phosphate groups, and a nitrogenous base
--   **phosphodiester**: linkage covalent chemical bond that holds together the polynucleotide
-chains with a phosphate group linking two pentose sugars of neighboring nucleotides
--   **polynucleotide**: long chain of nucleotides
--   **purine**: type of nitrogenous base in DNA and RNA; adenine and guanine are
--   **purines, pyrimidine**: type of nitrogenous base in DNA and RNA; cytosine, thymine, and uracil
-are pyrimidines
--   **ribonucleic acid (RNA)**: single-stranded, often internally base paired, molecule that is
-involved in protein synthesis
--   **ribosomal RNA (rRNA)**: RNA that ensures the proper alignment of the mRNA and the ribosomes
-during protein synthesis and catalyzes the formation of the peptide linkage
--   **transcription**: process through which messenger RNA forms on a template of DNA
--   **transfer RNA (tRNA)**: RNA that carries activated amino acids to the site of protein
-synthesis on the ribosome
--   **translation**: process through which RNA directs the formation of protein
-
-## Contributors and Attributions
-
-**Authors**: OpenStax / Libretext.
- Formatted in markdown by Nathan Brouwer under the Creative Commons Attribution License 4.0 license.
-
-This chapter was adapted from [LibreText General Biology](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)), Chapter 3, Section 3.5: [Nucleic Acids](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.5%3A_Nucleic_Acids).
- The LibreText book is based on  [OpenStax Biology 2nd edition](https://openstax.org/details/books/biology-2e), Chapter 3, Section 3.5: [Nucleic Acids](https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids).
- A full list of authors is found under the **Contributors and Attributions** section at the end of this document.
-
-Connie Rye (East Mississippi Community College), Robert Wise (University of Wisconsin, Oshkosh), Vladimir Jurukovski (Suffolk County Community College), Jean DeSaix (University of North Carolina at Chapel Hill), Jung Choi (Georgia Institute of Technology), Yael Avissar (Rhode Island College) among other contributing authors. Original content by OpenStax (CC BY 4.0; Download for free at [https://openstax.org/books/biology/pages/1-introduction](https://openstax.org/books/biology/pages/1-introduction)).
+This content was adapted with permission from from [LibreText General Biology](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)), Chapter 3, Section 3.5: [Nucleic Acids](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.5%3A_Nucleic_Acids).
