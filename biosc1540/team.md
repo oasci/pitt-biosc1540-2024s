@@ -46,7 +46,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** Junior
 
-**Office hours:** Wednesday 11:00 am - 12:00 pm at TBD
+**Office hours:** TBD
 
 **Ask me about . . .**
 
@@ -62,7 +62,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** Senior
 
-**Office hours:** Monday 1:00 - 2:00 pm at TBD
+**Office hours:** Wednesday 1:00 - 2:00 pm in L1 Clapp Hall
 
 **Ask me about . . .**
 
@@ -94,7 +94,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** Junior
 
-**Office hours:** Tuesday 1:00 - 2:00 pm at TBD
+**Office hours:** Tuesday 1:00 - 2:00 pm in L1 Clapp Hall
 
 **Ask me about . . .**
 
@@ -110,7 +110,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** Senior
 
-**Office hours:** Wednesday 1:00 pm - 2:00 pm at TBD
+**Office hours:** Wednesday 1:00 pm - 2:00 pm in L1 Clapp Hall
 
 **Ask me about . . .**
 
