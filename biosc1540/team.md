@@ -50,7 +50,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Ask me about . . .**
 
-**Academic extracurriculars . . .**
+**Academic trajectory . . .**
 
 ### Gabe Medeiros
 
@@ -66,7 +66,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Ask me about . . .**
 
-**Academic extracurriculars . . .**
+**Academic trajectory . . .**
 
 ### James Liu
 
@@ -82,7 +82,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Ask me about . . .**
 
-**Academic extracurriculars . . .**
+**Academic trajectory . . .**
 
 ### Rushali Patel
 
@@ -98,7 +98,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Ask me about . . .**
 
-**Academic extracurriculars . . .**
+**Academic trajectory . . .**
 
 ### Shreya Kundu
 
@@ -114,7 +114,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Ask me about . . .**
 
-**Academic extracurriculars . . .**
+**Academic trajectory . . .**
 
 <!-- LINKS -->
 
