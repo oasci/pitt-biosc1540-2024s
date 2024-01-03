@@ -44,7 +44,7 @@ To fairly assess your understanding of the material, we will have in-class asses
 
 ### Participation
 
-We will periodically have some worksheets and TopHat questions during class.
+We will frequently have worksheets, in-class activities, and TopHat questions during class.
 
 [More information](../assessments/participation/README.md)
 
