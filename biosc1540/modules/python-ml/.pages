@@ -6,5 +6,5 @@ nav:
     - Data manipulation: data-manipulation.md
     - Plotting: plotting.md
     - Clustering: clustering.md
-    - Regression: regression.md
+    - Regression: regression
     - Neural networks: neural-networks.md
