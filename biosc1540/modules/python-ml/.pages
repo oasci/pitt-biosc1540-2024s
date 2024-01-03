@@ -5,6 +5,7 @@ nav:
     - Python basics: python-basics
     - Data manipulation: data-manipulation.md
     - Plotting: plotting.md
-    - Clustering: clustering.md
     - Regression: regression
+    - Classification: classification
+    - Clustering: clustering.md
     - Neural networks: neural-networks.md
