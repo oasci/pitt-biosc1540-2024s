@@ -4,6 +4,8 @@
 
 ![Alex Maldonado](/files/img/team/alex.jpg){ width=200 }
 
+**Address me as:** Alex
+
 **Pronouns:** he/him/his
 
 **Major:** BSE in Chemical Engineering (Western Michigan University) and PhD in Chemical Engineering (University of Pittsburgh)
@@ -40,6 +42,8 @@ Contact information can be found on [Canvas][canvas].
 
 [Image]
 
+**Address me as:**
+
 **Pronouns:**
 
 **Major:** Microbiology and Chemistry
@@ -55,6 +59,8 @@ Contact information can be found on [Canvas][canvas].
 ### Gabe Medeiros
 
 [Image]
+
+**Address me as:**
 
 **Pronouns:**
 
@@ -72,6 +78,8 @@ Contact information can be found on [Canvas][canvas].
 
 [Image]
 
+**Address me as:**
+
 **Pronouns:**
 
 **Major:** Computational Biology and Chemistry
@@ -88,6 +96,8 @@ Contact information can be found on [Canvas][canvas].
 
 [Image]
 
+**Address me as:**
+
 **Pronouns:**
 
 **Major:** Computational Biology
@@ -103,6 +113,8 @@ Contact information can be found on [Canvas][canvas].
 ### Shreya Kundu
 
 [Image]
+
+**Address me as:**
 
 **Pronouns:**
 
