@@ -21,16 +21,17 @@ Each module (except [Python and ML](/modules/python-ml/)) will follow the same c
 ## Week
 
 -   **Monday**
+    -   [Alex's][alex] office hours at 11:00 am.
     -   Checkpoints are due at 11:59 pm.
-    -   [Alex][alex] and [Gabe's][gabe] office hours.
 -   **Tuesday**
-    -   Lecture.
-    -   [Rushali's][rushali] office hours.
+    -   Lecture at 9:30 am.
+    -   [James][james] and [Rushali's][rushali] office hours at 1:00 pm.
 -   **Wednesday**
+    -   [Alex's][alex] office hours at 11:00 am.
+    -   [Gabe][gabe] and [Shreya's][shreya] office hours at 1:00 pm.
     -   Previous lecture's materials are finalized.
-    -   [Alex][alex], [Afifa][afifa] and [Shreya's][shreya] office hours.
 -   **Thursday**
-    -   Lecture.
+    -   Lecture at 9:30 am.
     -   Last week's [assignments][assignments] are due at 11:59 pm.
 -   **Friday**
     -   [Assignments][assignments] for upcoming Thursday are released.
@@ -62,4 +63,5 @@ Activities need to be submitted by 11:00 am.
 [afifa]: /team#afifa-farooqi
 [rushali]: /team#rushali-patel
 [shreya]: /team#shreya-kundu
+[james]: /team#james-liu
 [alex]: /team#alex-maldonado

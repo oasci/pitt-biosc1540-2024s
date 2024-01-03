@@ -86,7 +86,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** Senior
 
-**Office hours:** TBD
+**Office hours:** Tuesday 1:00 - 2:00 pm in L1 Clapp Hall
 
 **Ask me about . . .**
 
