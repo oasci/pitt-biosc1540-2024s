@@ -8,10 +8,21 @@
     <a href="https://www.biology.pitt.edu/">Department of Biological Sciences</a>
 </p>
 
+Computational Biology offers a systematic examination of foundational concepts, comprehensive proficiency in Python applications, and an in-depth understanding of the major fields of computational biology.
+Students learn about genomics, transcriptomics, computer-aided drug design, and molecular simulations in the context of current research applications.
+We focus primarily on hands-on learning with projects centered around *E. coli* as our computational model organism.
+Ultimately, this course is the first stepping stone of undergraduates at the University of Pittsburgh before taking Genomics (BIOSC 1542) and/or Simulation and Modeling (BIOSC 1544).
+
+## Contributions
+
+Any and all comments, questions, concerns, feedback, or suggestions are welcome!
+This website is stored on [GitLab][gitlab] and mirrored on [GitHub][github]; you can submit an issue or merge request on either site.
+
 ## Acknowledgements
 
 A huge thanks to Dr. Nathan Brouwer for putting years of effort into developing this course.
-I am very lucky to benefit from your insight and hard work and very appreciative that you switched to Python 🐍.
+I am lucky to benefit from your insight and hard work in previous semesters.
+(I am also extremely appreciative that you switched to Python 🐍 before I taught this course.)
 
 ## License
 
@@ -35,6 +46,8 @@ Additionally, instructors may leverage web analytics as evidence of their commit
 We track website traffic using [plausible][plausible] which is privacy friendly, uses no cookies, and is compliant with [GDPR][gdpr], [CCPA][ccpa] and [PECR][pecr].
 We also share [this website's analytics with you][plausible-link] for additional transparency.
 
+[gitlab]: https://gitlab.com/oasci/courses/pitt/biosc1540-2024s
+[github]: https://github.com/oasci/pitt-biosc1540-2024s-website
 [gplv3]: https://spdx.org/licenses/GPL-3.0-only.html
 [cc-by-nc-sa-4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [plausible]: https://plausible.io
