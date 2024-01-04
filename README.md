@@ -8,7 +8,7 @@
     <a href="https://www.biology.pitt.edu/">Department of Biological Sciences</a>
 </p>
 
-Computational Biology offers a systematic examination of foundational concepts, comprehensive proficiency in Python applications, and an in-depth understanding of the major fields of computational biology.
+This course offers a systematic examination of foundational concepts, comprehensive proficiency in Python applications, and an in-depth understanding of the major fields of computational biology.
 Students learn about genomics, transcriptomics, computer-aided drug design, and molecular simulations in the context of current research applications.
 We focus primarily on hands-on learning with projects centered around *E. coli* as our computational model organism.
 Ultimately, this course is the first stepping stone of undergraduates at the University of Pittsburgh before taking Genomics (BIOSC 1542) and/or Simulation and Modeling (BIOSC 1544).
