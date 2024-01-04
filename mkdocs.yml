@@ -12,7 +12,7 @@ copyright: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC
 theme:
   name: material
   custom_dir: biosc1540/.overrides
-  logo: files/img/biosc-1540-logo-site.svg
+  logo: /img/biosc-1540-logo-site.svg
   language: en
   palette:
     # Palette toggle for light mode
@@ -75,6 +75,10 @@ plugins:
         order_by: title
   - glightbox
 
+hooks:
+  - hooks/launchy.py
+colab_base_url: https://colab.research.google.com/github/oasci/pitt-biosc1540-2024s-website/blob/main/biosc1540
+
 extra:
   generator: true
   analytics:
@@ -95,6 +99,7 @@ extra_css:
   - css/colors.css
   - css/3dmol.css
   - css/progress.css
+  - css/launchy.css
 
 extra_javascript:
   - js/mathjax.js
