@@ -1,13 +1,9 @@
 # Cadences
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 In this course, we will be following a structured cadence that is designed to help you achieve your academic goals.
 The cadence of the course refers to the rhythm and pace at which we will cover the material.
 By following a structured schedule, you will be able to plan your study time more effectively and stay on track with the course material.
-It is a carefully crafted schedule that ensures we cover all the topics in a timely manner while giving you enough time to absorb the material.
+It is a carefully crafted schedule that ensures we cover all the topics promptly while giving you enough time to absorb the material.
 
 ## Module
 
@@ -15,27 +11,28 @@ Each module (except [Python and ML](/modules/python-ml/)) will follow the same c
 
 -   [Learning scenarios][learning-scenario] will be introduced in the first module's class.
 -   Material will be covered in the same order as the technology's typical workflow.
--   [Quizzes][quiz] will be given on the last class of the module.
--   [Checkpoints][checkpoints] are due on the first Monday after the quiz.
+-   [Quizzes][quiz] will be given in the last class of the module.
+-   [Checkpoints][checkpoints] are due on the first Tuesday after the quiz.
 
 ## Week
 
 -   **Monday**
-    -   [Alex's][alex] office hours at 11:00 am.
-    -   Checkpoints are due at 11:59 pm.
+    -   [Alex's][alex] office hours from 11:00 am - 12:00 pm.
 -   **Tuesday**
-    -   Lecture at 9:30 am.
-    -   [James][james] and [Rushali's][rushali] office hours at 1:00 pm.
+    -   Lecture from 9:30 am - 10:45 am.
+    -   Team (instructor and TAs) meeting from 12:00 - 12:30 pm.
+    -   [James][james] and [Rushali's][rushali] office hours from 1:00 - 2:00 pm.
+    -   Checkpoints are due at 11:59 pm.
 -   **Wednesday**
-    -   [Alex's][alex] office hours at 11:00 am.
-    -   [Gabe][gabe] and [Shreya's][shreya] office hours at 1:00 pm.
+    -   [Alex's][alex] office hours from 11:00 am - 12:00 pm.
+    -   [Gabe][gabe] and [Shreya's][shreya] office hours at 1:00 - 2:00  pm.
     -   Previous lecture's materials are finalized.
 -   **Thursday**
-    -   Lecture at 9:30 am.
-    -   Last week's [assignments][assignments] are due at 11:59 pm.
+    -   Lecture from 9:30 am - 10:45 am.
+    -   Last week's [assignments][assignments] due at 11:59 pm.
 -   **Friday**
     -   [Assignments][assignments] for upcoming Thursday are released.
-    -   Readings for upcoming week are released.
+    -   Readings for the upcoming week are released.
     -   Previous lecture's materials are finalized.
 
 ## Lectures
@@ -45,13 +42,13 @@ As a student, I could never maintain enough focus for more than 30 or so minutes
 This experience has driven me to pursue the following cadence for lectures to minimize mental fatigue.
 
 -   **Introduction (~5 min):** Class announcements and unanswered questions from previous lectures.
-    Recap of previous lecture's core concepts leading into the big picture of the learning objectives
+    Recap of the previous lecture's core concepts leading into the big picture of the learning objectives
 -   **Presentation (~20 min):** Visual presentation covering the core concepts for that lecture.
 -   **Activity (~10 min)**: Hands-on activity to apply the covered concepts.
 -   **Presentation (~20 min):** Visual presentation delving deeper into the materials.
 -   **Activity (~20 min)**: Hands-on activity to cement the material.
 
-Activities need to be submitted by 11:00 am.
+Activities need to be submitted by 11:00 am on the same day.
 
 <!-- LINKS -->
 
