@@ -1,7 +1,7 @@
 nav:
     - index.md
     - Computational biology: comp-bio.md
-    - Model framing: model-framing.md
+    - Modeling philosophy: modeling-philosophy.md
     - Python basics: python-basics
     - Data manipulation: data-manipulation.md
     - Plotting: plotting.md

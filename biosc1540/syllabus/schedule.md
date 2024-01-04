@@ -15,7 +15,7 @@
 
 **Thursday** (Jan 11)
 
--   ^^Topics^^: [Model framing](/modules/modeling/model-framing) and [Python basics](/modules/modeling/python-basics)
+-   ^^Topics^^: [Python basics](/modules/modeling/python-basics)
 -   ^^Due^^:
 
 ### Week 2
