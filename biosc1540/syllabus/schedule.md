@@ -1,5 +1,7 @@
 # Schedule
 
+Jump to [this week](#week-1).
+
 !!! danger "DRAFT"
 
     This page is a work in progress and is subject to change at any moment.
@@ -15,19 +17,23 @@
 
 **Thursday** (Jan 11)
 
--   ^^Topics^^: [Python basics](/modules/modeling/python-basics)
+-   ^^Topics^^: [Python basics](/modules/python-ml/python-basics)
 -   ^^Due^^:
+    -   Readings: [Python basics](/modules/python-ml/python-basics)
+    -   Assignments: [Pre-course survey][pre-course-survey]
 
 ### Week 2
 
 **Tuesday** (Jan 16)
 
--   ^^Topics^^: [Data manipulation](/modules/modeling/data-manipulation), [clustering](/modules/modeling/clustering), and [plotting](/modules/modeling/plotting).
+-   ^^Topics^^: [Data manipulation](/modules/modeling/data-manipulation), [plotting](/modules/modeling/plotting), and [regression](/modules/modeling/regression).
 -   ^^Due^^:
+    -   Readings: [Regression](/modules/modeling/regression)
+    -   Assignments: TODO:
 
 **Thursday** (Jan 18)
 
--   ^^Topics^^: [Regression](/modules/modeling/regression) and [neural networks](/modules/modeling/neural-networks).
+-   ^^Topics^^: [clustering](/modules/modeling/clustering) and [neural networks](/modules/modeling/neural-networks).
 -   ^^Due^^:
 
 ## [Module 02 - Genomics][module 02]
@@ -195,3 +201,4 @@ No class
 [module 03]: /modules/transcriptomics
 [module 04]: /modules/cadd
 [module 05]: /modules/simulations
+[pre-course-survey]: https://teachingsurvey.pitt.edu/pittbpi/GenerateTaskLink.aspx?projectid=dccc4f35-39e1-40ab-98c6-f240551b9383&taskid=225SVM&tasktype=SVM&groupid=cfb49821-1863-45c6-bbed-5bf12392eaa2&subjectid=AgAAAI4x1b1ZpSmCg9GO7+UzeKr3nx27RTY2A5TzxGcH6AxuCkekDY2s4vL+cYzNISIXzzsgP6XpFONx8XPimy5+GVo=&conditionid=&blueuserid=AgAAAPf6iEgusDpry5WXt/eOkHqepaQwc7KHc9yb3VA1jrdfanoXnCjaQjHQi73F/86bw+ooJtvUiUWUoOF/cHTT6pVzhWYDPOwp4BkXg+YBwZVF&authenticationtype=2&versionlanguage=en-US
