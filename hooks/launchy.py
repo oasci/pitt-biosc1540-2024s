@@ -9,7 +9,7 @@ def on_page_content(html, page, config, files):
         colab_url = os.path.join(config["colab_base_url"], page.url)[:-1] + ".ipynb"
         colab_launch_html = f"""
         <div class="launchy-container">
-            <a href="{colab_url}">
+            <a href="{colab_url}" target="_blank">
                 <img src="/img/launchy/colab.svg" alt="Colab Image" style="height: 20px; width: 100%;" class="off-glb"/>
             </a>
         </div>
