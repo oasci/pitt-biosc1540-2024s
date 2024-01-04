@@ -11,12 +11,12 @@ As the semester progresses, you will be able to clearly see your standing in the
 
 ### Portfolio
 
-The main deliverable of this course is a computational biology portfolio for your assigned biological system.
-Each module will contribute a Jupyter Notebook section to your portfolio as [checkpoints](#checkpoints) with their unique criteria.
+The main deliverable of this course is a computational biology portfolio.
+Each module will contribute a portfolio section and are called [checkpoints](#checkpoints) with their own unique criteria.
 At the end of the semester, your portfolio will be evaluated in its entirety with all module [checkpoints](#checkpoints).
-Thus, changes can be made to previous [checkpoints](#checkpoints) for the final submission.
+Thus, changes and corrections can be made to previous [checkpoints](#checkpoints) for the final submission.
 
-You are encouraged to publish your portfolio on your [GitHub](https://www.github.com) account.
+You are encouraged to publish your portfolio online; for example, on your [GitHub](https://www.github.com) account.
 This will help you showcase your skills to your future employers or applications.
 
 [More information](../assessments/portfolio.md)
@@ -31,7 +31,7 @@ This allows you to receive feedback and spread out the [portfolio's](#portfolio)
 ### Assignments
 
 A variety of assignments will be given to provide you with an opportunity for hands-on practice of the concepts we cover in class.
-These will also help you work towards preparing your [checkpoints](#checkpoints) and [portfolio](#portfolio).
+These will also help you work towards preparing your [checkpoints](#checkpoints) and [portfolio](#portfolio) or practicing concepts learned in class.
 [Gradescope](https://www.gradescope.com/) will be used to grade these assignments.
 
 [More information](../assessments/assignments/README.md)
