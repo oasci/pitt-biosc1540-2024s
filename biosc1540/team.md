@@ -38,24 +38,6 @@ You are encouraged to stop by and say hi or ask any questions; however, it is a 
 
 Contact information can be found on [Canvas][canvas].
 
-### Afifa Farooqi
-
-[Image]
-
-**Address me as:**
-
-**Pronouns:**
-
-**Major:** Microbiology and Chemistry
-
-**Level:** Junior
-
-**Office hours:** TBD
-
-**Ask me about . . .**
-
-**Academic trajectory . . .**
-
 ### Gabe Medeiros
 
 [Image]

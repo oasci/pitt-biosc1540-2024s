@@ -60,7 +60,6 @@ Activities need to be submitted by 11:00 am.
 [checkpoints]: /syllabus/assessments/#checkpoints
 [assignments]: /syllabus/assessments/#assignments
 [gabe]: /team#gabe-medeiros
-[afifa]: /team#afifa-farooqi
 [rushali]: /team#rushali-patel
 [shreya]: /team#shreya-kundu
 [james]: /team#james-liu
