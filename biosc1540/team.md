@@ -94,21 +94,21 @@ Contact information can be found on [Canvas][canvas].
 
 ### Shreya Kundu
 
-[Image]
+![Alex Maldonado](/files/img/team/shreya.jpg){ width=300 }
 
-**Address me as:**
+**Address me as:** Shreya
 
-**Pronouns:**
+**Pronouns:** she/her/hers
 
-**Major:** Computational Biology, Chemistry, and Political Science
+**Major:** Computational Biology
 
-**Level:** Senior
+**Level:** Junior
 
 **Office hours:** Wednesday 1:00 pm - 2:00 pm in L1 Clapp Hall
 
-**Ask me about . . .**
+**Ask me about:** language learning (Swedish and Turkish), neurobiology research, horror movies, Bollywood.
 
-**Academic trajectory . . .**
+**Academic trajectory:** Pre-med
 
 <!-- LINKS -->
 
