@@ -10,7 +10,8 @@
 <br>
 **Email:** `alex.maldonado@pitt.edu`
 <br>
-**Office hours:** TBD
+**Office hours:** Monday and Wednesday from 11:00 am - 12:00 pm in 102 Clapp Hall.
+I am also available [by appointment][alex-calendar].
 
 ## Description
 
@@ -32,3 +33,5 @@ You must have received a minimum grade of `C` in Foundations of Biology 2 (BIOSC
     -   Spring Term Deadline for Students to Submit Monitored Withdrawal Forms to Dean’s Office
 -   **Apr 19:** Spring Term: Last Day for Undergraduate Day Classes
 -   **May 1:** Spring Term Grades Must Be Approved by Instructors by 11:59 pm.
+
+[alex-calendar]: https://app.cal.com/alexmaldonado/class
