@@ -1,9 +1,5 @@
 # Philosophy
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 This course, Computational Biology, provides a brief exploration of using computational approaches to gain insight into biological phenomena.
 Below is my course philosophy that drives my teaching.
 
