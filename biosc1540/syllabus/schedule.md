@@ -12,7 +12,7 @@ Jump to [this week](#week-1).
 
 **Tuesday** (Jan 9)
 
--   ^^Topics^^: [Syllabus](/syllabus) and [computational biology](/modules/modeling/comp-bio)
+-   ^^Topics^^: [Syllabus](/syllabus) and [computational biology](/modules/python-ml/comp-bio)
 -   ^^Due^^: None
 
 **Thursday** (Jan 11)
@@ -26,14 +26,14 @@ Jump to [this week](#week-1).
 
 **Tuesday** (Jan 16)
 
--   ^^Topics^^: [Data manipulation](/modules/modeling/data-manipulation), [plotting](/modules/modeling/plotting), and [regression](/modules/modeling/regression).
+-   ^^Topics^^: [Working with data](/modules/python-ml/data/), [plotting](/modules/python-ml/plotting), and [regression](/modules/python-ml/regression).
 -   ^^Due^^:
-    -   Readings: [Regression](/modules/modeling/regression)
+    -   Readings: [Regression](/modules/python-ml/regression)
     -   Assignments: TODO:
 
 **Thursday** (Jan 18)
 
--   ^^Topics^^: [clustering](/modules/modeling/clustering) and [neural networks](/modules/modeling/neural-networks).
+-   ^^Topics^^: [clustering](/modules/python-ml/clustering) and [neural networks](/modules/python-ml/neural-networks).
 -   ^^Due^^:
 
 ## [Module 02 - Genomics][module 02]
