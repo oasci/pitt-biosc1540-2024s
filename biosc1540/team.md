@@ -8,7 +8,7 @@ hide:
 
 ## Alex Maldonado (Instructor)
 
-![Alex Maldonado](/files/img/team/alex.jpg){ width=200 }
+![Alex Maldonado](/img/team/alex.jpg){ width=200 }
 
 **Address me as:** Alex
 
@@ -100,7 +100,7 @@ Contact information can be found on [Canvas][canvas].
 
 ### Shreya Kundu
 
-![Alex Maldonado](/files/img/team/shreya.jpg){ width=300 }
+![Shreya Kundu](/img/team/shreya.jpg){ width=300 }
 
 **Address me as:** Shreya
 

@@ -108,7 +108,7 @@ You can download the toolkit from the [GitHub wiki](https://github.com/ncbi/sra-
 
         You will see something like the following screen.
 
-        ![](/files/img/sra/setup/vdb-config-i.png)
+        ![](/img/sra/setup/vdb-config-i.png)
 
         You can use `TAB` or click on options to select them and press `ENTER` to toggle them.
     2.  Under `MAIN`, ensure that you have `[X] Enable Remote Access` enabled.
