@@ -4,214 +4,76 @@
 
     This page is a work in progress and is subject to change at any moment.
 
-## Installation
+## Google Colab
 
-The most common and reproducible ways to getting Python on your system is with [conda](https://docs.conda.io/projects/conda/en/latest/index.html).
+Managing local Python installations can be troublesome with a large class.
+Different versions, dependencies, and system setups could mean it runs on your computer but not someone elses.
+To minimize this issues, we will be using [Google Colab](https://colab.google/) to write, run, and distribute Python code in [Jupyter notebooks](https://jupyter.org/).
 
-=== "Windows"
+### Features
 
-    [Download](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe) the `Windows installer` for your desired Python version.
-    Or run the following commands to automatically perform the installation.
+-   Google Colab runs in the cloud on Google's servers.
+    This means you don't need to install any software on your local machine, and you can access it from anywhere with an internet connection.
+-   One of the notable features of Google Colab is that it provides free access to Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs).
+    This can be especially beneficial for machine learning tasks that require significant computational power.
+-   Multiple users can collaborate in real-time on a Colab notebook. This makes it easy for teams to work together on coding projects, share insights, and provide feedback.
+-   Colab integrates seamlessly with Google Drive.
+    You can save your Colab notebooks directly to your Google Drive, share them, and access them from any device.
+-   Colab notebooks run on virtual machines in the cloud, and your session state persists as long as the virtual machine is active.
+    However, if there is inactivity for too long, the session may be disconnected.
 
-    ```bash
-    curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe -o miniconda.exe \
-    start /wait "" miniconda.exe /S \
-    del miniconda.exe
-    ```
+## Usage
 
-=== "MacOS"
+When you see a ![colab logo](/img/launchy/colab.svg){ width=18px } symbol in the upper right corner of a page, you can click on it to open up that file directly in [Google Colab](https://colab.google/).
 
-    These commands will install [miniconda][miniconda] on the latest M1 macOS.
+!!! example
 
-    ```bash
-    mkdir -p ~/miniconda3 \
-    curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh -o ~/miniconda3/miniconda.sh \
-    bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3 \
-    rm -rf ~/miniconda3/miniconda.sh
-    ```
+    Go to [this page](../../python-ml/regression/introduction.ipynb) to see an example.
+    If you click ![colab logo](/img/launchy/colab.svg){ width=18px } then you will be taken [here](https://colab.research.google.com/github/oasci/pitt-biosc1540-2024s-website/blob/main/biosc1540/modules/python-ml/regression/introduction.ipynb).
 
-    After installing, initialize your newly-installed [Miniconda][miniconda]. The following commands initialize for bash and zsh shells:
+How does this work?
+Well, [Google Colab](https://colab.google/) has an import mechanism for Jupyter notebooks in [GitHub](https://github.com/) repositories.
+Adding an import link is all it takes.
 
-    ```bash
-    ~/miniconda3/bin/conda init bash \
-    ~/miniconda3/bin/conda init zsh
-    ```
+Opening it, however, does not create a copy in your Google Drive.
+When running code, working on assignments, etc. you should always save a copy in your Google Drive.
+The ![colab logo](/img/launchy/colab.svg){ width=18px } button just opens up a copy without saving it.
+We recommend keeping these files in a class directory.
 
-=== "Ubuntu"
+As mentioned above, the version of Python can affect its reproducibility.
+We include the following code block as the first code cell.
 
-    These commands will install [miniconda][miniconda] on linux machines.
-
-    ```bash
-    mkdir -p ~/miniconda3 \
-    wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o ~/miniconda3/miniconda.sh \
-    bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3 \
-    rm -rf ~/miniconda3/miniconda.sh
-    ```
-
-    After installing, initialize your newly-installed [Miniconda][miniconda]. The following commands initialize for bash and zsh shells:
-
-    ```bash
-    ~/miniconda3/bin/conda init bash \
-    ~/miniconda3/bin/conda init zsh
-    ```
-
----
-
-Once we have conda installed, we are ready to create an [environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) for running arbitrary Python code.
-
-```bash
-conda create --name biosc1540-2024s
+```python
+import sys
+IN_COLAB = 'google.colab' in sys.modules
+if IN_COLAB:
+    !sudo apt-get update -y > /dev/null 2>&1
+    !sudo apt-get install python3.11 python3.11-dev python3.11-distutils libpython3.11-dev > /dev/null 2>&1
+    !sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.11 2 > /dev/null 2>&1
 ```
 
-??? quote "Output"
+All this does is check if the Jupyter notebook is running and install the version of Python used to develop this course: 3.11.
 
-    ```text
-    Channels:
-    - defaults
-    Platform: linux-64
-    Collecting package metadata (repodata.json): done
-    Solving environment: done
+You can technically remove this.
+The version of Python usually has small changes that are backwards compatible.
+The main issue is the dependencies that we install; some have very specific version requirements that could affect which versions get installed.
 
-    ## Package Plan ##
-
-    environment location: /home/alex/miniconda3/envs/biosc1540-2024s
-
-
-
-    Proceed ([y]/n)? y
-
-    Preparing transaction: done
-    Verifying transaction: done
-    Executing transaction: done
-    #
-    # To activate this environment, use
-    #
-    #     $ conda activate biosc1540-2024s
-    #
-    # To deactivate an active environment, use
-    #
-    #     $ conda deactivate
-    ```
-
-Now that we have created our Conda environment, the next step is to activate it. Activating the environment ensures that any software or packages installed will be specific to this environment, avoiding conflicts with other environments or the system-wide installation.
-
-```bash
-conda activate biosc1540-2024s
-```
-
-Once activated, your command prompt should indicate the active environment.
-Now, if you try to run Python with the `python` command, you might encounter an error similar to the one below:
-
-```shell
-$ python
-Command 'python' not found
-```
-
-This is because our environment is currently empty, and Python is not installed in it.
-In this course, we will use [Python 3.11.7](https://www.python.org/downloads/release/python-3117/).
-To install Python within our Conda environment, follow these steps.
-
-It is generally a good idea to update conda first.
-
-```bash
-conda update --all
-```
-
-??? quote "Output"
-
-    ```text
-    Channels:
-    - defaults
-    Platform: linux-64
-    Collecting package metadata (repodata.json): done
-    Solving environment: done
-
-    # All requested packages already installed.
-    ```
-
-```bash
-conda install python=3.11.7 -c conda-forge
-```
-
-??? quote "Output"
-
-    ```text
-    Channels:
-    - conda-forge
-    - defaults
-    Platform: linux-64
-    Collecting package metadata (repodata.json): done
-    Solving environment: done
-
-    ## Package Plan ##
-
-    environment location: /home/alex/miniconda3/envs/biosc1540-2024s
-
-    added / updated specs:
-        - python=3.11.7
-
-
-    The following NEW packages will be INSTALLED:
-
-    _libgcc_mutex      conda-forge/linux-64::_libgcc_mutex-0.1-conda_forge
-    _openmp_mutex      conda-forge/linux-64::_openmp_mutex-4.5-2_gnu
-    bzip2              conda-forge/linux-64::bzip2-1.0.8-hd590300_5
-    ca-certificates    conda-forge/linux-64::ca-certificates-2023.11.17-hbcca054_0
-    ld_impl_linux-64   conda-forge/linux-64::ld_impl_linux-64-2.40-h41732ed_0
-    libexpat           conda-forge/linux-64::libexpat-2.5.0-hcb278e6_1
-    libffi             conda-forge/linux-64::libffi-3.4.2-h7f98852_5
-    libgcc-ng          conda-forge/linux-64::libgcc-ng-13.2.0-h807b86a_3
-    libgomp            conda-forge/linux-64::libgomp-13.2.0-h807b86a_3
-    libnsl             conda-forge/linux-64::libnsl-2.0.1-hd590300_0
-    libsqlite          conda-forge/linux-64::libsqlite-3.44.2-h2797004_0
-    libuuid            conda-forge/linux-64::libuuid-2.38.1-h0b41bf4_0
-    libxcrypt          conda-forge/linux-64::libxcrypt-4.4.36-hd590300_1
-    libzlib            conda-forge/linux-64::libzlib-1.2.13-hd590300_5
-    ncurses            conda-forge/linux-64::ncurses-6.4-h59595ed_2
-    openssl            conda-forge/linux-64::openssl-3.2.0-hd590300_1
-    pip                conda-forge/noarch::pip-23.3.2-pyhd8ed1ab_0
-    python             conda-forge/linux-64::python-3.11.7-hab00c5b_1_cpython
-    readline           conda-forge/linux-64::readline-8.2-h8228510_1
-    setuptools         conda-forge/noarch::setuptools-68.2.2-pyhd8ed1ab_0
-    tk                 conda-forge/linux-64::tk-8.6.13-noxft_h4845f30_101
-    tzdata             conda-forge/noarch::tzdata-2023d-h0c530f3_0
-    wheel              conda-forge/noarch::wheel-0.42.0-pyhd8ed1ab_0
-    xz                 conda-forge/linux-64::xz-5.2.6-h166bdaf_0
-
-
-    Proceed ([y]/n)? y
-
-
-    Downloading and Extracting Packages:
-
-    Preparing transaction: done
-    Verifying transaction: done
-    Executing transaction: done
-    ```
-
-??? note "What is `-c conda-forge`?"
-
-    The additional `-c conda-forge` in the command `conda install python=3.11.7 -c conda-forge` specifies the channel from which Conda should retrieve the Python package.
-
-    In Conda, a channel is a repository of packages.
-    The default channel is the Anaconda repository, but the `-c conda-forge` option instructs Conda to look for the specified package in the [conda-forge channel](https://conda-forge.org/).
-    Conda-forge is a [community-maintained collection of conda packages](https://anaconda.org/conda-forge).
-
-    Including this option in the command is beneficial for a couple of reasons:
-
-    -   Conda-forge often provides more up-to-date versions of packages, including Python, as it is maintained by the community.
-        This can be advantageous if you want the latest features or bug fixes.
-    -   Some packages or specific versions might be available on conda-forge but not in the default Anaconda repository.
-        Adding the conda-forge channel increases the pool of available packages.
-
-## Learn the basics
+## Learn Python
 
 There are a ton of resources to learn the basics of Python and I cannot necessarily write better ones.
-Here are some options I recommend.
+Here are some options I recommend&mdash;in decreasing order&mdash;along with what sections will be relevant for this course.
 
--   [learnpython.org](https://www.learnpython.org/)
--   [Think Python](https://greenteapress.com/thinkpython2/html/index.html)
--   [Google's Python Class](https://developers.google.com/edu/python)
+-   [kaggle learn](https://www.kaggle.com/learn/): "Intro to Programming", "Intro to Machine Learning", "Python", and "Pandas" courses.
+-   [learnpython.org](https://www.learnpython.org/): "Learn the Basics" and "Data Science Tutorials".
+-   [Google's Python Class](https://developers.google.com/edu/python): Everything.
+-   [Byte of Python](https://python.oasci.org/external/byte-of-python/): Everything
+
+I know this is not a Python course, and you will never be graded on how good your Python code is.
+All that matters is that it runs in a reasonable amount of time and I can understand what your code is trying to do.
+
+## Installation
+
+{% include "/modules/python-ml/python-basics/installation.md" %}
 
 <!-- LINKS -->
 
