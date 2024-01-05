@@ -1,9 +1,5 @@
 # Syllabus
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 **Semester:** Spring 2024
 <br>
 **Meeting time:** Tuesdays and Thursdays from 9:30 AM - 10:45 AM
