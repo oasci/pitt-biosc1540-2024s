@@ -72,6 +72,8 @@
 The following academic labs perform genomics research at Pitt.
 
 -   [Dr. Nathan Clark](https://www.biology.pitt.edu/person/nathan-l-clark) in the Department of Biological Sciences.
+-   [Dr. Sarah Hainer](https://www.hainerlab.com/) in the Department of Biological Sciences.
+-   [Dr. Miler Lee](https://mtleelab.pitt.edu/) in the Department of Biological Sciences.
 -   [Dr. Anne-Ruxandra Carvunis](https://carvunislab.csb.pitt.edu/) in the Department of Computational and Systems Biology.
 -   [Dr. Yu-Chih Chen](https://www.ycchenlab.org/) in the Department of Computational and Systems Biology.
 -   [Dr. Maria Chikina](http://chikinalab.org/) in the Department of Computational and Systems Biology.
