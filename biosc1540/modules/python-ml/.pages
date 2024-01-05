@@ -4,7 +4,7 @@ nav:
     - Modeling philosophy: modeling-philosophy.md
     - Programming languages: programming-langs.md
     - Python basics: python-basics
-    - Working with data: data.md
+    - Working with data: data
     - Plotting: plotting.md
     - Regression: regression
     - Classification: classification

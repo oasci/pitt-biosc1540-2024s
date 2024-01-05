@@ -1,0 +1,6 @@
+nav:
+    - index.md
+    - Data pipeline: pipeline.md
+    - introduction.ipynb
+    - numpy.ipynb
+    - pandas.ipynb
