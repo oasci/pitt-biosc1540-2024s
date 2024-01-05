@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Team
 
 ## Alex Maldonado (Instructor)
