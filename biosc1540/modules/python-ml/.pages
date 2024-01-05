@@ -2,6 +2,7 @@ nav:
     - index.md
     - Computational biology: comp-bio.md
     - Modeling philosophy: modeling-philosophy.md
+    - Programming languages: programming-langs.md
     - Python basics: python-basics
     - Data manipulation: data-manipulation.md
     - Plotting: plotting.md
