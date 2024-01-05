@@ -191,8 +191,12 @@ No class
 
 **Thursday** (Apr 18)
 
--   ^^Topics^^: Quiz
+-   ^^Topics^^: Flex/study hall
 -   ^^Due^^:
+
+## Finals
+
+-   ^^Due^^: Quiz
 
 <!-- LINKS -->
 
