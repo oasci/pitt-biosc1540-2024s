@@ -74,9 +74,11 @@ plugins:
         sort_type: natural
         order_by: title
   - glightbox
+  - macros
 
 hooks:
   - hooks/launchy.py
+  - hooks/git.py
 colab_base_url: https://colab.research.google.com/github/oasci/pitt-biosc1540-2024s-website/blob/main/biosc1540
 
 extra:
