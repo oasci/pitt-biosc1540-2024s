@@ -13,7 +13,7 @@ Jump to [this week](#week-1).
 **Tuesday** (Jan 9)
 
 -   ^^Topics^^: [Syllabus](/syllabus) and [computational biology](/modules/modeling/comp-bio)
--   ^^Due^^:
+-   ^^Due^^: None
 
 **Thursday** (Jan 11)
 
@@ -82,6 +82,7 @@ Jump to [this week](#week-1).
 
 -   ^^Topics^^: [Learning scenario](/modules/transcriptomics/learning-scenario) and [sequencing](/modules/transcriptomics/sequencing)
 -   ^^Due^^:
+    -   Checkpoint: [Genomics](/assessments/checkpoints/genomics)
 
 **Thursday** (Feb 15)
 
@@ -120,6 +121,7 @@ Jump to [this week](#week-1).
 
 -   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario) and [drug pipeline](/modules/cadd/drug-discovery-pipeline)
 -   ^^Due^^:
+    -   Checkpoint: [Transcriptomics](/assessments/checkpoints/transcriptomics/)
 
 **Thursday** (Mar 7)
 
@@ -164,6 +166,7 @@ No class
 
 -   ^^Topics^^: [Learning scenario](/modules/simulations/learning-scenario) and [types of molecular simulations](/modules/simulations/molecular-simulations)
 -   ^^Due^^:
+    -   Checkpoint: [CADD](/assessments/checkpoints/cadd/)
 
 **Thursday** (Apr 4)
 
@@ -193,6 +196,7 @@ No class
 
 -   ^^Topics^^: Flex/study hall
 -   ^^Due^^:
+    -   [Portfolio](/assessments/portfolio/)
 
 ## Finals
 
