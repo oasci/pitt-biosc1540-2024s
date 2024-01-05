@@ -1,18 +1,14 @@
 # Assessments
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
-The course will be out of **1000** points and letter grades will be assigned according the [Pitt's recommended scale](#scale).
-As the semester progresses, you will be able to clearly see your standing in the course.
+The course will be out of **1000** points and letter grades will be assigned based on the [Pitt's recommended scale](#scale).
+As the semester progresses, you will be able to see your standing in the course.
 
 ## Categories
 
 ### Portfolio
 
 The main deliverable of this course is a computational biology portfolio.
-Each module will contribute a portfolio section and are called [checkpoints](#checkpoints) with their own unique criteria.
+Each module will contribute a portfolio section and are called [checkpoints](#checkpoints) with their own criteria.
 At the end of the semester, your portfolio will be evaluated in its entirety with all module [checkpoints](#checkpoints).
 Thus, changes and corrections can be made to previous [checkpoints](#checkpoints) for the final submission.
 
@@ -69,7 +65,7 @@ We will frequently have worksheets, in-class activities, and TopHat questions du
 
 I am mindful of the diverse nature of deadlines, particularly in the scientific realm.
 Some are set in stone, while others exhibit more flexibility.
-It is noteworthy that in the scientific community frequently submit manuscripts and reviews days, weeks, or months after the editor's request.
+It is noteworthy that the scientific community frequently submits manuscripts and reviews days, weeks, or months after the editor's request.
 Such practices are widely understood.
 Conversely, submitting a grant application even a minute past the deadline makes it ineligible for review.
 
@@ -81,7 +77,7 @@ It encourages timely submissions while acknowledging the influence of external c
     No explanation or justification is needed.
 -   However, **using this extension will result in a deduction of your extra credit worth 10% of the assignment**.
     For example, if you submit an assignment worth 50 points one day late, your extra credit will be reduced by 5 points.
--   After this extension window, the assignment will not be accepted (i.e., zero points), but no extra credit would be lost.
+-   After this extension window, the assignment will not be accepted (i.e., zero points), but no extra credit will be lost.
 -   Exceptions for the loss of extra credit will be made on a case-by-case basis.
 -   Once your extra credit becomes zero, no late assignments will be **automatically** accepted.
 
