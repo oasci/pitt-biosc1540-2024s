@@ -42,9 +42,9 @@ Contact information can be found on [Canvas][canvas].
 
 [Image]
 
-**Address me as:**
+**Address me as:** Gabe
 
-**Pronouns:**
+**Pronouns:** he/him/his
 
 **Major:** Computational Biology and German
 
@@ -52,9 +52,9 @@ Contact information can be found on [Canvas][canvas].
 
 **Office hours:** Wednesday 1:00 - 2:00 pm in L1 Clapp Hall
 
-**Ask me about . . .**
+**Ask me about:** Football, Video games, Food, and movies
 
-**Academic trajectory . . .**
+**Career trajectory:** Analytics Industry after graduation
 
 ### James Liu
 
@@ -72,7 +72,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Ask me about . . .**
 
-**Academic trajectory . . .**
+**Career trajectory . . .**
 
 ### Rushali Patel
 
@@ -90,7 +90,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Ask me about . . .**
 
-**Academic trajectory . . .**
+**Career trajectory . . .**
 
 ### Shreya Kundu
 
@@ -108,7 +108,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Ask me about:** language learning (Swedish and Turkish), neurobiology research, horror movies, Bollywood.
 
-**Academic trajectory:** Pre-med
+**Career trajectory:** Pre-med
 
 <!-- LINKS -->
 
