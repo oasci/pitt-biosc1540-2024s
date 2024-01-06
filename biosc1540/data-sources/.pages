@@ -1,5 +1,5 @@
 nav:
-    - README.md
+    - index.md
     - NCBI Gene: ncbi-gene
     - Sequence Read Archive (SRA): sra
     - Gene Expression Omnibus (GEO): geo
