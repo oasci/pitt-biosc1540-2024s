@@ -1,5 +1,5 @@
 nav:
-    - README.md
+    - index.md
     - Genomics: genomics
     - Transcriptomics: transcriptomics
     - Computer-aided drug design: cadd.md
