@@ -10,12 +10,12 @@ Jump to [this week](#week-1).
 
 ### Week 1
 
-**Tuesday** (Jan 9)
+**Tuesday** (Jan 9) [lecture](../../lectures/01/)
 
 -   ^^Topics^^: [Syllabus](/syllabus) and [computational biology](/modules/python-ml/comp-bio)
 -   ^^Due^^: None
 
-**Thursday** (Jan 11)
+**Thursday** (Jan 11) [lecture](../../lectures/02/)
 
 -   ^^Topics^^: [Python basics](/modules/python-ml/python-basics)
 -   ^^Due^^:
