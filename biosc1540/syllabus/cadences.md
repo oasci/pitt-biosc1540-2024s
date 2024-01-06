@@ -12,7 +12,7 @@ Each module (except [Python and ML](/modules/python-ml/)) will follow the same c
 -   [Learning scenarios][learning-scenario] will be introduced in the first module's class.
 -   Material will be covered in the same order as the technology's typical workflow.
 -   [Quizzes][quiz] will be given in the last class of the module.
--   [Checkpoints][checkpoints] are due on the first Tuesday after the quiz.
+-   [Checkpoints][checkpoints] are due on the first Thursday after the quiz (i.e., one week from the quiz).
 
 ## Week
 
@@ -22,14 +22,14 @@ Each module (except [Python and ML](/modules/python-ml/)) will follow the same c
     -   Lecture from 9:30 am - 10:45 am.
     -   Team (instructor and TAs) meeting from 12:00 - 12:30 pm.
     -   [James][james] and [Rushali's][rushali] office hours from 1:00 - 2:00 pm.
-    -   Checkpoints are due at 11:59 pm.
 -   **Wednesday**
     -   [Alex's][alex] office hours from 11:00 am - 12:00 pm.
     -   [Gabe][gabe] and [Shreya's][shreya] office hours at 1:00 - 2:00  pm.
     -   Previous lecture's materials are finalized.
 -   **Thursday**
     -   Lecture from 9:30 am - 10:45 am.
-    -   Last week's [assignments][assignments] due at 11:59 pm.
+    -   Last week's [assignments][assignments] due by 11:59 pm.
+    -   Module [checkpoints][checkpoints] due by 11:59 pm.
 -   **Friday**
     -   [Assignments][assignments] for upcoming Thursday are released.
     -   Readings for the upcoming week are released.

@@ -29,12 +29,12 @@ Jump to [this week](#week-1).
 -   ^^Topics^^: [Working with data](/modules/python-ml/data/), [plotting](/modules/python-ml/plotting), and [regression](/modules/python-ml/regression).
 -   ^^Due^^:
     -   Readings: [Regression](/modules/python-ml/regression)
-    -   Assignments: TODO:
 
 **Thursday** (Jan 18)
 
 -   ^^Topics^^: [clustering](/modules/python-ml/clustering) and [neural networks](/modules/python-ml/neural-networks).
 -   ^^Due^^:
+    -   Assignments: TODO:
 
 ## [Module 02 - Genomics][module 02]
 
@@ -49,6 +49,7 @@ Jump to [this week](#week-1).
 
 -   ^^Topics^^: [Genome assembly](/modules/genomics/genome-assembly)
 -   ^^Due^^:
+    -   Assignments: TODO:
 
 ### Week 4
 
@@ -61,6 +62,7 @@ Jump to [this week](#week-1).
 
 -   ^^Topics^^: [Gene annotation](/modules/genomics/gene-annotation)
 -   ^^Due^^:
+    -   Assignments: TODO:
 
 ### Week 5
 
@@ -82,12 +84,12 @@ Jump to [this week](#week-1).
 
 -   ^^Topics^^: [Learning scenario](/modules/transcriptomics/learning-scenario) and [sequencing](/modules/transcriptomics/sequencing)
 -   ^^Due^^:
-    -   Checkpoint: [Genomics](/assessments/checkpoints/genomics)
 
 **Thursday** (Feb 15)
 
 -   ^^Topics^^: [Read mapping](/modules/transcriptomics/read-mapping)
 -   ^^Due^^:
+    -   Checkpoint: [Genomics](/assessments/checkpoints/genomics)
 
 ### Week 7
 
@@ -100,6 +102,7 @@ Jump to [this week](#week-1).
 
 -   ^^Topics^^: [Gene expression analysis](/modules/transcriptomics/gene-expression-analysis)
 -   ^^Due^^:
+    -   Assignments: TODO:
 
 ### Week 8
 
@@ -112,6 +115,7 @@ Jump to [this week](#week-1).
 
 -   ^^Topics^^: Quiz
 -   ^^Due^^:
+    -   Assignments: TODO:
 
 ## [Module 04 - Computer-aided drug design][module 04]
 
@@ -121,12 +125,12 @@ Jump to [this week](#week-1).
 
 -   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario) and [drug pipeline](/modules/cadd/drug-discovery-pipeline)
 -   ^^Due^^:
-    -   Checkpoint: [Transcriptomics](/assessments/checkpoints/transcriptomics/)
 
 **Thursday** (Mar 7)
 
 -   ^^Topics^^: [Protein-ligand docking](/modules/cadd/docking)
 -   ^^Due^^:
+    -   Checkpoint: [Transcriptomics](/assessments/checkpoints/transcriptomics/)
 
 ### Spring break
 
@@ -145,6 +149,7 @@ No class
 
 -   ^^Topics^^: [Ligand-based screening](/modules/cadd/ligand-based-screening)
 -   ^^Due^^:
+    -   Assignments: TODO:
 
 ### Week 12
 
@@ -166,12 +171,12 @@ No class
 
 -   ^^Topics^^: [Learning scenario](/modules/simulations/learning-scenario) and [types of molecular simulations](/modules/simulations/molecular-simulations)
 -   ^^Due^^:
-    -   Checkpoint: [CADD](/assessments/checkpoints/cadd/)
 
 **Thursday** (Apr 4)
 
 -   ^^Topics^^: [molecular mechanics](/modules/simulations/molecular-mechanics)
 -   ^^Due^^:
+    -   Checkpoint: [CADD](/assessments/checkpoints/cadd/)
 
 ### Week 14
 
@@ -184,6 +189,7 @@ No class
 
 -   ^^Topics^^: [Structural and dynamic analysis](/modules/simulations/structural-dynamic-analysis)
 -   ^^Due^^:
+    -   Assignments: TODO:
 
 ### Week 15
 
