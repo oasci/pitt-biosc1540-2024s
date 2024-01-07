@@ -11,6 +11,7 @@ Each module will cover learning objectives simultaneously across four categories
 -   🐍 **Python**: programming, data processing, visualization.
 -   🧮 **Methods**: algorithms, simulations, techniques.
 -   🤖 **Machine learning**: regression, dimensionality reduction, neural networks.
+-   🤝 **Soft skills**: interpersonal skills, leadership, problem solving, communication, and teamwork.
 
 !!! note
 
