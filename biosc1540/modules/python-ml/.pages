@@ -5,7 +5,7 @@ nav:
     - Programming languages: programming-langs.md
     - Python basics: python-basics
     - Working with data: data
-    - Plotting: plotting.md
+    - Plotting: plotting
     - Regression: regression
     - Classification: classification
     - Clustering: clustering.md
