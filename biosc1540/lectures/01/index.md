@@ -1,12 +1,24 @@
 # Lecture 01
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 ## Learning objectives
 
--   Be able to identify your learning community of [teaching team](../../../team) and fellow [students](../../../students).
+What you should be able to do after today's lecture.
+
+1.  🤝 Identify your learning community including the [teaching team](/team) and fellow [students](/students).
+2.  🧫 🧮 Describe various methods and applications of computational biology.
+3.  🤝 Understand where to find course information from the [website](/) and [canvas](https://canvas.pitt.edu/courses/238471).
+4.  🧮 Articulate the balance between scientific explanation and prediction.
+5.  🧮 Identify the key steps of formulating a good computational model.
+6.  🧮 🐍 Understand the differences between programming languages.
+
+## Readings
+
+Relevant content for today's lecture.
+
+-   [Syllabus](../../syllabus/)
+-   [Computational biology](/modules/python-ml/comp-bio)
+-   [Modeling philosophy](/modules/python-ml/modeling-philosophy)
+-   [Programming languages](../../modules/python-ml/programming-langs.md)
 
 ## Presentation
 

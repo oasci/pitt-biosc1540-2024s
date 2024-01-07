@@ -1,9 +1,5 @@
 # 01 - Python and machine learning
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 ## Learning objectives
 
 -   🧫 🧮 Explore the integration of computer science techniques to address complex problems in computational biology.
@@ -13,7 +9,7 @@
 -   🐍 Proficiently use biological data using Python libraries, with a focus on Pandas and NumPy.
 -   🐍 Use Python libraries (e.g., Matplotlib, Seaborn) to create visually compelling plots that communicate complex biological data effectively.
 -   🐍 🧮 Develop an understanding of clustering concepts and implement common algorithms to identify patterns in biological data.
--   🐍 🧮 Implement linear and non-linear regression models to capture relationships within biological variables.
+-   🐍 🧮 Implement regression models to capture relationships within biological variables.
 -   🤖 Acquire a understanding of neural network basics, including architecture and fundamental principles.
 
 ## Resources
