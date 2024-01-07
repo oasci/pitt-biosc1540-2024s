@@ -1,9 +1,5 @@
 # The Philosophy of Modeling
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 ## Explaining or predicting
 
 The philosophy of science grapples with the fundamental distinction between explanation and prediction.

@@ -1,9 +1,5 @@
 # Computational biology
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 **Computational biology**
 : An amorphous term that encompasses any application of computational methods to obtain insight into biological phenomena.
 
@@ -20,7 +16,7 @@ The [Journal of Computational Biology][j-comp-bio] establishes its scope as
 
 and [PLOS Computational Biology][plos-comp-bio] as contributions that
 
-> further our understanding of living systems at all scales&mdash;from molecules and cells, to patient populations and ecosystems&mdash;through the application of computational methods.
+> further our understanding of living systems at all scales&mdash;from molecules and cells to patient populations and ecosystems&mdash;through the application of computational methods.
 
 ## Two subfields
 
@@ -34,7 +30,7 @@ At its core, bioinformatics harnesses computational tools and methodologies to a
 In practical terms, bioinformatics acts as an essential toolbox; offering scientists the means to navigate, comprehend, and extract insights from biological data.
 Its significance becomes evident in the identification of concealed patterns, intricate relationships, and insights that may remain elusive through conventional observation alone.
 
-!!! quote "**Figure XYZ**"
+!!! quote "**Figure 1**"
 
     <figure markdown>
     ![](https://www.genomicseducation.hee.nhs.uk/wp-content/uploads/2021/04/Bioinformatics-graphic-01-983x640.png){ width=650 }
@@ -53,18 +49,18 @@ Bioinformatics has become an indispensable tool in the life sciences, enabling r
 
 Computational modeling in biology, a multifaceted discipline, revolves around the construction of mathematical and computational representations that encapsulate the intricate nature of biological processes, systems, and phenomena.
 This approach facilitates the simulation and comprehension of complex biological systems.
-The crux of computational modeling lies the formulation of models through mathematical equations, cellular automata, or agent-based models, effectively capturing the main characteristics of the biological phenomenon of interest.
+The crux of computational modeling lies in the formulation of models through mathematical equations, cellular automata, or agent-based models, effectively capturing the main characteristics of the biological phenomenon of interest.
 
-!!! quote "**Figure XYZ**"
+!!! quote "**Figure 2**"
 
     <figure markdown>
     ![](https://www.researchgate.net/publication/340129761/figure/fig1/AS:1006435672535040@1616964371092/Iterative-computational-biology-workflow-Data-are-gathered-by-experimentation-from-the.ppm){ width=650 }
     </figure>
 
     Iterative computational biology workflow.
-    Data are gathered by experimentation, from the literature or from publicly accessible databases.
+    Data are gathered by experimentation, from the literature, or publicly accessible databases.
     Computational models describing biological knowledge are generated and refined.
-    Models are used for in silico simulation, re-refinement of the model and hypothesis generation.
+    Models are used for in silico simulation, re-refinement of the model, and hypothesis generation.
     Findings are validated experimentally, feeding into new data for the next iteration of the cycle.
 
     Credit: Addressing the heterogeneity in liver diseases using biological networks - Scientific Figure on ResearchGate. Available from [here](https://www.researchgate.net/figure/Iterative-computational-biology-workflow-Data-are-gathered-by-experimentation-from-the_fig1_340129761).
@@ -87,7 +83,7 @@ Meanwhile, metabolic pathway analysis aids in predicting biochemical reactions i
 Accurate protein structure prediction is a crucial aspect of understanding biological systems, as it provides insights into protein functions, drug design, and disease mechanisms.
 This predictive capability plays a pivotal role in rational drug design by identifying binding sites and facilitating the development of targeted therapies.
 
-!!! quote "**Figure XYZ**"
+!!! quote "**Figure 3**"
 
     <figure markdown>
     ![](https://www.mdpi.com/ijms/ijms-22-05553/article_deploy/html/images/ijms-22-05553-g001.png){ width=100% }
@@ -112,7 +108,7 @@ In drug discovery, computational biology guides the entire process from target i
 Harnessing the power of computational methods, researchers can predict the behavior of molecules and forecast their interactions within the complex milieu of the human body.
 This predictive capability proves pivotal in several aspects of drug discovery, notably in virtual screening.
 
-!!! quote "**Figure XYZ**"
+!!! quote "**Figure 4**"
 
     <figure markdown>
     ![](https://www.mdpi.com/ijms/ijms-23-00393/article_deploy/html/images/ijms-23-00393-g001.png){ width=450 }
@@ -132,7 +128,7 @@ This personalized approach to healthcare begins with the identification of genet
 By meticulously scrutinizing the individual's genetic landscape, genomic medicine has the power to unveil inherent genetic predispositions.
 This predictive capability propels preventive measures and early interventions, ushering in an era where healthcare is not just reactive but anticipatory.
 
-!!! quote "**Figure XYZ**"
+!!! quote "**Figure 5**"
 
     <figure markdown>
     ![](https://www.icpermed.eu/img/content/Scheema%20en%20S-ENb.png){ width=600 }
@@ -166,7 +162,7 @@ One pivotal technique that has emerged as a cornerstone in this exploration is p
 Through the construction of evolutionary trees, phylogenetics meticulously maps out the intricate relationships between different species.
 This visual representation serves as a roadmap, elucidating the branching points and shared ancestry, enabling us to trace the evolutionary trajectories of organisms and decipher the interconnectedness of life forms across time.
 
-!!! quote "**Figure XYZ**"
+!!! quote "**Figure 6**"
 
     <figure markdown>
     ![](https://www.ebi.ac.uk/training/online/courses/introduction-to-phylogenetics/wp-content/uploads/sites/36/2020/05/phylo1.png){ width=500 }
@@ -203,7 +199,7 @@ ODE modeling is particularly adept at representing systems governed by sets of d
 Conversely, agent-based modeling focuses on individual agents and the rules governing their behavior, providing insights into complex systems.
 Both methods find extensive application in systems biology, where they have been instrumental in modeling a diverse array of biological systems.
 
-!!! quote "**Figure XYZ**"
+!!! quote "**Figure 7**"
 
     <figure markdown>
     ![](https://isbscience.org/wp-content/uploads/network-medicine-1024x538.jpg){ width=100% }
@@ -222,7 +218,7 @@ In the 21st century, the significance of bioinformatics in the context of crop e
 Bioinformatics has evolved into a pivotal tool, empowering researchers to not only archive and retrieve biological data but also delve into multifaceted -omics data types, such as genomic, proteomic, transcriptomic, and metabolomic information.
 This comprehensive data analysis has unraveled the intricacies of crop genetics, unveiling the underlying genes responsible for coveted traits such as stress tolerance and disease resistance.
 
-!!! quote "**Figure XYZ**"
+!!! quote "**Figure 8**"
 
     <figure markdown>
     ![](http://12.000.scripts.mit.edu/mission2017/wp-content/uploads/2013/12/gm-3.png){ width=450px }
@@ -271,10 +267,9 @@ Machine learning algorithms are being actively developed to enhance data accurac
 Standardization of data formats, exemplified by the adoption of formats such as FASTQ and BAM, is streamlining the integration of heterogeneous biological data.
 Furthermore, initiatives like the National Institutes of Health’s Big Data to Knowledge (BD2K) program are playing a crucial role in fostering interdisciplinary collaboration, providing a framework for researchers to collectively tackle complex biological challenges.
 
-
 ## Scientific journals
 
-In 2024, [Clarivate][clarivate] has indexed 62 journals that scope primarily encompasses computational biology.
+In 2024, [Clarivate][clarivate] has indexed 62 journals whose scope primarily encompasses computational biology.
 Journals with broader scope such as Science and Nature also contain computational biology research, so this number is much higher.
 
 ??? info "List of journals"
