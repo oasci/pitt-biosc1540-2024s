@@ -12,7 +12,7 @@ This is derived from an [NIH document][nih-comp-bio] from more than 24 years ago
 Scopes of scientific journals for computational biology are another way we could define the field.
 The [Journal of Computational Biology][j-comp-bio] establishes its scope as
 
-> Journal of Computational Biology publishes articles whose primary contributions are the development and application of new methods in computational biology, including algorithmic, statistical, mathematical, machine learning, and artificial intelligence contributions.
+> the development and application of new methods in computational biology, including algorithmic, statistical, mathematical, machine learning, and artificial intelligence contributions.
 
 and [PLOS Computational Biology][plos-comp-bio] as contributions that
 
