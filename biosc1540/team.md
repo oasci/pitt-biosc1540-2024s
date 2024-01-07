@@ -40,7 +40,7 @@ Contact information can be found on [Canvas][canvas].
 
 ### Gabe Medeiros
 
-[Image]
+![Gabe Medeiros](/img/team/gabe.jpg){ width=300 }
 
 **Address me as:** Gabe
 
