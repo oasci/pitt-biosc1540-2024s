@@ -47,7 +47,10 @@ def on_page_markdown(markdown, **kwargs):
         markdown = "\n".join(lines)
 
         if automated_readability_index > 0:
-            markdown += '\n\n??? info "Readability"\n\n'
+            markdown += '\n\n??? quote "Readability"\n\n'
+            markdown += (
+                "    **Not accurate at the moment due to markdown formatting.**\n\n"
+            )
             markdown += f"    [Flesch-Kincaid Grade Level](/resources/readability/flesch-kincaid/): {flesch_kincaid_grade}\n\n"
             markdown += f"    [Automated Readability Index](/resources/readability/automated-readability-index/): {automated_readability_index}\n"
     return markdown
