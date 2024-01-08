@@ -76,11 +76,11 @@ Contact information can be found on [Canvas][canvas].
 
 ### Rushali Patel
 
-[Image]
+![Rushali Patel](/img/team/rushali.jpg){ width=300 }
 
-**Address me as:**
+**Address me as:** Rushali
 
-**Pronouns:**
+**Pronouns:** She/Her/Hers
 
 **Major:** Computational Biology
 
@@ -88,9 +88,9 @@ Contact information can be found on [Canvas][canvas].
 
 **Office hours:** Tuesday 1:00 - 2:00 pm in L1 Clapp Hall
 
-**Ask me about . . .**
+**Ask me about** Crocheting, my plants, and books I’ve read
 
-**Career trajectory . . .**
+**Career trajectory** Biological Data Science and Analysis
 
 ### Shreya Kundu
 
