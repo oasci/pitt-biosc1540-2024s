@@ -197,13 +197,11 @@ No class
 
 **Thursday** (Apr 18)
 
--   ^^Topics^^: Flex/study hall
--   ^^Due^^:
-    -   [Portfolio](/assessments/portfolio/)
+-   ^^Topics^^: Flex
 
 ## Finals
 
--   ^^Due^^: Quiz
+-   ^^Due^^: [Portfolio](/assessments/portfolio/) which includes the [molecular simulations checkpoint](/assessments/checkpoints/simulations/).
 
 <!-- LINKS -->
 

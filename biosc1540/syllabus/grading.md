@@ -5,17 +5,17 @@ As the semester progresses, you will be able to clearly see your standing in the
 
 ## Distribution
 
--   [**Portfolio**](../assessments/portfolio.md) (20% or 200 points)
--   [**Checkpoints**](../../assessments/checkpoints/) (30% or 300 points)
+-   [**Portfolio**](../assessments/portfolio.md) (15% or 150 points)
+-   [**Checkpoints**](../../assessments/checkpoints/) (40% or 400 points)
     -   Genomics (100 points)
     -   Transcriptomics (100 points)
     -   CADD (100 points)
+    -   Molecular simulations (100 points)
 -   [**Assignments**](../../assessments/assignments/) (20% or 200 points)
--   [**Quizzes**](../../assessments/quizzes/) (20% or 200 points)
+-   [**Quizzes**](../../assessments/quizzes/) (15% or 150 points)
     -   Genomics (50 points)
     -   Transcriptomics (50 points)
     -   CADD (50 points)
-    -   Molecular simulations (50 points)
 -   [**Participation**](../../assessments/participation/) (10% or 100 points)
 
 ## Late assignments and extensions
