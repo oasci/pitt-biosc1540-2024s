@@ -1,4 +1,4 @@
 nav:
     - index.md
     - introduction.ipynb
-    - Linear regression: linear.ipynb
+    - Univariate linear regression: univariate-linear.ipynb
