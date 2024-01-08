@@ -80,7 +80,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Address me as:** Rushali
 
-**Pronouns:** She/Her/Hers
+**Pronouns:** she/her/hers
 
 **Major:** Computational Biology
 
