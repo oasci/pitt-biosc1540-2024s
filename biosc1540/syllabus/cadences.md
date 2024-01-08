@@ -7,12 +7,16 @@ It is a carefully crafted schedule that ensures we cover all the topics promptly
 
 ## Module
 
-Each module (except [Python and ML](/modules/python-ml/)) will follow the same cadence over three weeks and six lectures.
+Each module will follow the same cadence over three weeks and six lectures.
 
 -   [Learning scenarios][learning-scenario] will be introduced in the first module's class.
 -   Material will be covered in the same order as the technology's typical workflow.
 -   [Quizzes][quiz] will be given in the last class of the module.
 -   [Checkpoints][checkpoints] are due on the first Thursday after the quiz (i.e., one week from the quiz).
+
+!!! warning
+
+    There will be no quiz or checkpoint for the [Python and ML module](../../modules/python-ml/).
 
 ## Week
 
