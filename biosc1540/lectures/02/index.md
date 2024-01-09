@@ -14,7 +14,7 @@
 
 ## Presentation
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-2024s-l02/embed?style=hidden&byline=hidden&share=hidden" width="100%" height="550" title="biosc1540-2024s-L02" scrolling="no" frameborder="1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-2024s-l02/embed?byline=hidden&share=hidden" width="100%" height="550" title="biosc1540-2024s-L02" scrolling="no" frameborder="1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p style="text-align: center;">
     <object hspace="50">
