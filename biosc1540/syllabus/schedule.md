@@ -13,42 +13,36 @@ Jump to [this week](#week-1).
 **Tuesday** (Jan 9) [Lecture 01](../../lectures/01/)
 
 -   ^^Topics^^: [Syllabus](/syllabus) and [computational biology](/modules/python-ml/comp-bio)
--   ^^Due^^: None
 
 **Thursday** (Jan 11) [Lecture 02](../../lectures/02/)
 
 -   ^^Topics^^: [Python basics](/modules/python-ml/python-basics) and [working with data](/modules/python-ml/data/)
 -   ^^Due^^:
-    -   Readings: [Python basics](/modules/python-ml/python-basics)
-    -   Assignments: [Pre-course survey][pre-course-survey]
+    -   [Pre-course survey][pre-course-survey]
 
 ### Week 2
 
 **Tuesday** (Jan 16) [Lecture 03](../../lectures/03/)
 
 -   ^^Topics^^: [Plotting](/modules/python-ml/plotting) and [regression](/modules/python-ml/regression)
--   ^^Due^^:
-    -   Readings: [Plotting](/modules/python-ml/plotting)
-    -   Readings: [Regression](/modules/python-ml/regression)
 
 **Thursday** (Jan 18) [Lecture 04](../../lectures/04/)
 
 -   ^^Topics^^: [Classification](/modules/python-ml/classification)
 -   ^^Due^^:
-    -   Assignments: TODO:
+    -   [Assignment 01](/assessments/assignments/01/)
 
 ### Week 3
 
 **Tuesday** (Jan 23) [Lecture 05](../../lectures/05/)
 
 -   ^^Topics^^: [Clustering](/modules/python-ml/clustering)
--   ^^Due^^:
 
 **Thursday** (Jan 25) [Lecture 06](../../lectures/06/)
 
 -   ^^Topics^^: [Neural networks](/modules/python-ml/neural-networks)
 -   ^^Due^^:
-    -   Assignments: TODO:
+    -   [Assignment 02](/assessments/assignments/02/)
 
 ## [Module 02 - Genomics][module 02]
 
@@ -57,37 +51,34 @@ Jump to [this week](#week-1).
 **Tuesday** (Jan 30) [Lecture 07](../../lectures/07/)
 
 -   ^^Topics^^: [Learning scenario](/modules/genomics/learning-scenario) and [sequencing](/modules/genomics/sequencing)
--   ^^Due^^:
 
 **Thursday** (Feb 1)
 
 -   ^^Topics^^: [Genome assembly](/modules/genomics/genome-assembly)
 -   ^^Due^^:
-    -   Assignments: TODO:
+    -   [Assignment 03](/assessments/assignments/03/)
 
 ### Week 5
 
 **Tuesday** (Feb 6)
 
 -   ^^Topics^^: [Sequence alignment](/modules/genomics/sequence-alignment)
--   ^^Due^^:
 
 **Thursday** (Feb 8)
 
 -   ^^Topics^^: Guest lecture from [Dr. Emily Kopania](https://ekopania.github.io/) on [evolutionary genomics](/modules/genomics/evolutionary-genomics)
 -   ^^Due^^:
-    -   Assignments: TODO:
+    -   [Assignment 04](/assessments/assignments/04/)
 
 ### Week 6
 
 **Tuesday** (Feb 13)
 
 -   ^^Topics^^: [Gene annotation](/modules/genomics/gene-annotation)
--   ^^Due^^:
 
 **Thursday** (Feb 15)
 
--   ^^Topics^^: Quiz
+-   ^^Topics^^: [Genomics quiz](/assessments/quizzes/genomics/)
 
 ## [Module 03 - Transcriptomics][module 03]
 
@@ -96,37 +87,34 @@ Jump to [this week](#week-1).
 **Tuesday** (Feb 20)
 
 -   ^^Topics^^: [Learning scenario](/modules/transcriptomics/learning-scenario) and [sequencing](/modules/transcriptomics/sequencing)
--   ^^Due^^:
 
 **Thursday** (Feb 22)
 
 -   ^^Topics^^: [Read mapping](/modules/transcriptomics/read-mapping)
 -   ^^Due^^:
-    -   Checkpoint: [Genomics](/assessments/checkpoints/genomics)
+    -   [Genomics checkpoint](/assessments/checkpoints/genomics)
 
 ### Week 8
 
 **Tuesday** (Feb 27)
 
 -   ^^Topics^^: [Quantification](/modules/transcriptomics/quantification)
--   ^^Due^^:
 
 **Thursday** (Feb 29)
 
 -   ^^Topics^^: [Gene expression analysis](/modules/transcriptomics/gene-expression-analysis)
 -   ^^Due^^:
-    -   Assignments: TODO:
+    -   [Assignment 05](/assessments/assignments/05/)
 
 ### Week 9
 
 **Tuesday** (Mar 5)
 
 -   ^^Topics^^: [Spatial transcriptomics](/modules/transcriptomics/spatial)
--   ^^Due^^:
 
 **Thursday** (Mar 7)
 
--   ^^Topics^^: Quiz
+-   ^^Topics^^: [Transcriptomics quiz](/assessments/quizzes/transcriptomics/)
 
 ### Spring break
 
@@ -141,37 +129,34 @@ No class
 **Tuesday** (Mar 19)
 
 -   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario) and [drug pipeline](/modules/cadd/drug-discovery-pipeline)
--   ^^Due^^:
 
 **Thursday** (Mar 21)
 
 -   ^^Topics^^: [Protein-ligand docking](/modules/cadd/docking)
 -   ^^Due^^:
-    -   Checkpoint: [Transcriptomics](/assessments/checkpoints/transcriptomics/)
+    -   [Transcriptomics checkpoint](/assessments/checkpoints/transcriptomics/)
 
 ### Week 12
 
 **Tuesday** (Mar 26)
 
 -   ^^Topics^^: [Scoring functions](/modules/cadd/scoring-functions)
--   ^^Due^^:
 
 **Thursday** (Mar 28)
 
 -   ^^Topics^^: [Ligand-based screening](/modules/cadd/ligand-based-screening)
 -   ^^Due^^:
-    -   Assignments: TODO:
+    -   [Assignment 06](/assessments/assignments/06/)
 
 ### Week 13
 
 **Tuesday** (Apr 2)
 
 -   ^^Topics^^: [Lead optimization](/modules/cadd/lead-optimization)
--   ^^Due^^:
 
 **Thursday** (Apr 4)
 
--   ^^Topics^^: Quiz
+-   ^^Topics^^: [CADD quiz](/assessments/quizzes/cadd/)
 
 ## [Module 05 - Molecular simulations][module 05]
 
@@ -180,20 +165,18 @@ No class
 **Tuesday** (Apr 9)
 
 -   ^^Topics^^: [Learning scenario](/modules/simulations/learning-scenario) and [types of molecular simulations](/modules/simulations/molecular-simulations)
--   ^^Due^^:
 
 **Thursday** (Apr 11)
 
 -   ^^Topics^^: [molecular mechanics](/modules/simulations/molecular-mechanics)
 -   ^^Due^^:
-    -   Checkpoint: [CADD](/assessments/checkpoints/cadd/)
+    -   [CADD checkpoint](/assessments/checkpoints/cadd/)
 
 ### Week 15
 
 **Tuesday** (Apr 16)
 
 -   ^^Topics^^: [Simulation workflow](/modules/simulations/simulation-workflow)
--   ^^Due^^:
 
 **Thursday** (Apr 18)
 
