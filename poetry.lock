@@ -834,6 +834,21 @@ python-dateutil = ">=2.8.1"
 dev = ["flake8", "markdown", "twine", "wheel"]
 
 [[package]]
+name = "gradescope-utils"
+version = "0.5.0"
+description = "Utilities for building Gradescope autograders"
+optional = false
+python-versions = "*"
+files = [
+    {file = "gradescope-utils-0.5.0.tar.gz", hash = "sha256:51542455ab9f4c9f75612e0a4ee0cb0c1386809de41254a77d3fd7b6c09525d5"},
+    {file = "gradescope_utils-0.5.0-py2.py3-none-any.whl", hash = "sha256:17c7bb3bc31474a862f006cb77e7f0f519cdade62ffd3cb014e5694a6afe2eb9"},
+]
+
+[package.extras]
+dev = ["check-manifest"]
+test = ["coverage"]
+
+[[package]]
 name = "griffe"
 version = "0.38.1"
 description = "Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API."
@@ -3956,4 +3971,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "6c20c2aa4b85eeda9125cb5ce4b197a8f9b8c1428fb7489a6d36121ddc15e4bd"
+content-hash = "869882856ac3989bd7a48a06cc8a1ba369d214e7b3f5f83f3d070557691110b1"
