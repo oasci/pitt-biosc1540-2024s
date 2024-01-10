@@ -26,6 +26,6 @@ Relevant content for today's lecture.
 
 <p style="text-align: center;">
     <object hspace="50">
-        <a href="/files/slides/pdfs/L01.pdf" target="_blank">PDF</a>
+        <a href="/files/slides/pdfs/biosc1540-2024s-l01.pdf" target="_blank">PDF</a>
     </object>
 </p>
