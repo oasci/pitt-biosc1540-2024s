@@ -1,9 +1,5 @@
 # Data pipeline
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 A data pipeline is a vital framework in the landscape of information systems, orchestrating the systematic movement and transformation of data across various stages.
 This intricate process shepherds data through its complete lifecycle, from inception to processing, storage, and eventual utilization.
 The comprehension of data pipelines is paramount for streamlining processes, safeguarding data integrity, and distilling meaningful insights from the information at hand.
