@@ -4,3 +4,4 @@ nav:
     - variables.ipynb
     - containers.ipynb
     - functions.ipynb
+    - libraries.ipynb
