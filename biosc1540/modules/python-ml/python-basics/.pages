@@ -2,3 +2,4 @@ nav:
     - index.md
     - arithmetic.ipynb
     - variables.ipynb
+    - functions.ipynb
