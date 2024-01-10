@@ -1,5 +1,6 @@
 nav:
     - index.md
+    - installation.md
     - arithmetic.ipynb
     - variables.ipynb
     - containers.ipynb
