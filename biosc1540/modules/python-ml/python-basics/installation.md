@@ -1,3 +1,5 @@
+# Installation
+
 !!! important
 
     This is just included for completeness.
@@ -212,3 +214,8 @@ It is generally a good idea to update conda first.
         This can be advantageous if you want the latest features or bug fixes.
     -   Some packages or specific versions might be available on conda-forge but not in the default Anaconda repository.
         Adding the conda-forge channel increases the pool of available packages.
+
+
+<!-- LINKS -->
+
+[miniconda]: https://docs.conda.io/projects/miniconda/en/latest/#
