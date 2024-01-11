@@ -16,7 +16,7 @@ Jump to [this week](#week-1).
 
 **Thursday** (Jan 11) [Lecture 02](../../lectures/02/)
 
--   ^^Topics^^: [Python basics](/modules/python-ml/python-basics) and [working with data](/modules/python-ml/data/)
+-   ^^Topics^^: [Python basics](/modules/python-ml/python-basics)
 -   ^^Due^^:
     -   [Pre-course survey][pre-course-survey]
 
@@ -24,11 +24,11 @@ Jump to [this week](#week-1).
 
 **Tuesday** (Jan 16) [Lecture 03](../../lectures/03/)
 
--   ^^Topics^^: [Plotting](/modules/python-ml/plotting) and [regression](/modules/python-ml/regression)
+-   ^^Topics^^: [Python basics](/modules/python-ml/python-basics)
 
 **Thursday** (Jan 18) [Lecture 04](../../lectures/04/)
 
--   ^^Topics^^: [Classification](/modules/python-ml/classification)
+-   ^^Topics^^: [Python basics](/modules/python-ml/python-basics) and [plotting](/modules/python-ml/plotting)
 -   ^^Due^^:
     -   [Assignment 01](/assessments/assignments/01/)
 
@@ -36,11 +36,11 @@ Jump to [this week](#week-1).
 
 **Tuesday** (Jan 23) [Lecture 05](../../lectures/05/)
 
--   ^^Topics^^: [Clustering](/modules/python-ml/clustering)
+-   ^^Topics^^: [regression](/modules/python-ml/regression)
 
 **Thursday** (Jan 25) [Lecture 06](../../lectures/06/)
 
--   ^^Topics^^: [Neural networks](/modules/python-ml/neural-networks)
+-   ^^Topics^^:  [regression](/modules/python-ml/regression) and [classification](/modules/python-ml/classification)
 -   ^^Due^^:
     -   [Assignment 02](/assessments/assignments/02/)
 
