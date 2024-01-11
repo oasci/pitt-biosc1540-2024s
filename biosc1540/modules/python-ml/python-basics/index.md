@@ -1,9 +1,5 @@
 # Python basics
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 ## Google Colab
 
 Managing local Python installations can be troublesome with a large class.
