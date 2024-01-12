@@ -7,6 +7,4 @@ nav:
     - Working with data: data
     - Plotting: plotting
     - Regression: regression
-    - Classification: classification
     - Clustering: clustering.md
-    - Neural networks: neural-networks.md
