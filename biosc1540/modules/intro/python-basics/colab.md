@@ -22,8 +22,8 @@ When you see a ![colab logo](/img/launchy/colab.svg){ width=18px } symbol in the
 
 !!! example
 
-    Go to [this page](../../python-ml/regression/introduction.ipynb) to see an example.
-    If you click ![colab logo](/img/launchy/colab.svg){ width=18px } then you will be taken [here](https://colab.research.google.com/github/oasci/pitt-biosc1540-2024s-website/blob/main/biosc1540/modules/python-ml/regression/introduction.ipynb).
+    Go to [this page](../../intro/regression/introduction.ipynb) to see an example.
+    If you click ![colab logo](/img/launchy/colab.svg){ width=18px } then you will be taken [here](https://colab.research.google.com/github/oasci/pitt-biosc1540-2024s-website/blob/main/biosc1540/modules/intro/regression/introduction.ipynb).
 
 How does this work?
 Well, [Google Colab](https://colab.google/) has an import mechanism for Jupyter Notebooks in [GitHub](https://github.com/) repositories.

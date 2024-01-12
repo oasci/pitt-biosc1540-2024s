@@ -16,7 +16,7 @@ Each module will follow the same cadence over three weeks and six lectures.
 
 !!! warning
 
-    There will be no quiz or checkpoint for the [Python and ML module](../../modules/python-ml/).
+    There will be no quiz or checkpoint for the [introduction module](../../modules/intro/).
 
 ## Week
 

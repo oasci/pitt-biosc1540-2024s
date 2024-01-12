@@ -6,17 +6,17 @@ Jump to [this week](#week-1).
 
     This page is a work in progress and is subject to change at any moment.
 
-## [Module 01 - Python and ML][module 01]
+## [Module 01 - Introduction][module 01]
 
 ### Week 1
 
 **Tuesday** (Jan 9) [Lecture 01](../../lectures/01/)
 
--   ^^Topics^^: [Syllabus](/syllabus) and [computational biology](/modules/python-ml/comp-bio)
+-   ^^Topics^^: [Syllabus](/syllabus) and [computational biology](/modules/intro/comp-bio)
 
 **Thursday** (Jan 11) [Lecture 02](../../lectures/02/)
 
--   ^^Topics^^: [Python basics](/modules/python-ml/python-basics)
+-   ^^Topics^^: [Python basics](/modules/intro/python-basics)
 -   ^^Due^^:
     -   [Pre-course survey][pre-course-survey]
 
@@ -24,11 +24,11 @@ Jump to [this week](#week-1).
 
 **Tuesday** (Jan 16) [Lecture 03](../../lectures/03/)
 
--   ^^Topics^^: [Python basics](/modules/python-ml/python-basics)
+-   ^^Topics^^: [Python basics](/modules/intro/python-basics)
 
 **Thursday** (Jan 18) [Lecture 04](../../lectures/04/)
 
--   ^^Topics^^: [Python basics](/modules/python-ml/python-basics) and [plotting](/modules/python-ml/plotting)
+-   ^^Topics^^: [Python basics](/modules/intro/python-basics) and [plotting](/modules/intro/plotting)
 -   ^^Due^^:
     -   [Assignment 01](/assessments/assignments/01/)
 
@@ -36,11 +36,11 @@ Jump to [this week](#week-1).
 
 **Tuesday** (Jan 23) [Lecture 05](../../lectures/05/)
 
--   ^^Topics^^: [regression](/modules/python-ml/regression)
+-   ^^Topics^^: [regression](/modules/intro/regression)
 
 **Thursday** (Jan 25) [Lecture 06](../../lectures/06/)
 
--   ^^Topics^^:  [regression](/modules/python-ml/regression) and [classification](/modules/python-ml/classification)
+-   ^^Topics^^:  [regression](/modules/intro/regression) and [classification](/modules/intro/classification)
 -   ^^Due^^:
     -   [Assignment 02](/assessments/assignments/02/)
 
@@ -188,7 +188,7 @@ No class
 
 <!-- LINKS -->
 
-[module 01]: /modules/python-ml
+[module 01]: /modules/intro
 [module 02]: /modules/genomics
 [module 03]: /modules/transcriptomics
 [module 04]: /modules/cadd

@@ -1,4 +1,4 @@
-# 01 - Python and machine learning
+# 01 - Introduction
 
 ## Learning objectives
 

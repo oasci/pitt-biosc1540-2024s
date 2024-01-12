@@ -16,9 +16,9 @@ What you should be able to do after today's lecture.
 Relevant content for today's lecture.
 
 -   [Syllabus](../../syllabus/)
--   [Computational biology](/modules/python-ml/comp-bio)
--   [Modeling philosophy](/modules/python-ml/modeling-philosophy)
--   [Programming languages](../../modules/python-ml/programming-langs.md)
+-   [Computational biology](/modules/intro/comp-bio)
+-   [Modeling philosophy](/modules/intro/modeling-philosophy)
+-   [Programming languages](../../modules/intro/programming-langs.md)
 
 ## Presentation
 

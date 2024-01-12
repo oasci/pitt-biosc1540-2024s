@@ -1,7 +1,7 @@
 nav:
     - index.md
     - 00 - Preliminaries: prelims
-    - 01 - Python and ML: python-ml
+    - 01 - Introduction: intro
     - 02 - Genomics: genomics
     - 03 - Transcriptomics: transcriptomics
     - 04 - CADD: cadd
