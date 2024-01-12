@@ -26,8 +26,8 @@
      inkscape:pagecheckerboard="true"
      showgrid="false"
      inkscape:zoom="1.028129"
-     inkscape:cx="747.47431"
-     inkscape:cy="348.20534"
+     inkscape:cx="747.4743"
+     inkscape:cy="659.45032"
      inkscape:window-width="1868"
      inkscape:window-height="1016"
      inkscape:window-x="1972"
@@ -60,7 +60,7 @@
          id="tspan7247"
          x="668.03937"
          y="181.72163"
-         style="font-weight:bold;font-size:29.3333px;fill:#ff2a2a">Markdown block</tspan></text>
+         style="font-weight:bold;font-size:29.3333px;fill:#ff2a2a">Markdown cell</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
@@ -71,7 +71,7 @@
          id="tspan7247-6"
          x="668.03937"
          y="449.21698"
-         style="font-weight:bold;font-size:29.3333px;fill:#ff2a2a">Markdown block</tspan></text>
+         style="font-weight:bold;font-size:29.3333px;fill:#ff2a2a">Markdown cell</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
@@ -82,7 +82,7 @@
          id="tspan7247-6-56"
          x="668.03937"
          y="905.50275"
-         style="font-weight:bold;font-size:29.3333px;fill:#ff2a2a">Markdown block</tspan></text>
+         style="font-weight:bold;font-size:29.3333px;fill:#ff2a2a">Markdown cell</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
@@ -93,7 +93,7 @@
          id="tspan7247-6-5"
          x="723.02496"
          y="785.73651"
-         style="font-weight:bold;font-size:29.3333px;fill:#ff2a2a">Python block</tspan></text>
+         style="font-weight:bold;font-size:29.3333px;fill:#ff2a2a">Python cell</tspan></text>
     <rect
        style="fill:none;stroke:#0066ff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect18430"

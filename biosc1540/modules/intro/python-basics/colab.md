@@ -1,9 +1,5 @@
 # Google Colab
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 Managing local Python installations can be troublesome with a large class.
 Different versions, dependencies, and system setups could mean it runs on your computer but not elsewhere.
 To minimize these issues, we will be using [Google Colab](https://colab.google/) to write, run, and distribute Python code in [Jupyter Notebooks](https://jupyter.org/).
@@ -33,30 +29,66 @@ How does this work?
 Well, [Google Colab](https://colab.google/) has an import mechanism for Jupyter Notebooks in [GitHub](https://github.com/) repositories.
 Adding an import link is all it takes.
 
-!!! quote "**Figure 1**"
+When you open up our Jupyter notebooks in Google colab, you will be met with this screen.
 
-    When you open up our Jupyter notebooks in Google colab, you will be met with this screen.
+<figure markdown>
+![](/img/colab/gui.svg){ width=600 }
+</figure>
 
-    <figure markdown>
-    ![](/img/colab/gui.svg){ width=600 }
-    </figure>
+Jupyter notebooks are made up of <font color="#ff2a2a"><b>cells</b></font> which can be thought of as paragraphs that can change types.
+[Markdown](https://www.markdownguide.org/) is simply text like you would put in a Word document, email, etc.
+The only difference is how you specify things like a list, link, etc.
 
-    Jupyter notebooks are made up of <font color="#ff2a2a"><b>blocks</b></font> which can be thought of as paragraphs that can change types.
-    [Markdown](https://www.markdownguide.org/) is simply text like you would put in a Word document, email, etc.
-    The only difference is how you specify things like a list, link, etc.
+When you see a `[ ]` on the left with a greyed out background, this is a Python cell.
+You can put any Python code here and run it.
+We will get to this [later](#cells).
 
-    When you see a `[ ]` with a greyed out background, this is a Python block.
-    You can put any Python code here and run it.
-    We will get to this later.
+When working on Jupyter notebooks from this website, you should always <font color="#37c871"><b>save a copy to your Google Drive</b></font>.
 
-    When working on Jupyter notebooks from this website, you should always <font color="#37c871"><b>save a copy to your Google Drive</b></font>.
+To run Python code, you have to <font color="#0066ff"><b>connect to Google's servers</b></font>.
+When you click this button, it will initiate a connection to Google's servers and will look like this once it is done.
 
-    To run Python code, you have to <font color="#0066ff"><b>connect to Google's servers</b></font>.
-    When you click this button, it will initiate a connection to Google's servers and will look like this once it is done.
+<figure markdown>
+![](/img/colab/kernel-running.png){ width=200 }
+</figure>
 
-    <figure markdown>
-    ![](/img/colab/kernel-running.png){ width=200 }
-    </figure>
+## Cells
+
+A Jupyter notebook consists of a sequence of cells.
+The flow of a notebook is sequential from top to bottom.
+You enter code into an input cell, and when you run the cell, the notebook runs the code and prints the output of the computation to an output cell.
+
+
+For example, we can look at the following Python code.
+
+```python
+print("Your message here!")
+```
+
+This Python code should print the string "Your message here!" once we run it.
+The figure directly below shows the ▷ on the left, which means we can run the Python code in that cell.
+
+<figure markdown>
+![](/img/colab/cell.svg){ width=300 }
+</figure>
+
+Once we run this, you would see the figure below.
+
+<figure markdown>
+![](/img/colab/cell-ran.png){ width=300 }
+</figure>
+
+You can tell that the Python cell was ran **at some point** by the ✓ to the right with no errors.
+The `0s` below the ✓ just tells you how many seconds it took to run.
+We can also see the cell output contains `Your message here!`.
+If you make any changes to this cell, you have to run it again.
+
+Do not worry, you do not have to keep clicking a bunch of ▷ to run all of your cells.
+We have some shortcuts:
+
+-   Windows: ++ctrl+enter++
+-   Mac: ++cmd+enter++
+-   Linux: ++ctrl+enter++
 
 ## Python kernel
 
@@ -67,32 +99,67 @@ By running Python code in a Jupyter notebook, you are giving instructions to the
 Stopping and starting the kernel is very similar to restarting your own computer.
 You get a fresh kernel each time, and this is a good first step for troubleshooting any issues.
 
-!!! quote "**Figure 1**"
+When you open up our Jupyter notebooks in Google colab, you will be met with this screen.
 
-    When you open up our Jupyter notebooks in Google colab, you will be met with this screen.
+<figure markdown>
+![](/img/colab/runtime.svg){ width=600 }
+</figure>
 
-    <figure markdown>
-    ![](/img/colab/runtime.svg){ width=600 }
-    </figure>
+You can restart the kernel from the `Runtime` menu at the top left with two options:
 
-    You can restart the kernel from the `Runtime` menu at the top left with two options:
+-   <font color="#ff5555"><b>Restart session:</b></font> This is essentially turning the kernel on and back on again.
+    However, this does not automatically run all of your Python code.
+-   <font color="#003594"><b>Restart session and run all:</b></font> This restarts the kernel, but then also runs all of your Python cells from top to bottom.
+    Usually you want to use this one.
 
-    -   <font color="#ff5555"><b>Restart session:</b></font> This is essentially turning the kernel on and back on again.
-        However, this does not automatically run all of your Python code.
-    -   <font color="#003594"><b>Restart session and run all:</b></font> This restarts the kernel, but then also runs all of your Python cells from top to bottom.
-        Usually you want to use this one.
+### Persistent
 
-## Saving
+One crucial aspect of Jupyter notebooks to be aware of is that the kernel is persistent.
+This means that it keeps track of everything you ran while connected to Google's servers.
+Variables, functions, and computations performed in one Python cell are available in other Python cells&mdash;before or after.
+For example, suppose I have the following three cells:
 
-Opening it, however, does not create a copy in your Google Drive.
-When running code, working on assignments, etc. you should always save a copy in your Google Drive.
-The ![colab logo](/img/launchy/colab.svg){ width=18px } button just opens up a copy without saving it.
-We recommend keeping these files in a class directory.
+**1**:
+
+```python
+testing = True
+```
+
+**2**:
+
+```python
+print(testing, course)
+```
+
+**3**:
+
+```python
+course = "computational biology"
+```
+
+If I ran cell **1** and then tried to run cell **2**, Python would give me an error because `course` is not defined.
+However, if I then ran cell **3**, then ran cell **2** again it would work!
+This is because the whole Python kernel shares memory; changing anything would update the shared memory and would affect Python cells that run after.
+
+### Inspecting
+
+Because all cells share the same kernel, we can actually view (i.e., inspect) what variables we have and what they are defined as.
+Suppose I define three lists like so.
+
+<figure markdown>
+![](/img/colab/vars.png){ width=600 }
+</figure>
+
+If I click on the $\{x\}$ symbol on the left, Jupyter will show me all of the variable names, types, values, and other information.
+
+<figure markdown>
+![](/img/colab/vars-inspect.png){ width=600 }
+</figure>
 
 ## Reproducibility
 
 As mentioned above, the version of Python can affect its reproducibility.
-We include the following code block as the first code cell.
+We include the following code as the first code cell.
 
 ```python
 import sys
