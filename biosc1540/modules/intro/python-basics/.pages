@@ -3,6 +3,7 @@ nav:
     - colab.md
     - arithmetic.ipynb
     - variables.ipynb
+    - data-types.ipynb
     - containers.ipynb
     - functions.ipynb
     - conditionals.ipynb
