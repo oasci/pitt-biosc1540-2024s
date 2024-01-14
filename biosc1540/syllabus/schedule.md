@@ -1,6 +1,6 @@
 # Schedule
 
-Jump to [this week](#week-1).
+Jump to [this week](#week-2).
 
 !!! danger "DRAFT"
 
@@ -25,12 +25,14 @@ Jump to [this week](#week-1).
 **Tuesday** (Jan 16) [Lecture 03](../../lectures/03/)
 
 -   ^^Topics^^: [Python basics](/modules/intro/python-basics)
+-   ^^Due^^:
+    -   [Assignment 01](/assessments/assignments/01/)
 
 **Thursday** (Jan 18) [Lecture 04](../../lectures/04/)
 
 -   ^^Topics^^: [Python basics](/modules/intro/python-basics) and [plotting](/modules/intro/plotting)
 -   ^^Due^^:
-    -   [Assignment 01](/assessments/assignments/01/)
+    -   [L02 worksheet](/lectures/02/l02_bacteria_pop/)
 
 ### Week 3
 
