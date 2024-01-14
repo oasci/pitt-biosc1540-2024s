@@ -7,7 +7,7 @@
    viewBox="0 0 512.00016 423.65852"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="robot-ingredients.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="5.3259258"
-     inkscape:cx="169.54799"
-     inkscape:cy="339.84702"
-     inkscape:window-width="1874"
+     inkscape:zoom="0.66574073"
+     inkscape:cx="965.09042"
+     inkscape:cy="238.83172"
+     inkscape:window-width="1868"
      inkscape:window-height="1016"
-     inkscape:window-x="46"
-     inkscape:window-y="907"
+     inkscape:window-x="1972"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      showguides="true"
@@ -1262,5 +1262,16 @@
        style="fill:none;fill-opacity:1;stroke:#a6a6a6;stroke-width:3.67575;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 243.33346,367.91658 v -7.7215"
        id="path30" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+       x="174.25346"
+       y="40.604782"
+       id="text1471"><tspan
+         sodipodi:role="line"
+         id="tspan1469"
+         x="174.25346"
+         y="40.604782"
+         style="font-size:24px">make_cookies</tspan></text>
   </g>
 </svg>
