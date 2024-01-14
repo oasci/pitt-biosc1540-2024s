@@ -4,7 +4,7 @@ nav:
     - arithmetic.ipynb
     - variables.ipynb
     - data-types.ipynb
-    - containers.ipynb
+    - collections.ipynb
     - functions.ipynb
     - conditionals.ipynb
     - loops.ipynb
