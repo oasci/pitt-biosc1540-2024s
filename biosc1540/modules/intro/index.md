@@ -8,9 +8,8 @@
 -   🐍 Demonstrate understanding of core Python concepts (variables, data types, control flow) for effective problem-solving.
 -   🐍 Proficiently use biological data using Python libraries, with a focus on Pandas and NumPy.
 -   🐍 Use Python libraries (e.g., Matplotlib, Seaborn) to create visually compelling plots that communicate complex biological data effectively.
--   🐍 🧮 Develop an understanding of clustering concepts and implement common algorithms to identify patterns in biological data.
--   🐍 🧮 Implement regression models to capture relationships within biological variables.
--   🤖 Acquire an understanding of neural network basics, including architecture and fundamental principles.
+-   🐍 🧮 🤖 Develop an understanding of clustering concepts and implement common algorithms to identify patterns in biological data.
+-   🐍 🧮 🤖 Implement regression models to capture relationships within biological variables.
 
 ## Resources
 
