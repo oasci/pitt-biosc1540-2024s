@@ -9,6 +9,8 @@ Here are some options I recommend&mdash;in decreasing order&mdash;along with wha
 -   [Google's Python Class](https://developers.google.com/edu/python): Everything.
 -   [Byte of Python](https://python.oasci.org/external/byte-of-python/): Everything
 
+I am a huge fan of the [Real Python](https://realpython.com/) website; it is my go-to place for learning more about Python.
+
 ## 🎯 Expectations
 
 The main purpose of this section is to give you a basic understanding of programming in Python.
