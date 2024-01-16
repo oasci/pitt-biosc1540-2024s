@@ -52,12 +52,22 @@ When you click this button, it will initiate a connection to Google's servers an
 ![](/img/colab/kernel-running.png){ width=200 }
 </figure>
 
+## Downloading
+
+In most cases, you will need to upload your assignment to Gradescope as a Python file (`.py`).
+
+<figure markdown>
+![](/img/colab/save-py.png){ width=600 }
+</figure>
+
+This will download your Jupyter Notebook as a Python script that my autograder can use.
+It will comment out all markdown cells and then run your Python code from top to bottom.
+
 ## Cells
 
 A Jupyter notebook consists of a sequence of cells.
 The flow of a notebook is sequential from top to bottom.
 You enter code into an input cell, and when you run the cell, the notebook runs the code and prints the output of the computation to an output cell.
-
 
 For example, we can look at the following Python code.
 
