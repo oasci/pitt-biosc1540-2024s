@@ -4,14 +4,15 @@
 
 What you should be able to do after today's lecture.
 
-1.  🐍 Define key programming concepts of variables, data types, conditionals, functions, and loops.
-2.  🐍 Declare and manipulate different variable types like strings, integers, booleans.
-3.  🐍 Implement `if`/`else` conditional logic to control program flow.
-4.  🐍 Explain and call functions to abstract code into reusable logic.
+1.  🐍 Declare and manipulate different variable types like strings, integers, booleans.
+2.  🐍 Utilize lists for storing ordered, mutable collections.
+3.  🐍 Create, access, and modify dictionaries.
+4.  🐍 Implement `if`/`else` conditional logic to control program flow.
 5.  🐍 Utilize `for` loops to iterate through data programmatically.
-6.  🐍 Access Python's standard library to leverage existing functionality.
-7.  🐍 Analyze sample code snippets and determine their behavior.
-8.  🐍 Write basic Python code using foundational building blocks.
+6.  🐍 Explain and call functions with parameters and scope rules.
+7.  🐍 Access Python's standard library to leverage existing functionality.
+8.  🐍 Analyze sample code snippets and determine their behavior.
+9.  🐍 Write basic Python code using foundational building blocks.
 
 ## Readings
 
