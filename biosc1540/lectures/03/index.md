@@ -22,4 +22,6 @@ Relevant content for today's lecture.
 
 ## Presentation
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-2024s-l03-pre/embed?byline=hidden&share=hidden" width="100%" height="600" title="biosc1540-2024s-L03-pre" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[Live link](https://slides.com/d/6wHWybY/live) for during class. Full presentation (below) will be released after class.
+
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-2024s-l03/embed?byline=hidden&share=hidden" width="100%" height="600" title="biosc1540-2024s-L03-pre" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
