@@ -33,6 +33,9 @@ mkdocs-macros-plugin = "^1.0.5"
 textstat = "^0.7.3"
 pytest = "^7.4.4"
 gradescope-utils = "^0.5.0"
+h5py = "^3.10.0"
+numpy = "^1.26.3"
+pandas = "^2.1.4"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.10.0"
