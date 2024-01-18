@@ -2620,6 +2620,20 @@ files = [
 tests = ["pytest"]
 
 [[package]]
+name = "py3dmol"
+version = "2.0.4"
+description = "An IPython interface for embedding 3Dmol.js views in Jupyter notebooks"
+optional = false
+python-versions = "*"
+files = [
+    {file = "py3Dmol-2.0.4-py2.py3-none-any.whl", hash = "sha256:356a3a9fee9c48be9b010228790ce394bd4d90d3fd47448964fcbfa6dc5e0a84"},
+    {file = "py3Dmol-2.0.4.tar.gz", hash = "sha256:07909c587ba7e40d17e2ca9383193ead807af834f9569b108cff784ec4cfb525"},
+]
+
+[package.extras]
+ipython = ["IPython"]
+
+[[package]]
 name = "pycparser"
 version = "2.21"
 description = "C parser in Python"
@@ -4046,4 +4060,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "55ef915fea5565e9a600856380aae471488d5b5ad03da8a448054a0307e2f0f2"
+content-hash = "87f413a1dd32d21eadc9ae03bc33b166a5014ab8a4c342c0d289cf6a5e9c09a2"
