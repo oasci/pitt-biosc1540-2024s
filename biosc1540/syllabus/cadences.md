@@ -58,9 +58,9 @@ Activities need to be submitted by 11:00 am on the same day.
 <!-- LINKS -->
 
 [learning-scenario]: /syllabus/philosophy#real-world-scenarios-enhance-learning
-[quiz]: /syllabus/assessments/#quizzes
-[checkpoints]: /syllabus/assessments/#checkpoints
-[assignments]: /syllabus/assessments/#assignments
+[quiz]: /assessments/quizzes
+[checkpoints]: /assessments/checkpoints
+[assignments]: /assessments/assignments
 [gabe]: /team#gabe-medeiros
 [rushali]: /team#rushali-patel
 [shreya]: /team#shreya-kundu
