@@ -21,20 +21,21 @@ Each module will follow the same cadence over three weeks and six lectures.
 ## Week
 
 -   **Monday**
-    -   [Alex's][alex] office hours from 11:00 am - 12:00 pm.
+    -   [Alex's][alex] office hours from 4:00 pm - 5:00 pm.
 -   **Tuesday**
     -   Lecture from 9:30 am - 10:45 am.
     -   Team (instructor and TAs) meeting from 12:00 - 12:30 pm.
     -   [James][james] and [Rushali's][rushali] office hours from 1:00 - 2:00 pm.
 -   **Wednesday**
-    -   [Alex's][alex] office hours from 11:00 am - 12:00 pm.
     -   [Gabe][gabe] and [Shreya's][shreya] office hours at 1:00 - 2:00  pm.
     -   Previous lecture's materials are finalized.
+    -   [Alex's][alex] office hours from 6:00 pm, - 7:00 pm.
 -   **Thursday**
     -   Lecture from 9:30 am - 10:45 am.
     -   Last week's [assignments][assignments] due by 11:59 pm.
     -   Module [checkpoints][checkpoints] due by 11:59 pm.
 -   **Friday**
+    -   [Alex's][alex] office hours from 11:00 am - 12:00 pm.
     -   [Assignments][assignments] for upcoming Thursday are released.
     -   Readings for the upcoming week are released.
     -   Previous lecture's materials are finalized.
