@@ -38,6 +38,7 @@ numpy = "^1.26.3"
 pandas = "^2.1.4"
 rdkit = "^2023.9.4"
 py3dmol = "^2.0.4"
+opencv-python = "^4.9.0.80"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.10.0"
