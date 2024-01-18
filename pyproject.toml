@@ -36,6 +36,7 @@ gradescope-utils = "^0.5.0"
 h5py = "^3.10.0"
 numpy = "^1.26.3"
 pandas = "^2.1.4"
+rdkit = "^2023.9.4"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.10.0"
