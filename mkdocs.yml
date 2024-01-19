@@ -78,6 +78,7 @@ plugins:
         order_by: title
   - glightbox
   - macros
+  - print-site
 
 hooks:
   - hooks/launchy.py

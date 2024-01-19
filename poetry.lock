@@ -1940,6 +1940,20 @@ files = [
 ]
 
 [[package]]
+name = "mkdocs-print-site-plugin"
+version = "2.3.6"
+description = "MkDocs plugin that combines all pages into one, allowing for easy export to PDF and standalone HTML."
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "mkdocs-print-site-plugin-2.3.6.tar.gz", hash = "sha256:82e5cabcfb7fe3074daecea018f28ccb4bff086f965e3103fe91019a76752f22"},
+    {file = "mkdocs_print_site_plugin-2.3.6-py3-none-any.whl", hash = "sha256:01ccb1ceccc87f29e1612bebb77c3bf9980809fbce750fc2113f9d6acea589d4"},
+]
+
+[package.dependencies]
+mkdocs-material = ">=7.3.0"
+
+[[package]]
 name = "mkdocs-table-reader-plugin"
 version = "2.0.3"
 description = "MkDocs plugin to directly insert tables from files into markdown."
@@ -2243,11 +2257,11 @@ files = [
 [package.dependencies]
 numpy = [
     {version = ">=1.21.0", markers = "python_version == \"3.9\" and platform_system == \"Darwin\" and platform_machine == \"arm64\""},
-    {version = ">=1.26.0", markers = "python_version >= \"3.12\""},
-    {version = ">=1.23.5", markers = "python_version >= \"3.11\" and python_version < \"3.12\""},
     {version = ">=1.21.4", markers = "python_version >= \"3.10\" and platform_system == \"Darwin\" and python_version < \"3.11\""},
     {version = ">=1.21.2", markers = "platform_system != \"Darwin\" and python_version >= \"3.10\" and python_version < \"3.11\""},
     {version = ">=1.19.3", markers = "platform_system == \"Linux\" and platform_machine == \"aarch64\" and python_version >= \"3.8\" and python_version < \"3.10\" or python_version > \"3.9\" and python_version < \"3.10\" or python_version >= \"3.9\" and platform_system != \"Darwin\" and python_version < \"3.10\" or python_version >= \"3.9\" and platform_machine != \"arm64\" and python_version < \"3.10\""},
+    {version = ">=1.26.0", markers = "python_version >= \"3.12\""},
+    {version = ">=1.23.5", markers = "python_version >= \"3.11\" and python_version < \"3.12\""},
 ]
 
 [[package]]
@@ -4086,4 +4100,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "b2a97126379698517a438dac106991cb71f4961ed10791b7bd49728f5418c14b"
+content-hash = "562be8551ca3edfd1cd63f0dfef45eb05237d96cf9df3f68cc7b74b7466d90bc"

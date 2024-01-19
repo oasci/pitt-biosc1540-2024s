@@ -47,7 +47,7 @@ def on_page_markdown(markdown, **kwargs):
         markdown = "\n".join(lines)
 
         if automated_readability_index > 0:
-            markdown += '\n\n??? quote "Readability"\n\n'
+            markdown += '\n\n??? quote print-site-plugin-ignore "Readability"\n\n'
             markdown += (
                 "    **Not accurate at the moment due to markdown formatting.**\n\n"
             )
