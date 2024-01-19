@@ -10,8 +10,11 @@
 <br>
 **Email:** `alex.maldonado@pitt.edu`
 <br>
-**Office hours:** Monday and Wednesday from 11:00 am - 12:00 pm in 102 Clapp Hall.
-I am also available [by appointment][alex-calendar].
+**Office hours:**
+
+-   Monday 4:00 pm - 5:00 pm in TBD
+-   Wednesday 6:00 pm - 7:00 pm on Zoom
+-   Friday 11:00 am - 12:00 pm in TBD
 
 ## Description
 
