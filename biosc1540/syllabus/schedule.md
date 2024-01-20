@@ -1,6 +1,6 @@
 # Schedule
 
-Jump to [this week](#week-2).
+Jump to [this week](#week-3).
 
 !!! danger "DRAFT"
 
@@ -38,11 +38,11 @@ Jump to [this week](#week-2).
 
 **Tuesday** (Jan 23) [Lecture 05](../../lectures/05/)
 
--   ^^Topics^^: [regression](/modules/intro/regression)
+-   ^^Topics^^: [Regression](/modules/intro/regression) and [classification](/modules/intro/classification)
 
 **Thursday** (Jan 25) [Lecture 06](../../lectures/06/)
 
--   ^^Topics^^:  [regression](/modules/intro/regression) and [classification](/modules/intro/classification)
+-   ^^Topics^^:  [Clustering](/modules/intro/clustering)
 -   ^^Due^^:
     -   [Assignment 02](/assessments/assignments/02/)
 
