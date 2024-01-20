@@ -20,9 +20,9 @@ This is a Google voice number, so I will just deactivate or change it if this be
 
 **Office hours:**
 
--   Monday 4:00 pm - 5:00 pm in TBD
+-   Monday 4:00 pm - 5:00 pm in 219A Langley
 -   Wednesday 6:00 pm - 7:00 pm on Zoom
--   Friday 11:00 am - 12:00 pm in TBD
+-   Friday 11:00 am - 12:00 pm in 219A Langley
 
 **Office:** 103 Clapp Hall
 
