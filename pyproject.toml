@@ -40,6 +40,7 @@ rdkit = "^2023.9.4"
 py3dmol = "^2.0.4"
 opencv-python = "^4.9.0.80"
 mkdocs-print-site-plugin = "^2.3.6"
+torch = "^2.1.2"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.10.0"
