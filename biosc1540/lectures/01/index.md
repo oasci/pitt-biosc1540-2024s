@@ -1,5 +1,7 @@
 # Lecture 01
 
+**Date:** Jan 09, 2024
+
 ## Learning objectives
 
 What you should be able to do after today's lecture.
