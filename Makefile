@@ -4,7 +4,7 @@ PYTHON_VERSION_CONDENSED := 311
 PACKAGE_NAME := biosc1540-2024s
 CONDA_NAME := $(PACKAGE_NAME)-dev
 CONDA := conda run -n $(CONDA_NAME)
-CONDA_LOCK_OPTIONS := -p linux-64 -p osx-64 -p win-64 --channel conda-forge
+CONDA_LOCK_OPTIONS := -p linux-64 --channel conda-forge --channel nvidia --channel pytorch
 
 ###   ENVIRONMENT   ###
 

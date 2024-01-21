@@ -19,6 +19,7 @@
 -   [kaggle](https://www.kaggle.com/)
 -   [Machine learning mastery](https://machinelearningmastery.com/start-here/)
 -   [learnpython.org](https://learnpython.org/)
+-   [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)
 
 ## Research labs
 

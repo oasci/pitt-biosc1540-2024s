@@ -1,3 +1,4 @@
 nav:
     - index.ipynb
     - linear.ipynb
+    - nonlinear.ipynb
