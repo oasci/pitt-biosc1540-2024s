@@ -2,7 +2,7 @@
 
 Attendance and active participation are strongly encouraged in this course.
 While attendance is not technically mandatory, [participation contributes 10% to your overall grade](./assessments.md/#participation).
-This is designed to enhance your understanding of the material through active engagement in class discussions, group activities, and hands-on exercises.
+Classes enhance your understanding of the material through active engagement in class discussions, group activities, and hands-on exercises.
 
 !!! important
 

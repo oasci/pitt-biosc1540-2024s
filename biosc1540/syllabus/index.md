@@ -12,14 +12,14 @@
 <br>
 **Office hours:**
 
--   Monday 4:00 pm - 5:00 pm in 219A Langley
--   Wednesday 6:00 pm - 7:00 pm on Zoom
--   Friday 11:00 am - 12:00 pm in 219A Langley
+-   Monday 4:00 PM - 5:00 PM in 219A Langley
+-   Wednesday 6:00 PM - 7:00 PM on Zoom
+-   Friday 11:00 AM - 12:00 PM in 219A Langley
 
 ## Description
 
-This course is designed to give students a broad understanding of how computational approaches can be used to solve problems in biology.
-Both the biological and computational underpinnings of the methods will be addressed.
+This course gives students a broad understanding of how computational approaches can solve problems in biology.
+We will also explore the biological and computational underpinnings of the methods.
 
 ## Prerequisites
 
@@ -30,11 +30,11 @@ You must have received a minimum grade of `C` in Foundations of Biology 2 (BIOSC
 -   **Jan 15:** Dr. Martin Luther King’s Birthday Observance (University Closed)
 -   **Jan 19:** Spring Term Add/Drop Period Ends
 -   **Jan 26:** Spring Term Extended Drop Period Ends (Undergraduate Students Only)
--   **Feb 19:** Midterm grades must be Approved by Instructors by 11:59 pm.
+-   **Feb 19:** Instructors must Approve Midterm grades by 11:59 PM.
 -   **Mar 8:**
-    -   Final Exam Conflict Form Submission Deadline
+    -   Deadline for Submitting Final Exam Conflict Form
     -   Spring Term Deadline for Students to Submit Monitored Withdrawal Forms to Dean’s Office
 -   **Apr 19:** Spring Term: Last Day for Undergraduate Day Classes
--   **May 1:** Spring Term Grades Must Be Approved by Instructors by 11:59 pm.
+-   **May 1:** Instructors must Approve Spring Term Grades by Instructors by 11:59 PM.
 
 [alex-calendar]: https://app.cal.com/alexmaldonado/class

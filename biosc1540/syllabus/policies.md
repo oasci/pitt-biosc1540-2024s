@@ -40,34 +40,34 @@ You must also be aware of the following aspects of generative AI.
 
 -   **AI detection:**
     As discussed [here](https://teaching.pitt.edu/resources/chatgpt-resources-for-faculty/), the University Center for Teaching and Learning does not recommend using AI detection tools like [turnitin](https://www.turnitin.com/solutions/ai-writing) due to high false positive rates.
-    I will not use AI detection tools in any capacity for this course, as I encourage and trust that you will responsibly use these tools when permitted and desired.
+    I will not use AI detection tools in any capacity for this course. I encourage and trust that you will use these tools responsibly when permitted and desired.
 
 Remember that generative AI is helpful when used responsibly.
 You can ethically benefit from these technological advances by adhering to these guidelines.
 Embrace this opportunity to expand your skill set and engage thoughtfully with emerging technologies.
-If you have any questions about AI tool usage, please get in touch with me for clarification and guidance.
+If you have any questions about AI tool usage, please contact me for clarification and guidance.
 
 !!! info
 
-    I use ChatGPT, Bing Chat, and GitHub Copilot frequently in my research and in preparing ideas for teaching materials and explanations.
-    Acknowledgements are always included in my work; for example, you can see a [recent publication of mine](https://link.springer.com/article/10.1186/s12915-023-01791-z#Ack1) where we acknowledge several AI tools.
-    That said, all materials on this website are reviewed by me for accuracy and clarity.
+    I frequently use ChatGPT, Bing Chat, and GitHub Copilot in my research and preparing ideas for teaching materials and explanations.
+    Acknowledgments are always included in my work; for example, you can see a [recent publication of mine](https://link.springer.com/article/10.1186/s12915-023-01791-z#Ack1) where we acknowledge several AI tools.
+    That said, I review all materials on this website for accuracy and clarity.
 
 ## Equity, diversity, and inclusion
 
-The University of Pittsburgh does not tolerate any form of discrimination, harassment, or retaliation based on disability, race, color, religion, national origin, ancestry, genetic information, marital status, familial status, sex, age, sexual orientation, veteran status or gender identity or other factors as stated in the University’s Title IX policy.
-The University is committed to taking prompt action to end a hostile environment that interferes with the University’s mission.
+The University of Pittsburgh does not tolerate any form of discrimination, harassment, or retaliation based on disability, race, color, religion, national origin, ancestry, genetic information, marital status, familial status, sex, age, sexual orientation, veteran status or gender identity or other factors as stated in the University's Title IX policy.
+The University is committed to taking prompt action to end a hostile environment that interferes with the University's mission.
 For more information about policies, procedures, and practices, visit the [Civil Rights & Title IX Compliance web page](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance).
 
 I ask that everyone in the class strive to help ensure that other members of this class can learn in a supportive and respectful environment.
 If there are instances of the aforementioned issues, please contact the Title IX Coordinator, by calling 412-648-7860 or emailing [titleixcoordinator@pitt.edu](mailto:titleixcoordinator@pitt.edu).
 Reports can also be [filed online](https://www.diversity.pitt.edu/civil-rights-title-ix/make-report/report-form).
-You may also choose to report this to a faculty/staff member; they are required to communicate this to the University’s Office of Diversity and Inclusion.
+You may also choose to report this to a faculty/staff member; they are required to communicate this to the University's Office of Diversity and Inclusion.
 If you wish to maintain complete confidentiality, you may also contact the University Counseling Center (412-648-7930).
 
 ## Academic integrity
 
-Students in this course will be expected to comply with the [University of Pittsburgh’s Policy on Academic Integrity](https://www.provost.pitt.edu/academic-integrity-guidelines).
+Students in this course will be expected to comply with the [University of Pittsburgh's Policy on Academic Integrity](https://www.provost.pitt.edu/academic-integrity-guidelines).
 Any student suspected of violating this obligation during the semester will be required to participate in the procedural process initiated at the instructor level, as outlined in the University Guidelines on Academic Integrity.
 This may include, but is not limited to, the confiscation of the examination of any individual suspected of violating University Policy.
 Furthermore, no student may bring unauthorized materials to an exam, including dictionaries and programmable calculators.
@@ -109,7 +109,7 @@ As your instructor, I am required to report any incidents of sexual misconduct t
 You can also report directly to Office of Civil Rights and Title IX: 412-648-7860 (M-F; 8:30am-5:00pm) or via the Pitt Concern Connection at: [Make A Report](https://app.convercent.com/en-US/LandingPage/2d6327d5-9fec-ea11-a974-000d3ab9f296?_=1612800567898).
 
 An important exception to the reporting requirement exists for academic work.
-Disclosures about sexual misconduct that are shared as a relevant part of an academic project, classroom discussion, or course assignment, are not required to be disclosed to the University’s Title IX office.
+Disclosures about sexual misconduct that are shared as a relevant part of an academic project, classroom discussion, or course assignment, are not required to be disclosed to the University's Title IX office.
 
 If you wish to make a confidential report, Pitt encourages you to reach out to these resources:
 
@@ -124,4 +124,4 @@ For additional information, please visit the [full syllabus statement](https://w
 
 ## Statement on classroom recording
 
-To ensure the free and open discussion of ideas, students may not record classroom lectures, discussions and/or activities without the advance written permission of the instructor, and any such recording properly approved in advance can be used solely for the student’s private use.
+To ensure the free and open discussion of ideas, students may not record classroom lectures, discussions and/or activities without the advance written permission of the instructor, and any such recording properly approved in advance can be used solely for the student's private use.
