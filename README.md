@@ -4,8 +4,8 @@
 
 <p align="center">
     Spring 2024 •
-    <a href="https://www.pitt.edu/">University of Pittsburgh</a> •
-    <a href="https://www.biology.pitt.edu/">Department of Biological Sciences</a>
+    <a href="https://www.pitt.edu">University of Pittsburgh</a> •
+    <a href="https://www.biology.pitt.edu">Department of Biological Sciences</a>
 </p>
 
 This course offers a systematic examination of foundational concepts, comprehensive proficiency in Python applications, and an in-depth understanding of the significant fields of computational biology.
