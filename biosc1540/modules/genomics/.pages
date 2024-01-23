@@ -1,9 +1,9 @@
 nav:
     - index.md
     - Learning scenario: learning-scenario.md
-    - Sequencing: sequencing.md
+    - Sequencing: sequencing
     - Genome assembly: genome-assembly.md
-    - Sequence alignment: sequence-alignment.md
+    - Sequence alignment: sequence-alignment
     - Reference gene annotation: ref-gene-annotation.md
     - De novo gene annotation: de-novo-gene-annotation.md
     - Evolutionary genomics: evolutionary-genomics.md
