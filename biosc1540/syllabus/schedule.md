@@ -38,7 +38,7 @@ Jump to [this week](#week-3).
 
 **Tuesday** (Jan 23) [Lecture 05](../../lectures/05/)
 
--   ^^Topics^^: [Regression](/modules/intro/regression) and [classification](/modules/intro/classification)
+-   ^^Topics^^: [Regression](/modules/intro/regression)
 
 **Thursday** (Jan 25) [Lecture 06](../../lectures/06/)
 
