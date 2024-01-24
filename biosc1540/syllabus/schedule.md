@@ -42,7 +42,7 @@ Jump to [this week](#week-3).
 
 **Thursday** (Jan 25) [Lecture 06](../../lectures/06/)
 
--   ^^Topics^^:  [Clustering](/modules/intro/clustering)
+-   ^^Topics^^: 🏆
 -   ^^Due^^:
     -   [Assignment 02](/assessments/assignments/02/)
 
