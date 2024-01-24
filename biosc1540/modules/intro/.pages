@@ -8,4 +8,5 @@ nav:
     - Plotting: plotting
     - Regression: regression
     - Classification: classification
+    - Dimensionality reduction: dim-red
     - Clustering: clustering.md
