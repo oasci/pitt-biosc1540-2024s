@@ -7,3 +7,4 @@ nav:
     - Reference gene annotation: ref-gene-annotation.md
     - De novo gene annotation: de-novo-gene-annotation.md
     - Evolutionary genomics: evolutionary-genomics.md
+    - Files: files

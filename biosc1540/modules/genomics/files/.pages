@@ -1,0 +1,4 @@
+nav:
+    - FASTA: fasta.md
+    - GFF: gff.md
+    - Gene annotation: gene-annotation.md
