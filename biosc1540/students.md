@@ -2,7 +2,7 @@
 
 ## Level
 
-These levels indicate how many credits each student has; not necessarily how many years that have been at Pitt.
+These levels indicate how many credits each student has; not necessarily how many years they have been at Pitt.
 
 Senior: 33 <progress value="28" max="69"></progress>
 
