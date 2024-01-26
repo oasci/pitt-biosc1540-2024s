@@ -4,7 +4,6 @@ GFF is a standard file format for storing genomic features in a text file.
 
 ## Examples
 
-
 ```text
 ##gff-version 3
 ctg123  .  exon  1300  1500  .  +  .  ID=exon00001

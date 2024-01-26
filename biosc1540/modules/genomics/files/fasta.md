@@ -1,4 +1,4 @@
-## FASTA
+# FASTA
 
 In FASTA format the line before the nucleotide sequence, called the FASTA definition line, must begin with a carat (">"), followed by a unique SeqID (sequence identifier).
 
