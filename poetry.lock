@@ -542,6 +542,17 @@ files = [
 colorama = {version = "*", markers = "platform_system == \"Windows\""}
 
 [[package]]
+name = "cloudpickle"
+version = "3.0.0"
+description = "Pickler class to extend the standard pickle.Pickler functionality"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "cloudpickle-3.0.0-py3-none-any.whl", hash = "sha256:246ee7d0c295602a036e86369c77fecda4ab17b506496730f2f576d9016fd9c7"},
+    {file = "cloudpickle-3.0.0.tar.gz", hash = "sha256:996d9a482c6fb4f33c1a35335cf8afd065d2a56e973270364840712d9131a882"},
+]
+
+[[package]]
 name = "colorama"
 version = "0.4.6"
 description = "Cross-platform colored terminal text."
@@ -646,6 +657,36 @@ files = [
 [package.extras]
 docs = ["ipython", "matplotlib", "numpydoc", "sphinx"]
 tests = ["pytest", "pytest-cov", "pytest-xdist"]
+
+[[package]]
+name = "dask"
+version = "2024.1.1"
+description = "Parallel PyData with Task Scheduling"
+optional = false
+python-versions = ">=3.9"
+files = [
+    {file = "dask-2024.1.1-py3-none-any.whl", hash = "sha256:860ce2797905095beff0187c214840b80c77d752dcb9098a8283e3655a762bf5"},
+    {file = "dask-2024.1.1.tar.gz", hash = "sha256:d0dc92e81ce68594a0a0ce23ba33f4d648f2c2f4217ab9b79068b7ecfb0416c7"},
+]
+
+[package.dependencies]
+click = ">=8.1"
+cloudpickle = ">=1.5.0"
+fsspec = ">=2021.09.0"
+importlib-metadata = ">=4.13.0"
+numpy = {version = ">=1.21", optional = true, markers = "extra == \"array\""}
+packaging = ">=20.0"
+partd = ">=1.2.0"
+pyyaml = ">=5.3.1"
+toolz = ">=0.10.0"
+
+[package.extras]
+array = ["numpy (>=1.21)"]
+complete = ["dask[array,dataframe,diagnostics,distributed]", "lz4 (>=4.3.2)", "pyarrow (>=7.0)", "pyarrow-hotfix"]
+dataframe = ["dask[array]", "pandas (>=1.3)"]
+diagnostics = ["bokeh (>=2.4.2)", "jinja2 (>=2.10.3)"]
+distributed = ["distributed (==2024.1.1)"]
+test = ["pandas[test]", "pre-commit", "pytest", "pytest-cov", "pytest-rerunfailures", "pytest-timeout", "pytest-xdist"]
 
 [[package]]
 name = "debugpy"
@@ -1606,6 +1647,17 @@ files = [
     {file = "kiwisolver-1.4.5-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:210ef2c3a1f03272649aff1ef992df2e724748918c4bc2d5a90352849eb40bea"},
     {file = "kiwisolver-1.4.5-pp39-pypy39_pp73-win_amd64.whl", hash = "sha256:11d011a7574eb3b82bcc9c1a1d35c1d7075677fdd15de527d91b46bd35e935ee"},
     {file = "kiwisolver-1.4.5.tar.gz", hash = "sha256:e57e563a57fb22a142da34f38acc2fc1a5c864bc29ca1517a88abc963e60d6ec"},
+]
+
+[[package]]
+name = "locket"
+version = "1.0.0"
+description = "File-based locks for Python on Linux and Windows"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+files = [
+    {file = "locket-1.0.0-py2.py3-none-any.whl", hash = "sha256:b6c819a722f7b6bd955b80781788e4a66a55628b858d347536b7e81325a3a5e3"},
+    {file = "locket-1.0.0.tar.gz", hash = "sha256:5c0d4c052a8bbbf750e056a8e65ccd309086f4f0f18a2eac306a8dfa4112a632"},
 ]
 
 [[package]]
@@ -2671,6 +2723,24 @@ files = [
 [package.extras]
 qa = ["flake8 (==3.8.3)", "mypy (==0.782)"]
 testing = ["docopt", "pytest (<6.0.0)"]
+
+[[package]]
+name = "partd"
+version = "1.4.1"
+description = "Appendable key-value storage"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "partd-1.4.1-py3-none-any.whl", hash = "sha256:27e766663d36c161e2827aa3e28541c992f0b9527d3cca047e13fb3acdb989e6"},
+    {file = "partd-1.4.1.tar.gz", hash = "sha256:56c25dd49e6fea5727e731203c466c6e092f308d8f0024e199d02f6aa2167f67"},
+]
+
+[package.dependencies]
+locket = "*"
+toolz = "*"
+
+[package.extras]
+complete = ["blosc", "numpy (>=1.9.0)", "pandas (>=0.19.0)", "pyzmq"]
 
 [[package]]
 name = "pathspec"
@@ -3878,6 +3948,39 @@ files = [
 ]
 
 [[package]]
+name = "scikit-allel"
+version = "1.3.7"
+description = "A Python package for exploring and analysing genetic variation data."
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "scikit-allel-1.3.7.tar.gz", hash = "sha256:cb6229c407451bf1ea4b7fa681188e142d24a3a168ca6e786b6b4a7e999507f4"},
+    {file = "scikit_allel-1.3.7-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:153fddf9c0b734c53b9bd95c953e0ec99b5f946e32cc636d3d5cacf320df2a14"},
+    {file = "scikit_allel-1.3.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:294441570b30b571438dcda5ae37d7739daf01a37045e0dc61626c770a61931e"},
+    {file = "scikit_allel-1.3.7-cp310-cp310-musllinux_1_1_x86_64.whl", hash = "sha256:d8a0571ed15505b5383d5f9ba8ed3afae2846a14c55734fc38ae6b4902190416"},
+    {file = "scikit_allel-1.3.7-cp310-cp310-win_amd64.whl", hash = "sha256:fcbc5902050b9767ab8f9c813666aeebf13381607ea6c2076de0563758a87d27"},
+    {file = "scikit_allel-1.3.7-cp311-cp311-macosx_10_9_x86_64.whl", hash = "sha256:328486c0d3fc55d88946be6a0db9b2108c6999ee1ab70f8b3aebb56c28ab6974"},
+    {file = "scikit_allel-1.3.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:e64e17616d27dad2dab8d46b79588463542a2d196e0265f6a4e100d1ca3213ec"},
+    {file = "scikit_allel-1.3.7-cp311-cp311-musllinux_1_1_x86_64.whl", hash = "sha256:486999564aeaa0be5b643678720cf1259d92704b9b638d265f49870093d92af9"},
+    {file = "scikit_allel-1.3.7-cp311-cp311-win_amd64.whl", hash = "sha256:4ebb277e472d4d800589c55bc89c86e51264838941df5b7688b744ab2e32e914"},
+    {file = "scikit_allel-1.3.7-cp38-cp38-macosx_10_9_x86_64.whl", hash = "sha256:5477b2c539fe39ca6e079dacc3192be96f894f47d07d31066f4335eb0d72aa06"},
+    {file = "scikit_allel-1.3.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:dabd66c95b05634f142f7712ff7fe911f97b21c8d59bf48a0df478e083b73a8e"},
+    {file = "scikit_allel-1.3.7-cp38-cp38-musllinux_1_1_x86_64.whl", hash = "sha256:db1d15611b9bb9cb6c6c198a73e4eb06d350cdb3cbbd12487bacefd8db101f41"},
+    {file = "scikit_allel-1.3.7-cp38-cp38-win_amd64.whl", hash = "sha256:52fca1fae6601e69be7b579f1cc0880687c3f8ba450467a955af7ab43c330d0a"},
+    {file = "scikit_allel-1.3.7-cp39-cp39-macosx_10_9_x86_64.whl", hash = "sha256:ec8638cc1a803b544290428e1f9c93ee2ffbc1e5653d4e4137f5d2b902d4a869"},
+    {file = "scikit_allel-1.3.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:c85dec6d35e55875c0f0edce8fe9907951aec468d288dc88fc12cf610850f924"},
+    {file = "scikit_allel-1.3.7-cp39-cp39-musllinux_1_1_x86_64.whl", hash = "sha256:29e9f339f6c1ea829cc3cfb961d1cc3243f611e28f1a1bf83b9e341a524ebc2c"},
+    {file = "scikit_allel-1.3.7-cp39-cp39-win_amd64.whl", hash = "sha256:47ff6a326b7fbdcd8f238ec8024cf52993c50be7f91678c3adcfff94c1d02b69"},
+]
+
+[package.dependencies]
+dask = {version = "*", extras = ["array"]}
+numpy = "*"
+
+[package.extras]
+full = ["h5py", "hmmlearn", "matplotlib", "nose", "numexpr", "pandas", "pomegranate", "scikit-learn", "scipy", "seaborn", "zarr"]
+
+[[package]]
 name = "scikit-learn"
 version = "1.4.0"
 description = "A set of python modules for machine learning and data mining"
@@ -4224,6 +4327,17 @@ files = [
 ]
 
 [[package]]
+name = "toolz"
+version = "0.12.1"
+description = "List processing tools and functional utilities"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "toolz-0.12.1-py3-none-any.whl", hash = "sha256:d22731364c07d72eea0a0ad45bafb2c2937ab6fd38a3507bf55eae8744aa7d85"},
+    {file = "toolz-0.12.1.tar.gz", hash = "sha256:ecca342664893f177a13dac0e6b41cbd8ac25a358e5f215316d43e2100224f4d"},
+]
+
+[[package]]
 name = "torch"
 version = "2.1.2"
 description = "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
@@ -4523,4 +4637,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "e0f561b72a84968379f1031dae02c124681083e14e8e20333039d26b28b28b0f"
+content-hash = "678d85151f67e4465bb4324cd0e21f0a9019fc7c0d638b0aa8b0d0debecfb377"
