@@ -4,7 +4,7 @@ PYTHON_VERSION_CONDENSED := 311
 PACKAGE_NAME := biosc1540-2024s
 CONDA_NAME := $(PACKAGE_NAME)-dev
 CONDA := conda run -n $(CONDA_NAME)
-CONDA_LOCK_OPTIONS := -p linux-64 --channel conda-forge --channel nvidia --channel pytorch
+CONDA_LOCK_OPTIONS := -p linux-64 --channel conda-forge --channel nvidia --channel pytorch --channel bioconda
 
 ###   ENVIRONMENT   ###
 
@@ -31,6 +31,7 @@ conda-setup:
 .PHONY: conda-dependencies
 conda-dependencies:
 	$(CONDA) conda install -y -c conda-forge nodejs
+	$(CONDA) conda install -y -c bioconda clustalw
 
 .PHONY: nodejs-dependencies
 nodejs-dependencies:
