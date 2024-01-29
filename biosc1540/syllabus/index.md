@@ -12,9 +12,9 @@
 <br>
 **Office hours:**
 
--   Monday 4:00 PM - 5:00 PM in 219A Langley
+-   Monday 4:00 PM - 5:00 PM inA219A Langley
 -   Wednesday 6:00 PM - 7:00 PM on Zoom
--   Friday 11:00 AM - 12:00 PM in 219A Langley
+-   Friday 11:00 AM - 12:00 PM inA219A Langley
 
 ## Description
 
