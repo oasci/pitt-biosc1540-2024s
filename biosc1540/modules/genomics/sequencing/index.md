@@ -17,3 +17,7 @@ DNA sequencing has become a key technology in molecular biology, allowing resear
 Adapted with permission from the following materials:
 
 -   [genome.gov](https://www.genome.gov/)
+
+<!-- REFERENCES -->
+
+[^giani2020long]: Giani, A. M., Gallo, G. R., Gianfranceschi, L., & Formenti, G. (2020). Long walk to genomics: History and current approaches to genome sequencing and assembly. *Computational and Structural Biotechnology Journal*, 18, 9-19. doi: [10.1016/j.csbj.2019.11.002](https://doi.org/10.1016/j.csbj.2019.11.002)
