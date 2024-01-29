@@ -1,6 +1,6 @@
 # Schedule
 
-Jump to [this week](#week-3).
+Jump to [this week](#week-4).
 
 !!! danger "DRAFT"
 
@@ -54,27 +54,27 @@ Jump to [this week](#week-3).
 
 -   ^^Topics^^: [Learning scenario](/modules/genomics/learning-scenario) and [sequencing](/modules/genomics/sequencing)
 
-**Thursday** (Feb 1)
+**Thursday** (Feb 1)  [Lecture 08](../../lectures/08/)
 
 -   ^^Topics^^: [Genome assembly](/modules/genomics/genome-assembly)
 -   ^^Due^^:
-    -   [Assignment 03](/assessments/assignments/03/)
+    -   [Lecture 06](/biosc1540/lectures/06/)
 
 ### Week 5
 
-**Tuesday** (Feb 6)
+**Tuesday** (Feb 6) [Lecture 09](../../lectures/09/)
 
 -   ^^Topics^^: [Sequence alignment](/modules/genomics/sequence-alignment)
 
-**Thursday** (Feb 8)
+**Thursday** (Feb 8) [Lecture 10](../../lectures/10/)
 
 -   ^^Topics^^: Guest lecture from [Dr. Emily Kopania](https://ekopania.github.io/) on [evolutionary genomics](/modules/genomics/evolutionary-genomics)
 -   ^^Due^^:
-    -   [Assignment 04](/assessments/assignments/04/)
+    -   [Assignment 03](/assessments/assignments/03/)
 
 ### Week 6
 
-**Tuesday** (Feb 13)
+**Tuesday** (Feb 13) [Lecture 11](../../lectures/11/)
 
 -   ^^Topics^^: [Gene annotation](/modules/genomics/gene-annotation)
 
@@ -86,11 +86,11 @@ Jump to [this week](#week-3).
 
 ### Week 7
 
-**Tuesday** (Feb 20)
+**Tuesday** (Feb 20) [Lecture 12](../../lectures/12/)
 
 -   ^^Topics^^: [Learning scenario](/modules/transcriptomics/learning-scenario) and [sequencing](/modules/transcriptomics/sequencing)
 
-**Thursday** (Feb 22)
+**Thursday** (Feb 22) [Lecture 13](../../lectures/13/)
 
 -   ^^Topics^^: [Read mapping](/modules/transcriptomics/read-mapping)
 -   ^^Due^^:
@@ -98,7 +98,7 @@ Jump to [this week](#week-3).
 
 ### Week 8
 
-**Tuesday** (Feb 27)
+**Tuesday** (Feb 27)  [Lecture 14](../../lectures/14/)
 
 -   ^^Topics^^: [Quantification](/modules/transcriptomics/quantification)
 
