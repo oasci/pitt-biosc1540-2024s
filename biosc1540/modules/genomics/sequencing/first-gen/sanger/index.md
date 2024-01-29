@@ -4,6 +4,8 @@ Sanger sequencing, also known as the "chain termination method," is a DNA sequen
 This method is designed for determining the sequence of nucleotide bases in a piece of DNA (commonly less than 1,000 bp in length) with 99.99% base accuracy.[^shendure2008next]
 These fragments were used to assemble larger DNA fragments and, eventually, entire chromosomes.
 
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/dVRB4CaLizc?si=pQdxZk8AKEtR9Jk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## DNA replication
 
 DNA replication is the process by which a cell makes identical copies of its DNA.
