@@ -1,4 +1,5 @@
 nav:
   - index.md
-  - Traditional: traditional
-  - Next generation: next-gen
+  - First generation: first-gen
+  - Second generation: second-gen
+  - Third generation: third-gen

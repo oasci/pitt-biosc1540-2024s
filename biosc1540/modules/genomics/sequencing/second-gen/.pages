@@ -1,0 +1,5 @@
+nav:
+  - index.md
+  - Illumina: illumina
+  - Ion torrent: ion-torrent
+  - Nanopore: nanopore
