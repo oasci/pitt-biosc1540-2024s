@@ -1,6 +1,7 @@
 # Illumina
 
-TODO:
+Illumina, arguably the most popular sequencing method, is based on the concept of "sequencing by synthesis".
+Sequencing by synthesis technology uses a polymerase or ligase enzyme to incorporate nucleotides with a fluorescent tag, which are then identified to determine the DNA sequence.
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/fCd6B5HRaZ8?si=0SQa8z6SLd9mIhjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -163,9 +164,42 @@ First, the glass flow cell surface is chemically treated with lanes of tiny well
 The fragments to be sequenced, whether genomic DNA or cDNA from an RNA preparation, are diluted to an optimal concentration and hydraulically loaded into the flow cell lanes along with necessary sequencing reagents.
 The adapter-modified fragments then hybridize and bind to their complementary oligos on the flow cell surface.
 
-## Cluster generation
+## Clonal amplification
 
-TODO:
+The Illumina platform employs solid-phase amplification, wherein each DNA fragment in the library initially binds to primers on the sequencing chip, also known as the flow cell, through adapters.
+Through a series of amplification reactions called bridge amplification, each fragment forms a cluster of identical molecules known as clonal clusters.
+Each cluster corresponds to a single primary library molecule.
+It is important to note that when clonal amplification is performed on a patterned flow cell with predefined arrays, an exclusion amplification (ExAmp) chemistry is employed.
+ExAmp technology involves the immediate amplification of a DNA fragment after binding to the primer on the patterned flow cell, preventing other DNA fragments from forming a polyclonal cluster.
+
+!!! quote "**Figure 5**"
+
+    <figure markdown>
+    ![](https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/next-generation-sequencing/illumina-workflow/jcr:content/MainParsys/textimage_1d51/image.img.320.low.jpg/1693405678648.jpg){ alight=left width=800 }
+    </figure>
+
+    Credit: [ThermoFisher](https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/next-generation-sequencing/illumina-workflow.html)
+
+It is essential to distinguish this clonal amplification process from library amplification, which aims to increase the library input before loading it onto a flow cell.
+
+## Sequencing by synthesis
+
+Following clonal amplification, the subsequent step is sequencing by synthesis (SBS).
+This method detects nucleotides incorporated by a DNA polymerase into the complementary DNA strand of clonal clusters on a base-by-base basis.
+
+The sequencing technology by Illumina employs fluorescent dye–labeled dNTPs featuring a reversible terminator to capture fluorescent signals in each cycle, utilizing a process known as cyclic reversible termination.
+In each cycle, the DNA polymerase incorporates only one of the four fluorescent dNTPs based on complementarity, and then unbound dNTPs are removed.
+Images of the clusters are taken after the incorporation of each nucleotide, and the emission wavelength and fluorescence intensity of the incorporated nucleotide are analyzed to identify the base incorporated in each cluster during that cycle.
+Following imaging, the fluorescent dye and terminator are cleaved and released, followed by the subsequent synthesis cycle, imaging, and deprotection cycle.
+As each base is sequenced individually in each cycle, this process is iterated for "n" cycles to achieve a read length of "n" bases.
+
+!!! quote "**Figure 6**"
+
+    <figure markdown>
+    ![](https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/next-generation-sequencing/illumina-workflow/jcr:content/MainParsys/textimage_544/image.img.320.low.jpg/1693405678683.jpg){ alight=left width=700 }
+    </figure>
+
+    Credit: [ThermoFisher](https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/next-generation-sequencing/illumina-workflow.html)
 
 <!-- REFERENCES -->
 
