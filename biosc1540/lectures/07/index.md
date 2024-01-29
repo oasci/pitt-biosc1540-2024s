@@ -12,7 +12,8 @@ What you should be able to do after today's lecture.
 
 Relevant content for today's lecture.
 
--  
+-   [Genomics checkpoint](/assessments/checkpoints/genomics/)
+-   [Sequencing](/modules/genomics/sequencing/)
 
 ## Presentation
 

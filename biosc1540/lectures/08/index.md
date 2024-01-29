@@ -12,7 +12,7 @@ What you should be able to do after today's lecture.
 
 Relevant content for today's lecture.
 
--  
+-   [Genome assembly](/modules/genomics/genome-assembly/)
 
 ## Presentation
 
