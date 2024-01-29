@@ -1,3 +1,4 @@
 nav:
     - index.md
+    - Antimicrobial resistance: amr.md
     - Data acquisition: data-acquisition.ipynb
