@@ -6,7 +6,11 @@
 
 What you should be able to do after today's lecture.
 
-1.  
+1.  🧫 Define antibiotic resistance and assess its global impact on public health.
+2.  🧫 Analyze challenges arising from antibiotic resistance and evaluate genomics' role in mitigating them.
+3.  🧫 🧮 Explain the principles underlying Sanger sequencing.
+4.  🧫 🧮 Outline the methodology of Illumina sequencing, specifically the sequencing by synthesis approach.
+5.  🧫 🧮 Identify and contrast Sanger sequencing with Illumina sequencing, covering principles, methods, applications, and technological advancements.
 
 ## Readings
 
