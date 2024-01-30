@@ -19,6 +19,10 @@ Relevant content for today's lecture.
 -   [Genomics checkpoint](/assessments/checkpoints/genomics/)
 -   [Sequencing](/modules/genomics/sequencing/)
 
+## Activities
+
+-   [Outbreak Investigation Simulation: Mysterious Respiratory Illness](./amr-activity.md)
+
 ## Presentation
 
 [Live link](https://slides.com/d/YJdzcYY/live) for during class.
