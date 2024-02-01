@@ -196,6 +196,14 @@ As each base is sequenced individually in each cycle, this process is iterated f
 !!! quote "**Figure 6**"
 
     <figure markdown>
+    ![](https://atdbio.com/assets/book/reversible-terminator-sequencing.svg){ alight=left width=700 }
+    </figure>
+
+    Credit: [atdbio](https://atdbio.com/nucleic-acids-book/Next-generation-sequencing#Reversible-terminator-sequencing-Illumina)
+
+!!! quote "**Figure 7**"
+
+    <figure markdown>
     ![](https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/next-generation-sequencing/illumina-workflow/jcr:content/MainParsys/textimage_544/image.img.320.low.jpg/1693405678683.jpg){ alight=left width=700 }
     </figure>
 
