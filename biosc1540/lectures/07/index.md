@@ -51,7 +51,7 @@ What is the best explanation?<br>
 A. ddGTP molecules were degraded.<br>
 B. There is a single-point mutation in the original sequence at position 101.<br>
 C. Non-specific primer binding occurs.<br>
-D. There are six consecutive cytosine bases in the original DNA sequence starting at base 95.
+D. There are 20 consecutive cytosine bases in the original DNA sequence starting at base 80 with high ddGTP concentration.
 
 ??? note "Answer"
 
@@ -76,6 +76,7 @@ D. There are six consecutive cytosine bases in the original DNA sequence startin
     If a ddGTP is incorporated, then replication terminates at that nucleotide.
     If dGTP is incorporated, then DNA polymerase would continue until we reached CCCCCC.
     At each C in the reference strand, DNA polymerase will incorporate either a dGTP or ddGTP.
-    At position 95, we could incorporate ddGTP and terminate replication or dGTP and continue.
-    Suppose we incorporate dGTP and move to position 96; this is C again so we have a chance of incorporating dGTP (continue) or ddGTP (terminate).
+    At position 80, we could incorporate ddGTP and terminate replication or dGTP and continue.
+    Suppose we incorporate dGTP and move to position 81; this is C again so we have a chance of incorporating dGTP (continue) or ddGTP (terminate).
     Because each consecutive C in the reference strand is a chance to prematurely terminate replication, it is thus likely we terminate before getting past 100 nucleotides.
+    **Note: This would never happen in practice.**
