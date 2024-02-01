@@ -1,12 +1,14 @@
 nav:
-    - index.md
-    - Introduction (L01):
+    - Lectures: index.md
+    - Introduction:
+        - "intro"
         - Lecture 01: "01"
         - Lecture 02: "02"
         - Lecture 03: "03"
         - Lecture 04: "04"
         - Lecture 05: "05"
         - Lecture 06: "06"
-    - Genomics (L07):
+    - Genomics:
+        - "genomics"
         - Lecture 07: "07"
         - Lecture 08: "08"
