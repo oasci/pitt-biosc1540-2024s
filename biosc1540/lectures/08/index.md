@@ -10,7 +10,7 @@ What you should be able to do after today's lecture.
 2.  🧮 🧫 Explain the concept of quality scores and their representation in Illumina sequencing data.
 3.  🧮 Discuss how coverage is calculated using short reads in genome sequencing.
 4.  🧮 Apply the SCS algorithm to align short reads and reconstruct the original genomic sequence.
-5.  🧮 Illustrate the process of splitting a genome into graphs and constructing De Bruijn graphs for genomic analysis.
+5.  🧮 Illustrate the process of splitting a genome into graphs and constructing De Bruijn graphs.
 
 ## Readings
 
