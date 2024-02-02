@@ -32,7 +32,6 @@ $$
 
 This looks very similar to slicing Python lists!
 
-
 [^huson2001greedy]: Huson, D. H., Reinert, K., & Myers, E. (2001, April). The greedy path-merging algorithm for sequence assembly. In Proceedings of the fifth annual international conference on Computational biology (pp. 157-163). doi: [10.1145/369133.369190](https://doi.org/10.1145/369133.369190)
 [^shomorony2016information]: Shomorony, I., Kim, S. H., Courtade, T. A., & Tse, D. N. (2016). Information-optimal genome assembly via sparse read-overlap graphs. *Bioinformatics, 32*(17), i494-i502. doi: [10.1093/bioinformatics/btw450](https://doi.org/10.1093/bioinformatics/btw450)
 [^]: Bresler, G., Bresler, M. A., & Tse, D. (2013, April). Optimal assembly for high throughput shotgun sequencing. In BMC bioinformatics (Vol. 14, No. 5, pp. 1-13). BioMed Central. doi: [10.1186/1471-2105-14-S5-S18](https://doi.org/10.1186/1471-2105-14-S5-S18)
