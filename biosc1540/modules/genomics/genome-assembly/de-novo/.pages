@@ -1,6 +1,5 @@
 nav:
   - index.md
-  - Graphs: graphs
   - de Bruijn: de-bruijn
   - Greedy algorithm: greedy
   - Overlap-layout-consensus: overlap-layout-consensus
