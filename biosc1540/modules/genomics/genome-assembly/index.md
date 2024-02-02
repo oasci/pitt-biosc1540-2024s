@@ -24,6 +24,39 @@ A high-quality and well-annotated genome assembly is increasingly becoming an es
 Thus, securing complete and accurate reference genomes and annotations before analyzing post-genome studies such as genome-wide association studies, structural variations, and posttranslational studies (methylation or histone modification) has become a cornerstone of modern genomics.
 However, early works have warned against its applications in genome assembly because the resultant assemblies may contain biases toward errors and chromosomal rearrangements in the existing reference genome.
 
+## Contigs
+
+In the context of genome assembly, a contig (derived from the word “contiguous”) is a set of DNA segments or sequences that overlap in a way that provides a contiguous representation of a genomic region.
+
+!!! quote "**Figure 2**"
+
+    <figure markdown>
+    ![](/img/genomics/contigs.png){ alight=left width=800 }
+    </figure>
+
+    Credit: [National Human Genome Research Institute](https://www.genome.gov/genetics-glossary/Contig)
+
+The process of generating an assembly involves the isolation of genomic DNA from a biological sample and fragmentation of DNA into small pieces that are then sequenced individually.
+Once the sequences of these small pieces, called reads, are obtained, researchers assemble these like tiny pieces of a giant puzzle into progressively larger contiguous sequence pieces, which are called contigs.
+This approach is termed Whole Genome Shotgun (WGS) sequencing.
+
+Contigs are the first level in the hierarchy of a genomic assembly.
+The next step is to build scaffolds (supercontigs).
+To build a scaffold, researchers place several contigs in the correct order and orientation.
+
+Therefore, contigs can refer both to overlapping DNA sequences and to overlapping physical segments.
+They play a crucial role in reconstructing the original DNA sequence of a chromosome or a region of a chromosome.
+
+## Unresolvable repeats
+
+Unresolvable repeats pose a significant hurdle in genome assembly, as they create ambiguity in determining the correct order and arrangement of DNA sequences.
+The key strategy employed to handle unresolvable repeats involves essentially leaving them out of the assembly.
+This approach is crucial for ensuring the accuracy and reliability of the assembled genome.
+
+Unresolvable repeats have a profound effect on the assembly process, leading to the fragmentation of the genome.
+When faced with unresolvable repeats, the assembly algorithm breaks down the genetic sequence into smaller, manageable fragments.
+This fragmentation is a necessary step to navigate the complexities introduced by repeats and ensures a more accurate reconstruction of the genome.
+
 <!-- REFERENCES -->
 
 [^jung2020twelve]: Jung, H., Ventura, T., Chung, J. S., Kim, W. J., Nam, B. H., Kong, H. J., ... & Eyun, S. I. (2020). Twelve quick steps for genome assembly and annotation in the classroom. *PLoS computational biology, 16*(11), e1008325. doi: [10.1371/journal.pcbi.1008325](https://doi.org/10.1371/journal.pcbi.1008325)
