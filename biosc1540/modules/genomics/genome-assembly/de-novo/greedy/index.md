@@ -21,9 +21,16 @@ Let's assume that we have some string, $x$, that has $l$ symbols from the set ${
 For example,
 
 $$
-x = [A, A, C, T, G, C, G]
+x = [A, A, C, T, G, C, G].
 $$
 
+A substring of $x$ is a continuous interval of the symbols in $x$, and it is denoted as
+
+$$
+x[i:j] = (x[i], x[i + 1], \ldots x[j]).
+$$
+
+This looks very similar to slicing Python lists!
 
 
 [^huson2001greedy]: Huson, D. H., Reinert, K., & Myers, E. (2001, April). The greedy path-merging algorithm for sequence assembly. In Proceedings of the fifth annual international conference on Computational biology (pp. 157-163). doi: [10.1145/369133.369190](https://doi.org/10.1145/369133.369190)
