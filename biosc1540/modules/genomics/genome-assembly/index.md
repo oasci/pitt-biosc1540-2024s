@@ -82,6 +82,11 @@ c = \frac{NL}{G} \leq \ln \left( \frac{G}{\varepsilon} \right).
 $$
 
 As an example, if the genome of interest is about one billion base pairs long, then we need at least 25x coverage depth since $G = 10^{9}$; $\varepsilon = 0.01$, $\Rightarrow c = 25.328$.
+Note that $LG$ is quite small, and therefore the number of reads can be approximated with a Poisson distribution with mean
+
+$$
+c= \frac{NL}{G}.
+$$
 
 ## Unresolvable repeats
 
