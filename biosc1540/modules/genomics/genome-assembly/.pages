@@ -1,4 +1,4 @@
 nav:
     - index.md
-    - reference.md
-    - de-novo.md
+    - reference
+    - de-novo

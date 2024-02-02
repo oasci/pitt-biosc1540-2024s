@@ -1,13 +1,9 @@
 # 02 - Genomics
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
-!!! quote "**Figure XYZ**"
+!!! quote "**Figure 1**"
 
     <figure markdown>
-    ![](https://geneviatechnologies.com/site/assets/files/4812/genetics_bioinformatics.png){ alight=left width=550 }
+    ![](https://geneviatechnologies.com/site/assets/files/4812/genetics_bioinformatics.png){ alight=left width=700 }
     </figure>
 
     Credit: [GeneVia Technologies](https://geneviatechnologies.com/research-areas/bioinformatics-for-genetics/).

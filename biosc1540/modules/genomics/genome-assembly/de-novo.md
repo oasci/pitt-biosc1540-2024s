@@ -1,3 +1,0 @@
-# De novo
-
-TODO:

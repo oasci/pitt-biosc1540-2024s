@@ -1,5 +1,29 @@
 # Genome assembly
 
-!!! danger "DRAFT"
+In bioinformatics, genome assembly represents the process of combining many short DNA sequences to recreate the original chromosomes from which the DNA originated.
+Sequence assembly is one of the basic steps after performing next-generation sequencing, PacBio SMRT sequencing, or Nanopore sequencing.
+The established genome assembly can be submitted to databases such as the European Nucleotide Archive, NCBI Assembly, and Ensembl Genomes.
+You can also browse these databases for genomic sequences done by other researchers.
 
-    This page is a work in progress and is subject to change at any moment.
+!!! quote "**Figure 1**"
+
+    <figure markdown>
+    ![](https://sandbox.dodona.be/en/activities/1535795563/description/6Vg7bgJkMY2_iKxn/media/fragment-assembly.png){ alight=left width=500 }
+    </figure>
+
+    Credit: [Dodona](https://dodona.be/en/exercises/1535795563/#)
+
+There are two different types of genome assembly: [de novo](./de-novo/) assembly and mapping to a [reference](./reference/) genome (also known as reference-based alignment).
+[De novo](./de-novo/) assembly refers to the genome assembly of a novel genome from scratch without reference to genomic data.
+A reference genome or a [reference assembly](./reference/) is a digital nucleic acid sequence database that represents a species’ set of genes.
+Once the reference genome is available, with its aid, the genome assembly becomes much easier, quicker, and even more accurate.
+Therefore, unless necessary, researchers choose the method of [reference-based alignment](./reference/).
+Reference-based alignment has become the current standard in diagnostics.
+
+A high-quality and well-annotated genome assembly is increasingly becoming an essential tool for applied and basic research across many biological disciplines in the 21st century that can turn any organism into a model organism.
+Thus, securing complete and accurate reference genomes and annotations before analyzing post-genome studies such as genome-wide association studies, structural variations, and posttranslational studies (methylation or histone modification) has become a cornerstone of modern genomics.
+However, early works have warned against its applications in genome assembly because the resultant assemblies may contain biases toward errors and chromosomal rearrangements in the existing reference genome.
+
+<!-- REFERENCES -->
+
+[^jung2020twelve]: Jung, H., Ventura, T., Chung, J. S., Kim, W. J., Nam, B. H., Kong, H. J., ... & Eyun, S. I. (2020). Twelve quick steps for genome assembly and annotation in the classroom. *PLoS computational biology, 16*(11), e1008325. doi: [10.1371/journal.pcbi.1008325](https://doi.org/10.1371/journal.pcbi.1008325)
