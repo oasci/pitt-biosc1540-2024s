@@ -31,7 +31,7 @@ The probability of error per base is given as a Phred score, calculated from an 
 This error probability, $P$ is computed with
 
 $$
-P(Q)=10^{-Q/10}.
+P = 10^{-Q/10}.
 $$
 
 Useful reference values of Q include:
@@ -41,7 +41,7 @@ Useful reference values of Q include:
 -   $Q = 30$ represents 99.9% accuracy (0.001 error)
 -   $Q = 40$ represents 99.99% accuracy (0.0001 error)
 
-Although there’s theoretically no limit, Q usually goes up to around 40 in recent illumina machines.
+Although there’s theoretically no limit, $Q$ usually goes up to around 40 in recent illumina machines.
 
 ### ASCII table
 
@@ -85,7 +85,7 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
 ```
 
 The $Q$ value of a character is the decimal value corresponding to the entry of that character in the ASCII table, subtracted by 33.
-For example Q(‘#’) = 35 – 33.
+For example $Q$(‘#’) = 35 – 33.
 
 !!! important "Why do we subtract by 33?"
 
@@ -111,8 +111,8 @@ NTTCCAGATATTCGATGCATGTGCCGCTCCTGTCGGAGATCGGAAGAGCACACGTCTGAACTCCAGTCACCGTGAT
 we can see it starts with ‘N’ (unknown), with an associated quality character ‘#’.
 To know how confident the machine was in reading that base, we calculate:
 
--   Q = 35 (ASCII decimal value of ‘#’) - 33 (ASCII decimal value of ‘!’) = 2
--   p(2) = 10^(-2/10) = 63% (probability of error)
+-   $Q$ = 35 (ASCII decimal value of ‘#’) - 33 (ASCII decimal value of ‘!’) = 2
+-   $P$ = 10^(-2/10) = 63% (probability of error)
 
 Given this probability of error, it is not surprising that the machine could not confidently say which base was in that position and therefore placed an ‘N’ in that position.
 It is fairly common that in the first bases the machine is still calibrating, and sometimes there is less confidence in the called base.
