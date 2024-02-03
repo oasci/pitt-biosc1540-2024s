@@ -1,4 +1,4 @@
 nav:
     - index.md
     - Antimicrobial resistance: amr.md
-    - Data acquisition: data-acquisition.ipynb
+    - Genomics checkpoint: genomics-checkpoint.ipynb
