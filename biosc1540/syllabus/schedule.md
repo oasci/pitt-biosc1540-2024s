@@ -106,7 +106,7 @@ Jump to [this week](#week-4).
 
 -   ^^Topics^^: [Gene expression analysis](/modules/transcriptomics/gene-expression-analysis)
 -   ^^Due^^:
-    -   [Assignment 05](/assessments/assignments/05/)
+    -   [Assignment 04](/assessments/assignments/04/)
 
 ### Week 9
 
@@ -148,7 +148,7 @@ No class
 
 -   ^^Topics^^: [Ligand-based screening](/modules/cadd/ligand-based-screening)
 -   ^^Due^^:
-    -   [Assignment 06](/assessments/assignments/06/)
+    -   [Assignment 05](/assessments/assignments/05/)
 
 ### Week 13
 
