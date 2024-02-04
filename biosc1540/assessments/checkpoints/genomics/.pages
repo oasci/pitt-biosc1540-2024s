@@ -2,3 +2,4 @@ nav:
     - index.md
     - Antimicrobial resistance: amr.md
     - Genomics checkpoint: genomics-checkpoint.ipynb
+    - Genes: genes.md
