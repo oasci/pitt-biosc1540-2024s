@@ -67,6 +67,7 @@ plugins:
         no_input: False
         include_requirejs: true
         include_source: True
+        ignore: ["*.py"]
         remove_tag_config:
             remove_input_tags:
                 - hide_code
