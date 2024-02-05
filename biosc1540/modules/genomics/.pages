@@ -6,4 +6,4 @@ nav:
     - Genome assembly: genome-assembly
     - Sequence alignment: sequence-alignment
     - Evolutionary genomics: evolutionary-genomics.md
-    - Gene annotation: gene-annotation
+    - Gene annotation: annotation
