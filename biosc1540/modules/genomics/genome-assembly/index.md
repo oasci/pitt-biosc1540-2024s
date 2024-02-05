@@ -138,6 +138,40 @@ Merge Based on Overlaps:
 -   Merging Read 1 and Read 2 through their overlap gives us `ACGTACGTG`.
 -   Then, merging this combined sequence with Read 3 by aligning the overlap of GT gives us the complete sequence `ACGTACGTGACG`.
 
+!!! warning
+
+    When we discuss an overlap between two sequences in the context of DNA sequencing or bioinformatics, we refer to the condition where the suffix of one sequence matches the prefix of another sequence.
+    This scenario facilitates the sequential alignment and assembly of fragments into a longer, continuous sequence.
+
+    If the suffix of one sequence matches the suffix of another, we do not typically describe this as an overlap in the context of sequencing assembly or similar applications.
+    This is because such a match does not provide a way to extend the sequence by combining the two sequences end-to-end.
+    Instead, it indicates that both sequences end in the same way but does not necessarily provide a direct means of linking one sequence to the beginning of another to form a longer chain.
+
+    **Overlap Case** (Suffix of $x$ matches Prefix of $y$).
+
+    $$
+    x = 5' [A, C, G, T, A, C] 3'
+    $$
+
+    $$
+    y = 5' [A, C, T, G, G, C] 3'
+    $$
+
+    Here, if the suffix of $x$ (e.g., $[T, A, C]$) matches the prefix of $y$ (e.g., $[T, A, C]$), we can align and connect these sequences to form a longer sequence because there is a continuity that allows for extension.
+
+    **Non-Overlap Case** (Suffix of $x$ matches Suffix of $y$).
+
+    $$
+    x = 5' [A, G, T, C, G, A] 3'
+    $$
+
+    $$
+    y = 5' [T, T, C, G, A] 3'
+    $$
+
+    If the suffix of $x$ (e.g., $[C, G, A]$) matches the suffix of $y$ (e.g., $[C, G, A]$), there is no direct way to extend the sequence by concatenating $x$ and $y$ because both sequences end in the same manner.
+    This scenario doesn't contribute to the assembly of a longer sequence from fragments.
+
 <!-- REFERENCES -->
 
 [^jung2020twelve]: Jung, H., Ventura, T., Chung, J. S., Kim, W. J., Nam, B. H., Kong, H. J., ... & Eyun, S. I. (2020). Twelve quick steps for genome assembly and annotation in the classroom. *PLoS computational biology, 16*(11), e1008325. doi: [10.1371/journal.pcbi.1008325](https://doi.org/10.1371/journal.pcbi.1008325)

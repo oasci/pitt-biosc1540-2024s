@@ -13,6 +13,6 @@ TODO:
 | [Falcon/HGAP](https://pb-falcon.readthedocs.io/en/latest/about.html) | Diploid-aware mode including trim, correction, and consensus for PacBio reads. |
 | [CANU](https://canu.readthedocs.io/en/latest/) | A fork of the Celera Assembler, including trim, correction, and consensus for TGS reads. |
 | [SMARTdenovo](https://github.com/ruanjue/smartdenovo) | De novo assembler including all-vs.-all raw read alignments without an error correction stage for TGS reads. |
-| [MECAT](https://github.com/xiaochuanle/MECAT) | Ultrafast mapping, error correction, and de novo assembly tools for single-molecule sequencing reads. |
+| [MECAT](https://github.com/xiaochuanle/MECAT2) | Ultrafast mapping, error correction, and de novo assembly tools for single-molecule sequencing reads. |
 | [Flye](https://github.com/fenderglass/Flye) | A repeat graph mode including trim, correction, and consensus with polishing for TGS reads. |
 | [Shasta](https://github.com/paoloshasta/shasta) | A run-length representation of ONT reads. |
