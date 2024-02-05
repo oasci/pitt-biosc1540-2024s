@@ -40,9 +40,9 @@ theme:
     - content.code.select
     - content.tooltips
     - content.tabs.link
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.tracking
@@ -109,7 +109,7 @@ extra_css:
   - css/launchy.css
 
 extra_javascript:
-  - js/mathjax.js
+  - js/mathjax-config.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - js/d3.js
