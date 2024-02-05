@@ -1,10 +1,9 @@
 nav:
     - index.md
     - Learning scenario: learning-scenario.md
+    - File types: files
     - Sequencing: sequencing
     - Genome assembly: genome-assembly
     - Sequence alignment: sequence-alignment
-    - Reference gene annotation: ref-gene-annotation.md
-    - De novo gene annotation: de-novo-gene-annotation.md
     - Evolutionary genomics: evolutionary-genomics.md
-    - Files: files
+    - Gene annotation: gene-annotation
