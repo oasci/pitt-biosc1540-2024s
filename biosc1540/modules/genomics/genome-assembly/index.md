@@ -98,6 +98,46 @@ Unresolvable repeats have a profound effect on the assembly process, leading to 
 When faced with unresolvable repeats, the assembly algorithm breaks down the genetic sequence into smaller, manageable fragments.
 This fragmentation is a necessary step to navigate the complexities introduced by repeats and ensures a more accurate reconstruction of the genome.
 
+## Shortest common superstring
+
+The shortest common superstring (SCS) problem is a concept in computer science that holds significant importance in bioinformatics, especially in genome assembly.
+The Shortest Common Superstring problem involves finding the shortest string that contains all given strings as subsequences.
+In simpler terms, if you have a set of strings, the challenge is to construct the smallest possible string that includes each of these strings as a part of it without necessarily keeping them contiguous but preserving their order.
+
+In bioinformatics, the SCS problem is particularly relevant in assembling genomes from sequencing reads.
+Genome assembly entails piecing together DNA sequences to reconstruct the original genome from which the DNA was sampled.
+Due to the limitations in sequencing technology, genomes are often sequenced in small fragments.
+These fragments must then be assembled like a puzzle to deduce the original genome sequence.
+
+DNA is broken into numerous small pieces in genome sequencing, sequenced to produce reads.
+These reads are short sequences of nucleotides (A, C, G, T).
+The main challenge is assembling these reads in the correct order to reconstruct the genome's original sequence.
+This process is akin to solving the SCS problem, where each read is a string.
+The goal is to merge them into a single, continuous sequence that is as short as possible while still containing all the original sequences.
+
+The key to solving this problem lies in finding overlaps between the reads.
+By identifying how the end of one read overlaps with the beginning of another, it's possible to stitch these reads together to minimize redundancy, thus approaching the shortest common superstring.
+
+It's important to note that the SCS problem is NP-hard, meaning that no known algorithm can solve it efficiently for all possible input sets.
+In the context of genome assembly, this complexity is managed through various heuristic and approximation algorithms that seek to find a solution that is good enough, if not mathematically perfect.
+
+Imagine the original DNA sequence we aim to reconstruct is: `ACGTACGTGACG`.
+If we are provided three sequencing reads:
+
+1.  `ACGTAC`
+2.  `TACGTG`
+3.  `GTGACG`
+
+Identify Overlaps:
+
+-   The suffix of Read 1 (`ACGTAC`) overlaps with the prefix of Read 2 (`TACGTG`) by five nucleotides (`ACGT`).
+-   The suffix of Read 2 (`TACGTG`) overlaps with the prefix of Read 3 (`GTGACG`) by two nucleotides (`GT`).
+
+Merge Based on Overlaps:
+
+-   Merging Read 1 and Read 2 through their overlap gives us `ACGTACGTG`.
+-   Then, merging this combined sequence with Read 3 by aligning the overlap of GT gives us the complete sequence `ACGTACGTGACG`.
+
 <!-- REFERENCES -->
 
 [^jung2020twelve]: Jung, H., Ventura, T., Chung, J. S., Kim, W. J., Nam, B. H., Kong, H. J., ... & Eyun, S. I. (2020). Twelve quick steps for genome assembly and annotation in the classroom. *PLoS computational biology, 16*(11), e1008325. doi: [10.1371/journal.pcbi.1008325](https://doi.org/10.1371/journal.pcbi.1008325)
