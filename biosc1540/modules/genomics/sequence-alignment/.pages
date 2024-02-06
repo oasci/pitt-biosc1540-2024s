@@ -1,2 +1,6 @@
 nav:
   - index.md
+  - Dot plot: dotplot
+  - Scoring: scoring
+  - Pairwise: pairwise
+  - Multiple: multiple
