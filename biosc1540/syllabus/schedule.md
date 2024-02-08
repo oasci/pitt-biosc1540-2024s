@@ -68,7 +68,7 @@ Jump to [this week](#week-5).
 
 **Thursday** (Feb 8) [Lecture 10](../../lectures/10/)
 
--   ^^Topics^^: Guest lecture from [Dr. Emily Kopania](https://ekopania.github.io/) on [evolutionary genomics](/modules/genomics/evolutionary-genomics)
+-   ^^Topics^^: Guest lecture from [Dr. Emily Kopania](https://ekopania.github.io/) on evolutionary genomics
 -   ^^Due^^:
     -   [Assignment 03](/assessments/assignments/03/)
 
