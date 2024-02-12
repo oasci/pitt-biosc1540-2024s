@@ -76,7 +76,7 @@ Jump to [this week](#week-5).
 
 **Tuesday** (Feb 13) [Lecture 11](../../lectures/11/)
 
--   ^^Topics^^: [Gene annotation](/modules/genomics/gene-annotation)
+-   ^^Topics^^: ~~[Gene annotation](/modules/genomics/gene-annotation)~~ Review
 
 **Thursday** (Feb 15)
 
