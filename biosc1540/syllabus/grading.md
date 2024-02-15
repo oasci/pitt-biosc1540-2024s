@@ -41,6 +41,10 @@ It encourages timely submissions while acknowledging the influence of external c
 If you submit every assignment on time, the extra credit is worth 2% of your total grade&mdash;equal to a bump to the next highest letter grade if you are close.
 Thus, I will not round up any final grades.
 
+## Drop policy
+
+Each student will be allowed to drop one quiz.
+
 ## Midterm grades
 
 Midterm grades will be calculated based on the percentage of total possible points at that time.
