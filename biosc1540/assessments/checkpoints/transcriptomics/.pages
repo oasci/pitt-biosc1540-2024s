@@ -1,3 +1,4 @@
 nav:
     - index.md
     - Data acquisition: data-acquisition.ipynb
+    - Transcriptomics checkpoint: transcriptomics-checkpoint.ipynb
