@@ -1,9 +1,8 @@
 nav:
     - index.md
     - Learning scenario: learning-scenario.md
-    - Sequencing: sequencing.md
-    - Read mapping: read-mapping.md
-    - Quantification: quantification.md
-    - Gene expression analysis: gene-expression-analysis.md
-    - Single-cell sequencing: single-cell.md
-    - Spatial transcriptomics: spatial.md
+    - Sequencing: https://omics.crumblearn.org/sequencing/rna/
+    - Read mapping: https://omics.crumblearn.org/transcriptomics/mapping/
+    - Quantification: https://omics.crumblearn.org/transcriptomics/rna-quant/
+    - Gene expression analysis: https://omics.crumblearn.org/transcriptomics/ge/
+    - Spatial transcriptomics: https://omics.crumblearn.org/transcriptomics/spatial/

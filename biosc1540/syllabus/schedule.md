@@ -1,6 +1,6 @@
 # Schedule
 
-Jump to [this week](#week-5).
+Jump to [this week](#week-7).
 
 !!! danger "DRAFT"
 
@@ -52,11 +52,11 @@ Jump to [this week](#week-5).
 
 **Tuesday** (Jan 30) [Lecture 07](../../lectures/07/)
 
--   ^^Topics^^: [Learning scenario](/modules/genomics/learning-scenario) and [sequencing](/modules/genomics/sequencing)
+-   ^^Topics^^: [Learning scenario](/modules/genomics/learning-scenario) and [sequencing](https://omics.crumblearn.org/sequencing/dna/)
 
 **Thursday** (Feb 1)  [Lecture 08](../../lectures/08/)
 
--   ^^Topics^^: [Genome assembly](/modules/genomics/genome-assembly)
+-   ^^Topics^^: [Genome assembly](https://omics.crumblearn.org/genomics/assembly/)
 -   ^^Due^^:
     -   [Lecture 06](/biosc1540/lectures/06/)
 
@@ -64,7 +64,7 @@ Jump to [this week](#week-5).
 
 **Tuesday** (Feb 6) [Lecture 09](../../lectures/09/)
 
--   ^^Topics^^: [Sequence alignment](/modules/genomics/sequence-alignment)
+-   ^^Topics^^: [Sequence alignment](https://omics.crumblearn.org/alignment/)
 
 **Thursday** (Feb 8) [Lecture 10](../../lectures/10/)
 
@@ -76,7 +76,7 @@ Jump to [this week](#week-5).
 
 **Tuesday** (Feb 13) [Lecture 11](../../lectures/11/)
 
--   ^^Topics^^: ~~[Gene annotation](/modules/genomics/gene-annotation)~~ Review
+-   ^^Topics^^: ~~[Gene annotation](https://omics.crumblearn.org/genomics/annotation/)~~ Review
 
 **Thursday** (Feb 15)
 
@@ -88,11 +88,11 @@ Jump to [this week](#week-5).
 
 **Tuesday** (Feb 20) [Lecture 12](../../lectures/12/)
 
--   ^^Topics^^: [Learning scenario](/modules/transcriptomics/learning-scenario) and [sequencing](/modules/transcriptomics/sequencing)
+-   ^^Topics^^: [Learning scenario](/modules/transcriptomics/learning-scenario) and [sequencing](https://omics.crumblearn.org/sequencing/rna/)
 
 **Thursday** (Feb 22) [Lecture 13](../../lectures/13/)
 
--   ^^Topics^^: [Read mapping](/modules/transcriptomics/read-mapping)
+-   ^^Topics^^: [Read mapping](https://omics.crumblearn.org/transcriptomics/mapping/)
 -   ^^Due^^:
     -   [Genomics checkpoint](/assessments/checkpoints/genomics)
 
@@ -100,11 +100,11 @@ Jump to [this week](#week-5).
 
 **Tuesday** (Feb 27)  [Lecture 14](../../lectures/14/)
 
--   ^^Topics^^: [Quantification](/modules/transcriptomics/quantification)
+-   ^^Topics^^: [Quantification](https://omics.crumblearn.org/transcriptomics/rna-quant/)
 
 **Thursday** (Feb 29)
 
--   ^^Topics^^: [Gene expression analysis](/modules/transcriptomics/gene-expression-analysis)
+-   ^^Topics^^: [Gene expression analysis](https://omics.crumblearn.org/transcriptomics/ge/)
 -   ^^Due^^:
     -   [Assignment 04](/assessments/assignments/04/)
 
@@ -112,7 +112,7 @@ Jump to [this week](#week-5).
 
 **Tuesday** (Mar 5)
 
--   ^^Topics^^: [Spatial transcriptomics](/modules/transcriptomics/spatial)
+-   ^^Topics^^: [Spatial transcriptomics](https://omics.crumblearn.org/transcriptomics/spatial/)
 
 **Thursday** (Mar 7)
 

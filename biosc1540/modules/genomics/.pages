@@ -1,8 +1,8 @@
 nav:
     - index.md
     - Learning scenario: learning-scenario.md
-    - File types: https://omics.crumblearn.org/appendices/data-types/fasta/
+    - File types: https://omics.crumblearn.org/appendices/file-types/
     - Sequencing: https://omics.crumblearn.org/sequencing/dna/
-    - Genome assembly: https://omics.crumblearn.org/assembly/
+    - Genome assembly: https://omics.crumblearn.org/genomics/assembly/
     - Sequence alignment: https://omics.crumblearn.org/alignment/
-    - Gene annotation: https://omics.crumblearn.org/annotation/
+    - Gene annotation: https://omics.crumblearn.org/genomics/annotation/
