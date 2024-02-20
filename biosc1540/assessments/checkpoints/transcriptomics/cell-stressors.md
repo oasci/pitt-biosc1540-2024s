@@ -1,8 +1,13 @@
 # Cell stressors
 
-They study used a modified M9 liquid medium as the default.
+In our project on analyzing gene expression under specific stress conditions, it's crucial to understand the experimental setup and the nature of the cell stressors used in the study.
+This information provides a backdrop against which we analyze the gene expression data, allowing us to interpret changes in expression within the environmental context in which they were observed.
 
--   7.1 g/L of Na<sub>2</sub>HPO<sub>4</sub> · 12H2O,
+## Background on Experimental Medium
+
+The study utilized a modified M9 liquid medium as the standard environment for *E. coli* cultures, comprising:
+
+-   7.1 g/L of Na<sub>2</sub>HPO<sub>4</sub> · 12H<sub>2</sub>O,
 -   3 g/L of KH<sub>2</sub>PO<sub>4</sub>,
 -   0.5 g/L of NaCl,
 -   2 g/L of NH<sub>4</sub>Cl,
@@ -12,55 +17,21 @@ They study used a modified M9 liquid medium as the default.
 -   10 mg/L of thiamine-hydrochloride,
 -   5 g/L of glucose.
 
-Investigators examined the following cell stressors.
+This composition serves as the default condition for the *E. coli* cultures, against which the stress responses are measured.
 
-## Sodium chloride (NaCl)
+## Cell Stressors Examined
 
-**Stress condition:** 400 mM
+The investigators introduced various cell stressors to the *E. coli* cultures to study their impact on gene expression.
+Below is a summary of each stressor and its specific stress condition:
 
-<!-- High concentrations of NaCl can create osmotic stress for *E. coli*, leading to dehydration, plasmolysis (cell shrinkage), and disruption of cell homeostasis.
-This stress can inhibit the growth of *E. coli* by affecting its ability to maintain proper cell turgor and function.
-
-NaCl, especially in higher concentrations, can also induce oxidative stress in *E. coli* cells.
-Oxidative stress occurs when there is an imbalance between the production of reactive oxygen species (ROS) and the ability of the organism to counteract or detoxify their harmful effects through the production of antioxidants.
-The resulting damage to proteins, lipids, and DNA can inhibit growth or lead to cell death. -->
-
-## Potassium chloride (KCl)
-
-**Stress condition:** 210 mM
-
-## Cobalt chloride (CoCl<sub>2</sub>)
-
-**Stress condition:** 16 μM
-
-## Sodium carbonate (Na<sub>2</sub>Co<sub>3</sub>)
-
-**Stress condition:** 32.5 mM
-
-## L-Lactate (Lac)
-
-**Stress condition:** 40 mM
-
-## L-Malate (Mal)
-
-**Stress condition:** 30 mM
-
-## Methacrylate (MCL)
-
-**Stress condition:** 8.75 mM
-
-## Crotonate (CRO)
-
-**Stress condition:** 50 mM
-
-## Methylglyoxal (MG)
-
-**Stress condition:** 350 μM
-
-## *n*-butanol (BuOH)
-
-**Stress condition:** 1.25%
-
-## Cetylpyridinium chloride (CPC)
-
-**Stress condition:** 4.8 μM
+1.  **Sodium chloride (NaCl)** - 400 mM: High concentrations can induce osmotic and oxidative stress, affecting cell turgor, function, and leading to potential cell damage or death.
+2.  **Potassium chloride (KCl)** - 210 mM: Similar to NaCl, high levels of KCl can also create osmotic stress.
+3.  **Cobalt chloride (CoCl₂)** - 16 μM: Introduces metal stress, which can affect various cellular processes.
+4.  **Sodium carbonate (Na₂CO₃)** - 32.5 mM: Alkaline stress can disturb pH homeostasis, affecting enzyme activities and stability.
+5.  **L-Lactate (Lac)** - 40 mM: Organic acid stress that can affect metabolism and pH balance.
+6.  **L-Malate (Mal)** - 30 mM: Another organic acid stress impacting metabolism and energy production.
+7.  **Methacrylate (MCL)** - 8.75 mM: A synthetic compound that can cause stress through its toxic effects.
+8.  **Crotonate (CRO)** - 50 mM: Introduces stress potentially through its effects on metabolic pathways.
+9.  **Methylglyoxal (MG)** - 350 μM: A byproduct of metabolism that, in high concentrations, can cause glycation damage.
+10.  **n-butanol (BuOH)** - 1.25%: Solvent stress that can disrupt cell membranes and protein function.
+11.  **Cetylpyridinium chloride (CPC)** - 4.8 μM: Surfactant stress that can interfere with membrane integrity and function.

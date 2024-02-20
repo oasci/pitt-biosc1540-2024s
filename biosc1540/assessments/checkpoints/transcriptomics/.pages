@@ -1,4 +1,5 @@
 nav:
     - index.md
     - Data acquisition: data-acquisition.ipynb
+    - Cell stressors: cell-stressors.md
     - Transcriptomics checkpoint: transcriptomics-checkpoint.ipynb
