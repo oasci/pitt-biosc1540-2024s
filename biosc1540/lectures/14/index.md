@@ -1,6 +1,6 @@
-# Lecture 13
+# Lecture 14
 
-**Date:** Feb 22, 2024
+**Date:** Feb 27, 2024
 
 <!-- ## Learning objectives
 
@@ -10,10 +10,11 @@ What you should be able to do after today's lecture. -->
 
 Relevant content for today's lecture.
 
--   [Read mapping](https://omics.crumblearn.org/transcriptomics/mapping/)
--   [Burrows-Wheeler transformation](https://omics.crumblearn.org/appendices/algorithms/compression/bwt/)
-<!-- -   [FM-index](https://omics.crumblearn.org/sequencing/rna/)
--   [HISAT](https://omics.crumblearn.org/transcriptomics/mapping/hisat/) -->
+-   [RNA quantification](https://omics.crumblearn.org/transcriptomics/quant/)
+-   [Problem formulation](https://omics.crumblearn.org/transcriptomics/quant/problem/)
+-   [Probability density functions](https://stats.crumblearn.org/dist/discrete/prob-mass/)
+-   [Maximum-likelihood estimation]()
+-   [Salmon](https://omics.crumblearn.org/transcriptomics/quant/salmon/)
 
 <!-- ## Presentation
 
