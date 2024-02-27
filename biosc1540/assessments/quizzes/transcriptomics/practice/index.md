@@ -27,13 +27,6 @@ B.  Report whether the pattern exists in the sequence and, if so, the position(s
 
 ### Problem 4
 
-Suppose you have an RNA sequence represented by its BWT: `AG$CCAUG` and a set of short reads `["CA", "UG", "AG"]`.
-
-A.  For each read, use the BWT and potentially auxiliary data structures like the suffix array or the FM-index to map the read back to the sequence.<br>
-B.  Determine the starting position of each read in the original sequence.
-
-### Problem 5
-
 Consider the RNA sequence `UACGUGACG$`.
 
 A. Construct the BWT of the given sequence.<br>
