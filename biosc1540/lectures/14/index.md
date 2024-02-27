@@ -13,7 +13,6 @@ Relevant content for today's lecture.
 -   [RNA quantification](https://omics.crumblearn.org/transcriptomics/quant/)
 -   [Problem formulation](https://omics.crumblearn.org/transcriptomics/quant/problem/)
 -   [Probability density functions](https://stats.crumblearn.org/dist/discrete/prob-mass/)
--   [Maximum-likelihood estimation]()
 -   [Salmon](https://omics.crumblearn.org/transcriptomics/quant/salmon/)
 
 <!-- ## Presentation
