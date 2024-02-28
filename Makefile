@@ -32,6 +32,7 @@ conda-setup:
 conda-dependencies:
 	$(CONDA) conda install -y -c conda-forge nodejs
 	$(CONDA) conda install -y -c bioconda clustalw
+	$(CONDA) conda install -y -c bioconda salmon
 
 .PHONY: nodejs-dependencies
 nodejs-dependencies:
