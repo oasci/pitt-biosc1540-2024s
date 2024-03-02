@@ -235,3 +235,160 @@ What is a major challenge when quantifying gene expression using RNA-seq data fr
 **B.** Accounting for the high degree of genetic similarity between different species.<br>
 **C.** Deconvolving the mixed expression profiles to identify the contributions from different cell types.<br>
 **D.** Ensuring that all RNA molecules are sequenced at exactly the same rate.
+
+## Salmon
+
+### Problem 34
+
+What is the primary method used by Salmon for mapping reads to transcripts?
+
+**A.** Exact alignment using dynamic programming.<br>
+**B.** Quasi-mapping to a reference transcriptome.<br>
+**C.** Greedy alignment to a reference genome.<br>
+**D.** K-mer based mapping to a reference proteome.
+
+### Problem 35
+
+Which of the following best describes the purpose of "quasi-mapping" in Salmon?
+
+**A.** To identify the exact location of reads on the genome.<br>
+**B.** To rapidly approximate the positions where reads may originate from the transcriptome.<br>
+**C.** To generate a complete, gapless alignment of reads to transcripts.<br>
+**D.** To correct sequencing errors in reads before mapping.
+
+### Problem 36
+
+Salmon utilizes a specific model to correct for biases in RNA-seq data. What does this model account for?
+
+**A.** Only sequence composition bias at the beginning of reads.<br>
+**B.** Only PCR amplification bias.<br>
+**C.** Sequence-specific and positional-specific biases.<br>
+**D.** The length of the poly-A tail in eukaryotic mRNAs.
+
+### Problem 37
+
+In Salmon, what is the significance of using "effective length" for transcripts during quantification?
+
+**A.** It adjusts for the physical length of the transcript to aid in visualization.<br>
+**B.** It represents the actual length of the transcript after splicing.<br>
+**C.** It corrects for biases introduced by variable transcript lengths and sequencing depth.<br>
+**D.** It is used to calculate the cost of sequencing per base pair.
+
+### Problem 38
+
+How does Salmon deal with transcripts that have multiple potential origins for a given read?
+
+**A.** It assigns the read to the longest transcript.<br>
+**B.** It discards reads that cannot be uniquely mapped.<br>
+**C.** It uses an expectation-maximization (EM) algorithm to probabilistically assign reads to transcripts.<br>
+**D.** It randomly assigns the read to one of the possible transcripts.
+
+### Problem 39
+
+What feature allows Salmon to perform transcript quantification at a faster rate compared to traditional alignment methods?
+
+**A.** Utilizing GPU acceleration for all computations.<br>
+**B.** The avoidance of full read alignment in favor of quasi-mapping.<br>
+**C.** Performing all calculations in a cloud-based environment.<br>
+**D.** Requiring less computational memory due to simplified data structures.
+
+### Problem 40
+
+Explain how Salmon adjusts for transcript abundance estimation using the concept of "effective length".
+Why is this adjustment necessary, and what factors does it take into account?
+
+### Problem 41
+
+Discuss the role of the expectation-maximization (EM) algorithm in the context of Salmon's quantification process.
+How does the EM algorithm contribute to the accuracy of transcript abundance estimates?
+
+### Problem 42
+
+Salmon incorporates bias correction mechanisms to improve the accuracy of transcript quantification.
+Describe the types of biases that are accounted for by Salmon and the importance of correcting these biases in RNA-seq data analysis.
+
+### Problem 43
+
+Salmon can output quantification results in the form of Transcripts Per Million (TPM) among other metrics.
+Explain the significance of TPM as a measure of transcript abundance and how it facilitates comparison across samples.
+
+### Problem 44
+
+Describe the fundamental approach Salmon takes to estimate transcript abundance from RNA-seq data.
+How does it differ from traditional read alignment, and what advantages does this approach offer in terms of computational efficiency and accuracy?
+
+## Differential gene expression analysis
+
+### Problem 45
+
+What is differential gene expression analysis and why is it important in understanding biological processes?
+
+### Problem 46
+
+Describe the basic workflow of a differential gene expression analysis starting from RNA sequencing data to the identification of differentially expressed genes.
+
+### Problem 47
+
+Discuss the importance of biological replicates in differential gene analysis. How do they impact the statistical power of the analysis?
+
+### Problem 48
+
+What is the role of normalization in RNA-seq data analysis? Describe at least two methods used for normalization and their purposes.
+
+### Problem 49
+
+Identify and explain two common statistical tests used in differential gene expression analysis. Discuss their assumptions and applicability.
+
+### Problem 50
+
+What is the primary goal of differential gene expression analysis?
+
+**A.** To identify genes that show significant differences in expression across various conditions or treatments.<br>
+**B.** To categorize genes into different clusters based on their sequence similarity.<br>
+**C.** To predict the 3D structure of proteins encoded by genes.<br>
+**D.** To determine the entire DNA sequence of an organism's genome.
+
+### Problem 51
+
+Which statistical method is commonly used for identifying differentially expressed genes in RNA-seq data?
+
+**A.** Principal component analysis (PCA).<br>
+**B.** T-test.<br>
+**C.** EdgeR.<br>
+**D.** K-means clustering.
+
+### Problem 52
+
+In the context of differential gene expression analysis, what does the term "fold change" refer to?
+
+**A.** The change in gene expression level from the control group to the treatment group.<br>
+**B.** The number of times a gene's expression doubles in response to a condition.<br>
+**C.** The difference in gene expression levels between two groups, adjusted for variance.<br>
+**D.** The ratio of the average expression levels of a gene in one condition to its average expression levels in another condition.
+
+### Problem 53
+
+Why is multiple testing correction important in differential gene expression analysis?
+
+**A.** To increase the statistical power of the tests.<br>
+**B.** To reduce the chance of false positives due to the large number of genes tested.<br>
+**C.** To ensure that all genes are expressed equally across samples.<br>
+**D.** To validate the experimental conditions.
+
+### Problem 54
+
+Which of the following is NOT a commonly used software or package for differential gene expression analysis?
+
+**A.** DESeq2.<br>
+**B.** EdgeR.<br>
+**C.** BLAST.<br>
+**D.** limma.
+
+### Problem 55
+
+What is the purpose of normalization in differential gene expression analysis?
+
+**A.** To align DNA sequences from different samples.<br>
+**B.** To adjust for differences in sequencing depth and gene length across samples.<br>
+**C.** To enhance the visual representation of gene expression data.<br>
+**D.** To identify single-nucleotide polymorphisms (SNPs).
