@@ -98,8 +98,6 @@ C. Explain how you could use the BWT and additional data structures to quickly f
 
 Explain how the Burrows-Wheeler Transform rearranges the characters of a string into runs of similar characters and how this property is exploited for read mapping and data compression.
 
-Certainly! Here are the multiple-choice questions formatted as requested:
-
 ### Problem 16
 
 What does the Burrows-Wheeler Transform (BWT) primarily facilitate in bioinformatics applications?
@@ -178,3 +176,62 @@ Explain the significance of the "$" symbol in BWT outputs.
 
 Describe a strategy to improve the accuracy of read mapping in regions with high genomic repetition using BWT.
 Your answer should include a brief explanation of why repetitive sequences pose a challenge for read mapping and propose a computational or algorithmic solution to mitigate these issues.
+
+## RNA quantification
+
+### Problem 26
+
+Describe a scenario in which RNA-seq data might be significantly contaminated by noise. How would you differentiate between noise and true biological signal in this dataset?
+Propose a computational approach for filtering out noise, and discuss the potential impacts of this process on the interpretation of gene expression levels.
+
+### Problem 27
+
+Given raw RNA-seq data from multiple samples, including control and treated groups under different conditions, explain how you would normalize this data to account for variations in sequencing depth and RNA composition.
+
+### Problem 28
+
+Explain how RNA-seq data can be used to identify alternative splicing events. Discuss the challenges associated with quantifying splice variants from short-read sequencing data and propose computational strategies to overcome these challenges. How do changes in splicing patterns contribute to the complexity of gene expression and cellular function?
+
+### Problem 29
+
+Long non-coding RNAs play crucial roles in gene regulation, yet their quantification poses significant challenges.
+Discuss these challenges, including issues related to lncRNA annotation, low abundance, and sequence similarity with other transcripts.
+Propose a computational approach for accurately quantifying lncRNAs from RNA-seq data and discuss the potential biological insights that could be gained from such analysis.
+
+Certainly! Here are some multiple-choice questions formatted according to your request, focusing on RNA quantification in computational biology:
+
+### Problem 30
+
+What is the primary goal of RNA-seq normalization?
+
+**A.** To adjust for gene length variations in different samples.<br>
+**B.** To ensure comparability between samples by correcting for sequencing depth and RNA composition effects.<br>
+**C.** To amplify the signal of lowly expressed genes.<br>
+**D.** To eliminate all sources of biological variation between samples.
+
+### Problem 31
+
+Which of the following methods is commonly used for differential gene expression analysis in RNA-seq data?
+
+**A.** Principal Component Analysis (PCA).<br>
+**B.** Hierarchical Clustering.<br>
+**C.** DESeq2.<br>
+**D.** K-means clustering.
+
+### Problem 32
+
+Which of the following best describes the role of transcriptome assembly in RNA-seq analysis?
+
+**A.** It is used to identify single nucleotide polymorphisms (SNPs) within coding regions.<br>
+**B.** It involves the alignment of RNA-seq reads to a reference genome to identify expressed genes.<br>
+**C.** It is the process of piecing together RNA-seq reads to reconstruct the full-length transcripts that were present in the sample.<br>
+**D.** It refers to the quantification of each gene's expression level based on the number of reads aligned to its exons.
+
+### Problem 33
+
+What is a major challenge when quantifying gene expression using RNA-seq data from highly heterogeneous samples, such as those obtained from tumor tissues?
+
+**A.** Determining the exact time of day the sample was collected.<br>
+**B.** Accounting for the high degree of genetic similarity between different species.<br>
+**C.** Deconvolving the mixed expression profiles to identify the contributions from different cell types.<br>
+**D.** Ensuring that all RNA molecules are sequenced at exactly the same rate.
