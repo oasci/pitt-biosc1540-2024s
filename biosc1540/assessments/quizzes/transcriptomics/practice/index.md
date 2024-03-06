@@ -350,7 +350,7 @@ In the context of differential gene expression analysis, what does the term "fol
 **C.** The difference in gene expression levels between two groups, adjusted for variance.<br>
 **D.** The ratio of the average expression levels of a gene in one condition to its average expression levels in another condition.
 
-### Problem 50
+### Problem 51
 
 Why is multiple testing correction important in differential gene expression analysis?
 
@@ -358,15 +358,6 @@ Why is multiple testing correction important in differential gene expression ana
 **B.** To reduce the chance of false positives due to the large number of genes tested.<br>
 **C.** To ensure that all genes are expressed equally across samples.<br>
 **D.** To validate the experimental conditions.
-
-### Problem 51
-
-Which of the following is NOT a commonly used software or package for differential gene expression analysis?
-
-**A.** DESeq2.<br>
-**B.** EdgeR.<br>
-**C.** BLAST.<br>
-**D.** limma.
 
 ### Problem 52
 
