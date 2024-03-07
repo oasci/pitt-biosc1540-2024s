@@ -81,7 +81,7 @@ C.  Write down the last column (the BWT of the sequence).
 ### Problem 13
 
 Given a BWT string, reconstruct the original RNA sequence.
-Use the BWT string `G\$CCGGTC`.
+Use the BWT string `G$CCGGTC`.
 
 A.  List all suffixes of the BWT string in sorted order.<br>
 B.  Reconstruct the original sequence from the BWT string.
