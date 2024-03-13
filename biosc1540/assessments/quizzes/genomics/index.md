@@ -1,5 +1,13 @@
 # Genomics quiz
 
-The [following PDF](quiz-genomics.pdf) is compiled with [typst](https://github.com/typst/typst).
+## Statistics
 
-<iframe width="100%" height="800" src="./quiz-genomics.pdf">
+Here are the per-problem and overall score statistics for this quiz.
+
+<figure markdown>
+![](./quiz-stats.png){ alight=left width=800 }
+</figure>
+
+## PDF
+
+<iframe width="100%" height="700" src="./quiz-genomics.pdf">
