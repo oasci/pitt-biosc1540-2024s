@@ -1,6 +1,6 @@
 # Schedule
 
-Jump to [this week](#week-7).
+Jump to [this week](#week-11).
 
 !!! danger "DRAFT"
 
@@ -105,14 +105,12 @@ Jump to [this week](#week-7).
 **Thursday** (Feb 29)
 
 -   ^^Topics^^: [Gene expression analysis](https://omics.crumblearn.org/transcriptomics/ge/)
--   ^^Due^^:
-    -   [Assignment 04](/assessments/assignments/04/)
 
 ### Week 9
 
 **Tuesday** (Mar 5)
 
--   ^^Topics^^: [Spatial transcriptomics](https://omics.crumblearn.org/transcriptomics/spatial/)
+-   ^^Topics^^: ~~Spatial transcriptomics~~ Review
 
 **Thursday** (Mar 7)
 
@@ -130,11 +128,11 @@ No class
 
 **Tuesday** (Mar 19)
 
--   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario) and [drug pipeline](/modules/cadd/drug-discovery-pipeline)
+-   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario), [CADD introduction](https://cadd.crumblearn.org/intro/), and [thermodynamics of binding](http://127.0.0.1:3000/binding/thermo/)
 
 **Thursday** (Mar 21)
 
--   ^^Topics^^: [Protein-ligand docking](/modules/cadd/docking)
+-   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/binding/mm/), [covalent](https://cadd.crumblearn.org/binding/covalent/) and [noncovalent](https://cadd.crumblearn.org/binding/noncovalent/) interactions.
 -   ^^Due^^:
     -   [Transcriptomics checkpoint](/assessments/checkpoints/transcriptomics/)
 
@@ -142,11 +140,11 @@ No class
 
 **Tuesday** (Mar 26)
 
--   ^^Topics^^: [Scoring functions](/modules/cadd/scoring-functions)
+-   ^^Topics^^: [Drug targets](https://cadd.crumblearn.org/sbdd/targets/)
 
 **Thursday** (Mar 28)
 
--   ^^Topics^^: [Ligand-based screening](/modules/cadd/ligand-based-screening)
+-   ^^Topics^^: [Molecular docking](https://cadd.crumblearn.org/sbdd/docking/)
 -   ^^Due^^:
     -   [Assignment 05](/assessments/assignments/05/)
 
@@ -154,35 +152,33 @@ No class
 
 **Tuesday** (Apr 2)
 
--   ^^Topics^^: [Lead optimization](/modules/cadd/lead-optimization)
+-   ^^Topics^^: [Ligand descriptors](https://cadd.crumblearn.org/lbdd/descriptors/)
 
 **Thursday** (Apr 4)
 
--   ^^Topics^^: [CADD quiz](/assessments/quizzes/cadd/)
-
-## [Module 05 - Molecular simulations][module 05]
+-   ^^Topics^^: [QSAR](https://cadd.crumblearn.org/lbdd/qsar/)
 
 ### Week 14
 
 **Tuesday** (Apr 9)
 
--   ^^Topics^^: [Learning scenario](/modules/simulations/learning-scenario) and [types of molecular simulations](/modules/simulations/molecular-simulations)
+-   ^^Topics^^: [Molecular simulations](https://cadd.crumblearn.org/sbdd/sims/)
 
 **Thursday** (Apr 11)
 
--   ^^Topics^^: [molecular mechanics](/modules/simulations/molecular-mechanics)
--   ^^Due^^:
-    -   [CADD checkpoint](/assessments/checkpoints/cadd/)
+-   ^^Topics^^: [CADD quiz](/assessments/quizzes/cadd/)
 
 ### Week 15
 
 **Tuesday** (Apr 16)
 
--   ^^Topics^^: [Simulation workflow](/modules/simulations/simulation-workflow)
+-   ^^Topics^^: Simulation analysis
 
 **Thursday** (Apr 18)
 
 -   ^^Topics^^: Flex
+-   ^^Due^^:
+    -   [CADD checkpoint](/assessments/checkpoints/cadd/)
 
 ## Finals
 
