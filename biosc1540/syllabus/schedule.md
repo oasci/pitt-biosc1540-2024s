@@ -132,7 +132,7 @@ No class
 
 **Thursday** (Mar 21)
 
--   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/binding/thermo/)
+-   ^^Topics^^: [Target identification](https://cadd.crumblearn.org/sbdd/targets/)
 -   ^^Due^^:
     -   [Transcriptomics checkpoint](/assessments/checkpoints/transcriptomics/)
 
@@ -140,37 +140,37 @@ No class
 
 **Tuesday** (Mar 26)
 
--   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/binding/mm/), [covalent](https://cadd.crumblearn.org/binding/covalent/) and [noncovalent](https://cadd.crumblearn.org/binding/noncovalent/) interactions.
+-   ^^Topics^^: [Target structure](https://cadd.crumblearn.org/sbdd/targets/)
 
 **Thursday** (Mar 28)
 
--   ^^Topics^^: [Drug targets](https://cadd.crumblearn.org/sbdd/targets/)
+-   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/binding/thermo/)
 -   ^^Due^^:
-    -   [Assignment 04](/assessments/assignments/05/)
+    -   [Assignment 04](/assessments/assignments/04/)
 
 ### Week 13
 
 **Tuesday** (Apr 2)
 
--   ^^Topics^^: [Molecular docking](https://cadd.crumblearn.org/sbdd/docking/)
+-   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/binding/mm/) and [covalent](https://cadd.crumblearn.org/binding/covalent/) interactions.
 
 **Thursday** (Apr 4)
 
--   ^^Topics^^: [Molecular simulations](https://cadd.crumblearn.org/sbdd/sims/)
+-   ^^Topics^^: [Noncovalent](https://cadd.crumblearn.org/binding/noncovalent/) interactions
 -   ^^Due^^:
-    -   [Assignment 05](/assessments/assignments/06/)
+    -   [Assignment 05](/assessments/assignments/05/)
 
 ### Week 14
 
 **Tuesday** (Apr 9)
 
--   ^^Topics^^: [Ligand descriptors](https://cadd.crumblearn.org/lbdd/descriptors/)
+-   ^^Topics^^: [Protein-ligand docking](https://cadd.crumblearn.org/sbdd/docking/)
 
 **Thursday** (Apr 11)
 
--   ^^Topics^^: [QSAR](https://cadd.crumblearn.org/lbdd/qsar/)
+-   ^^Topics^^: Review
 -   ^^Due^^:
-    -   [Assignment 06](/assessments/assignments/07/)
+    -   [Assignment 06](/assessments/assignments/06/)
 
 ### Week 15
 
