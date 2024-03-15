@@ -128,11 +128,11 @@ No class
 
 **Tuesday** (Mar 19)
 
--   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario), [CADD introduction](https://cadd.crumblearn.org/intro/), and [thermodynamics of binding](http://127.0.0.1:3000/binding/thermo/)
+-   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario) and [CADD introduction](https://cadd.crumblearn.org/intro/)
 
 **Thursday** (Mar 21)
 
--   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/binding/mm/), [covalent](https://cadd.crumblearn.org/binding/covalent/) and [noncovalent](https://cadd.crumblearn.org/binding/noncovalent/) interactions.
+-   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/binding/thermo/)
 -   ^^Due^^:
     -   [Transcriptomics checkpoint](/assessments/checkpoints/transcriptomics/)
 
@@ -140,39 +140,43 @@ No class
 
 **Tuesday** (Mar 26)
 
--   ^^Topics^^: [Drug targets](https://cadd.crumblearn.org/sbdd/targets/)
+-   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/binding/mm/), [covalent](https://cadd.crumblearn.org/binding/covalent/) and [noncovalent](https://cadd.crumblearn.org/binding/noncovalent/) interactions.
 
 **Thursday** (Mar 28)
 
--   ^^Topics^^: [Molecular docking](https://cadd.crumblearn.org/sbdd/docking/)
+-   ^^Topics^^: [Drug targets](https://cadd.crumblearn.org/sbdd/targets/)
 -   ^^Due^^:
-    -   [Assignment 05](/assessments/assignments/05/)
+    -   [Assignment 04](/assessments/assignments/05/)
 
 ### Week 13
 
 **Tuesday** (Apr 2)
 
--   ^^Topics^^: [Ligand descriptors](https://cadd.crumblearn.org/lbdd/descriptors/)
+-   ^^Topics^^: [Molecular docking](https://cadd.crumblearn.org/sbdd/docking/)
 
 **Thursday** (Apr 4)
 
--   ^^Topics^^: [QSAR](https://cadd.crumblearn.org/lbdd/qsar/)
+-   ^^Topics^^: [Molecular simulations](https://cadd.crumblearn.org/sbdd/sims/)
+-   ^^Due^^:
+    -   [Assignment 05](/assessments/assignments/06/)
 
 ### Week 14
 
 **Tuesday** (Apr 9)
 
--   ^^Topics^^: [Molecular simulations](https://cadd.crumblearn.org/sbdd/sims/)
+-   ^^Topics^^: [Ligand descriptors](https://cadd.crumblearn.org/lbdd/descriptors/)
 
 **Thursday** (Apr 11)
 
--   ^^Topics^^: [CADD quiz](/assessments/quizzes/cadd/)
+-   ^^Topics^^: [QSAR](https://cadd.crumblearn.org/lbdd/qsar/)
+-   ^^Due^^:
+    -   [Assignment 06](/assessments/assignments/07/)
 
 ### Week 15
 
 **Tuesday** (Apr 16)
 
--   ^^Topics^^: Simulation analysis
+-   ^^Topics^^: [CADD quiz](/assessments/quizzes/cadd/)
 
 **Thursday** (Apr 18)
 
@@ -182,7 +186,7 @@ No class
 
 ## Finals
 
--   ^^Due^^: [Portfolio](/assessments/portfolio/) which includes the [molecular simulations checkpoint](/assessments/checkpoints/simulations/).
+-   There is no final.
 
 <!-- LINKS -->
 
