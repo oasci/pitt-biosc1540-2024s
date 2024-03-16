@@ -129,10 +129,16 @@ No class
 **Tuesday** (Mar 19)
 
 -   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario) and [CADD introduction](https://cadd.crumblearn.org/intro/)
+-   ^^Readings^^:
+    -   Chapter 1 of [Structural biology in drug discovery: Methods, techniques, and practices][renaud]
+    -   Chapter 4 of [Drug design: A conceptual overview][kumar]
 
 **Thursday** (Mar 21)
 
 -   ^^Topics^^: [Target identification](https://cadd.crumblearn.org/sbdd/targets/)
+-   ^^Readings^^:
+    -   Chapter 7 of [Structural biology in drug discovery: Methods, techniques, and practices][renaud]
+    -   Chapter 8 of [Drug design: A conceptual overview][kumar]
 -   ^^Due^^:
     -   [Transcriptomics checkpoint](/assessments/checkpoints/transcriptomics/)
 
@@ -141,10 +147,16 @@ No class
 **Tuesday** (Mar 26)
 
 -   ^^Topics^^: [Target structure](https://cadd.crumblearn.org/sbdd/targets/structure/)
+-   ^^Readings^^:
+    -   Chapter 15 of [Structural biology in drug discovery: Methods, techniques, and practices][renaud]
+    -   Chapters 2 and 13 of [Drug design: A conceptual overview][kumar]
 
 **Thursday** (Mar 28)
 
 -   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/sbdd/binding/)
+-   ^^Readings^^:
+    -   Chapter 2 of [Introduction to computational chemistry][jensen]
+    -   Chapter 6 of [Drug design: A conceptual overview][kumar]
 -   ^^Due^^:
     -   [Assignment 04](/assessments/assignments/04/)
 
@@ -153,10 +165,16 @@ No class
 **Tuesday** (Apr 2)
 
 -   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/) and [covalent](https://cadd.crumblearn.org/sbdd/binding/covalent/) interactions.
+-   ^^Readings^^:
+    -   Chapter 2 of [Introduction to computational chemistry][jensen]
+    -   Chapter 6 of [Drug design: A conceptual overview][kumar]
 
 **Thursday** (Apr 4)
 
 -   ^^Topics^^: [Noncovalent](https://cadd.crumblearn.org/sbdd/binding/noncovalent/) interactions and [entropy](https://cadd.crumblearn.org/sbdd/binding/entropy/)
+-   ^^Readings^^:
+    -   Chapter 2 of [Introduction to computational chemistry][jensen]
+    -   Chapter 4 of [Drug design: A conceptual overview][kumar]
 -   ^^Due^^:
     -   [Assignment 05](/assessments/assignments/05/)
 
@@ -196,3 +214,8 @@ No class
 [module 04]: /modules/cadd
 [module 05]: /modules/simulations
 [pre-course-survey]: https://teachingsurvey.pitt.edu/pittbpi/GenerateTaskLink.aspx?projectid=dccc4f35-39e1-40ab-98c6-f240551b9383&taskid=225SVM&tasktype=SVM&groupid=cfb49821-1863-45c6-bbed-5bf12392eaa2&subjectid=AgAAAI4x1b1ZpSmCg9GO7+UzeKr3nx27RTY2A5TzxGcH6AxuCkekDY2s4vL+cYzNISIXzzsgP6XpFONx8XPimy5+GVo=&conditionid=&blueuserid=AgAAAPf6iEgusDpry5WXt/eOkHqepaQwc7KHc9yb3VA1jrdfanoXnCjaQjHQi73F/86bw+ooJtvUiUWUoOF/cHTT6pVzhWYDPOwp4BkXg+YBwZVF&authenticationtype=2&versionlanguage=en-US
+
+[kumar]: https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma99101958916406236
+[renaud]: https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma99100435767006236
+[jensen]: https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_askewsholts_vlebooks_9781118825983
+[zuckerman]: https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_askewsholts_vlebooks_9781420073799
