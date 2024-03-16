@@ -186,7 +186,7 @@ No class
 
 **Thursday** (Apr 11)
 
--   ^^Topics^^: Review
+-   ^^Topics^^: [Molecular simulations](https://cadd.crumblearn.org/sbdd/sims/)
 -   ^^Due^^:
     -   [Assignment 06](/assessments/assignments/06/)
 
