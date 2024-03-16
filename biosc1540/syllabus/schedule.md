@@ -140,11 +140,11 @@ No class
 
 **Tuesday** (Mar 26)
 
--   ^^Topics^^: [Target structure](https://cadd.crumblearn.org/sbdd/targets/)
+-   ^^Topics^^: [Target structure](https://cadd.crumblearn.org/sbdd/targets/structure/)
 
 **Thursday** (Mar 28)
 
--   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/binding/thermo/)
+-   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/sbdd/binding/)
 -   ^^Due^^:
     -   [Assignment 04](/assessments/assignments/04/)
 
@@ -152,11 +152,11 @@ No class
 
 **Tuesday** (Apr 2)
 
--   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/binding/mm/) and [covalent](https://cadd.crumblearn.org/binding/covalent/) interactions.
+-   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/) and [covalent](https://cadd.crumblearn.org/sbdd/binding/covalent/) interactions.
 
 **Thursday** (Apr 4)
 
--   ^^Topics^^: [Noncovalent](https://cadd.crumblearn.org/binding/noncovalent/) interactions
+-   ^^Topics^^: [Noncovalent](https://cadd.crumblearn.org/sbdd/binding/noncovalent/) interactions and [entropy](https://cadd.crumblearn.org/sbdd/binding/entropy/)
 -   ^^Due^^:
     -   [Assignment 05](/assessments/assignments/05/)
 
