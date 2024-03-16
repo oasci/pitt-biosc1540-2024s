@@ -13,6 +13,11 @@ Students learn about genomics, transcriptomics, computer-aided drug design, and 
 We focus primarily on hands-on learning with projects centered around *E. coli* as our computational model organism.
 Ultimately, this course is the first stepping stone for undergraduates at the University of Pittsburgh before taking Genomics (BIOSC 1542) and/or Simulation and Modeling (BIOSC 1544).
 
+!!! warning
+
+    There will be substantial changes to future iterations of this course.
+    If you are considering taking this course in Fall 2024, please see the [current iteration of this course](https://pitt-biosc1540-2024f.oasci.org/) before enrolling.
+
 ## Contributions
 
 All comments, questions, concerns, feedback, or suggestions are welcome!
