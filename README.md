@@ -16,7 +16,7 @@ Ultimately, this course is the first stepping stone for undergraduates at the Un
 !!! warning
 
     There will be substantial changes to future iterations of this course.
-    If you are considering taking this course in Fall 2024, please see the [current iteration of this course](https://pitt-biosc1540-2024f.oasci.org/) before enrolling.
+    If you are considering taking this course in Fall 2024, please see the [website for that semester](https://pitt-biosc1540-2024f.oasci.org/) before enrolling.
 
 ## Contributions
 
