@@ -135,10 +135,10 @@ No class
 
 **Thursday** (Mar 21)
 
--   ^^Topics^^: [Target identification](https://cadd.crumblearn.org/sbdd/targets/)
+-   ^^Topics^^: [Target identification](https://cadd.crumblearn.org/sbdd/targets/) and [target structure](https://cadd.crumblearn.org/sbdd/targets/structure/)
 -   ^^Readings^^:
-    -   Chapter 7 of [Structural biology in drug discovery: Methods, techniques, and practices][renaud]
-    -   Chapter 8 of [Drug design: A conceptual overview][kumar]
+    -   Chapters 1, 2, 7, 15 of [Structural biology in drug discovery: Methods, techniques, and practices][renaud]
+    -   Chapters 2, 4, 8 of [Drug design: A conceptual overview][kumar]
 -   ^^Due^^:
     -   [Transcriptomics checkpoint](/assessments/checkpoints/transcriptomics/)
 
@@ -146,14 +146,14 @@ No class
 
 **Tuesday** (Mar 26)
 
--   ^^Topics^^: [Target structure](https://cadd.crumblearn.org/sbdd/targets/structure/)
+-   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/sbdd/binding/)
 -   ^^Readings^^:
-    -   Chapter 15 of [Structural biology in drug discovery: Methods, techniques, and practices][renaud]
-    -   Chapters 2 and 13 of [Drug design: A conceptual overview][kumar]
+    -   Chapter 2 of [Introduction to computational chemistry][jensen]
+    -   Chapter 6 of [Drug design: A conceptual overview][kumar]
 
 **Thursday** (Mar 28)
 
--   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/sbdd/binding/)
+-   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/) and [covalent](https://cadd.crumblearn.org/sbdd/binding/covalent/) interactions.
 -   ^^Readings^^:
     -   Chapter 2 of [Introduction to computational chemistry][jensen]
     -   Chapter 6 of [Drug design: A conceptual overview][kumar]
@@ -164,17 +164,14 @@ No class
 
 **Tuesday** (Apr 2)
 
--   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/) and [covalent](https://cadd.crumblearn.org/sbdd/binding/covalent/) interactions.
--   ^^Readings^^:
-    -   Chapter 2 of [Introduction to computational chemistry][jensen]
-    -   Chapter 6 of [Drug design: A conceptual overview][kumar]
-
-**Thursday** (Apr 4)
-
 -   ^^Topics^^: [Noncovalent](https://cadd.crumblearn.org/sbdd/binding/noncovalent/) interactions and [entropy](https://cadd.crumblearn.org/sbdd/binding/entropy/)
 -   ^^Readings^^:
     -   Chapter 2 of [Introduction to computational chemistry][jensen]
     -   Chapter 4 of [Drug design: A conceptual overview][kumar]
+
+**Thursday** (Apr 4)
+
+-   ^^Topics^^: [Protein-ligand docking](https://cadd.crumblearn.org/sbdd/docking/)
 -   ^^Due^^:
     -   [Assignment 05](/assessments/assignments/05/)
 
@@ -182,11 +179,13 @@ No class
 
 **Tuesday** (Apr 9)
 
--   ^^Topics^^: [Protein-ligand docking](https://cadd.crumblearn.org/sbdd/docking/)
+-   ^^Topics^^: [Molecular simulations](https://cadd.crumblearn.org/sbdd/sims/)
 
 **Thursday** (Apr 11)
 
--   ^^Topics^^: [Molecular simulations](https://cadd.crumblearn.org/sbdd/sims/)
+-   ^^Topics^^: [Ligand-based drug design](https://cadd.crumblearn.org/lbdd/)
+-   ^^Readings^^:
+    -   Chapter 5 of [Drug design: A conceptual overview][kumar]
 -   ^^Due^^:
     -   [Assignment 06](/assessments/assignments/06/)
 
