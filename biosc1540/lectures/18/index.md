@@ -11,7 +11,6 @@ What you should be able to do after today's lecture.
 3.  🧮 Outline the drug development process following drug discovery, including the stages and their purposes.
 4.  🧮 Recognize the two main categories of CADD and briefly explain the fundamental techniques.
 5.  🧮 Identify recent advancements and modern aspects of CADD within the past year.
-6.  🧮 Discuss the regulatory aspects of computer-aided drug discovery and development.
 
 ## Readings
 
