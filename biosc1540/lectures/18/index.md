@@ -14,7 +14,7 @@ Relevant content for today's lecture.
 -   [CADD introduction](https://cadd.crumblearn.org/intro/)
 -   [Drug discovery](https://cadd.crumblearn.org/intro/discovery/)
 -   [Drug development](https://cadd.crumblearn.org/intro/development/)
--   [CADD types](https://cadd.crumblearn.org/intro/development/)
+-   [CADD types](https://cadd.crumblearn.org/intro/types/)
 
 <!-- ## Presentation
 
