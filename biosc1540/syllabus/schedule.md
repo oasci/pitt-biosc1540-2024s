@@ -102,17 +102,17 @@ Jump to [this week](#week-11).
 
 -   ^^Topics^^: [Quantification](https://omics.crumblearn.org/transcriptomics/rna-quant/)
 
-**Thursday** (Feb 29)
+**Thursday** (Feb 29)  [Lecture 15](../../lectures/15/)
 
 -   ^^Topics^^: [Gene expression analysis](https://omics.crumblearn.org/transcriptomics/ge/)
 
 ### Week 9
 
-**Tuesday** (Mar 5)
+**Tuesday** (Mar 5) [Lecture 16](../../lectures/16/)
 
 -   ^^Topics^^: ~~Spatial transcriptomics~~ Review
 
-**Thursday** (Mar 7)
+**Thursday** (Mar 7) [Lecture 17](../../lectures/17/)
 
 -   ^^Topics^^: [Transcriptomics quiz](/assessments/quizzes/transcriptomics/)
 
@@ -126,14 +126,14 @@ No class
 
 ### Week 11
 
-**Tuesday** (Mar 19)
+**Tuesday** (Mar 19) [Lecture 18](../../lectures/18/)
 
 -   ^^Topics^^: [Learning scenario](/modules/cadd/learning-scenario) and [CADD introduction](https://cadd.crumblearn.org/intro/)
 -   ^^Readings^^:
     -   Chapter 1 of [Structural biology in drug discovery: Methods, techniques, and practices][renaud]
     -   Chapter 4 of [Drug design: A conceptual overview][kumar]
 
-**Thursday** (Mar 21)
+**Thursday** (Mar 21) [Lecture 19](../../lectures/19/)
 
 -   ^^Topics^^: [Target identification](https://cadd.crumblearn.org/sbdd/targets/) and [target structure](https://cadd.crumblearn.org/sbdd/targets/structure/)
 -   ^^Readings^^:
@@ -144,14 +144,14 @@ No class
 
 ### Week 12
 
-**Tuesday** (Mar 26)
+**Tuesday** (Mar 26) [Lecture 20](../../lectures/20/)
 
 -   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/sbdd/binding/)
 -   ^^Readings^^:
     -   Chapter 2 of [Introduction to computational chemistry][jensen]
     -   Chapter 6 of [Drug design: A conceptual overview][kumar]
 
-**Thursday** (Mar 28)
+**Thursday** (Mar 28) [Lecture 21](../../lectures/21/)
 
 -   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/) and [covalent](https://cadd.crumblearn.org/sbdd/binding/covalent/) interactions.
 -   ^^Readings^^:
@@ -162,14 +162,14 @@ No class
 
 ### Week 13
 
-**Tuesday** (Apr 2)
+**Tuesday** (Apr 2) [Lecture 22](../../lectures/22/)
 
 -   ^^Topics^^: [Noncovalent](https://cadd.crumblearn.org/sbdd/binding/noncovalent/) interactions and [entropy](https://cadd.crumblearn.org/sbdd/binding/entropy/)
 -   ^^Readings^^:
     -   Chapter 2 of [Introduction to computational chemistry][jensen]
     -   Chapter 4 of [Drug design: A conceptual overview][kumar]
 
-**Thursday** (Apr 4)
+**Thursday** (Apr 4) [Lecture 23](../../lectures/23/)
 
 -   ^^Topics^^: [Protein-ligand docking](https://cadd.crumblearn.org/sbdd/docking/)
 -   ^^Due^^:
@@ -177,11 +177,11 @@ No class
 
 ### Week 14
 
-**Tuesday** (Apr 9)
+**Tuesday** (Apr 9) [Lecture 24](../../lectures/24/)
 
 -   ^^Topics^^: [Molecular simulations](https://cadd.crumblearn.org/sbdd/sims/)
 
-**Thursday** (Apr 11)
+**Thursday** (Apr 11) [Lecture 25](../../lectures/26/)
 
 -   ^^Topics^^: [Ligand-based drug design](https://cadd.crumblearn.org/lbdd/)
 -   ^^Readings^^:
@@ -191,11 +191,11 @@ No class
 
 ### Week 15
 
-**Tuesday** (Apr 16)
+**Tuesday** (Apr 16) [Lecture 26](../../lectures/26/)
 
 -   ^^Topics^^: [CADD quiz](/assessments/quizzes/cadd/)
 
-**Thursday** (Apr 18)
+**Thursday** (Apr 18) [Lecture 27](../../lectures/27/)
 
 -   ^^Topics^^: Flex
 -   ^^Due^^:
