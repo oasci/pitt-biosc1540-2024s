@@ -18,8 +18,8 @@ If you need help, please consult the [documentation](https://durrantlab.pitt.edu
 
 Please submit the following materials:
 
--   A PDF of your responses to the questions along with any other images or information you'd like to submit.
--   A finalized `.molmoda` file containing your prepped protein, ligands, pockets, and docking results.
+-   (125 points) A PDF of your responses to the questions along with any other images or information you'd like to submit.
+-   (75 points) A finalized `.molmoda` file containing your prepped protein, ligands, pockets, and docking results.
 
 ## Background
 
@@ -50,9 +50,9 @@ Based on [target structure selection guidelines](https://cadd.crumblearn.org/sbd
 **Questions**
 
 1.  Briefly explain your reasoning behind selecting your structure.
-    (15 points)
+    (5 points)
 2.  Why would we not choose to use an AlphaFold model?
-    (15 points)
+    (5 points)
 
 ## Chemical library construction
 
@@ -68,9 +68,9 @@ Download these compounds as a single 3D SDF file.
     (5 points)
 2.  Search for a scientific article describing a recent discovery of a DHFR inhibitor.
     Briefly summarize the key features of the inhibitor and discuss how it compares to the ones found in your library.
-    (15 points)
+    (5 points)
 3.  Explain the concept and importance of scaffold diversity in the context of chemical library construction.
-    (10 points)
+    (5 points)
 
 **Bonus** (20 points)
 
@@ -88,11 +88,11 @@ This could include removing duplicate chains and water molecules, protonating th
 1.  Why might a crystallographic structure contain duplicate protein chains and how could their presence affect the docking process?
     (5 points)
 2.  Explain the rationale behind removing water molecules for docking simulations, considering potential drawbacks or advantages.
-    (10 points)
+    (5 points)
 3.  Explain why it is important to consider protein protonation during target preparation for docking simulations.
     (5 points)
 4.  Why might a protein structure contain a bound ligand, and how could its presence affect the docking simulations for new inhibitors?
-    (10 points)
+    (5 points)
 
 !!! tip
 
@@ -108,7 +108,7 @@ This could include conformer generation, protonation, etc.
 
 1.  Briefly describe conformer generation and protonation techniques and its role in preparing ligands for docking.
     Are there other common ligand preparation steps you might consider, and why?
-    (10 points)
+    (5 points)
 
 ## Pocket selection
 
@@ -118,9 +118,9 @@ Note all the pockets found, and select one to dock your ligands in.
 **Questions**
 
 1.  After identifying potential pockets in MolModa, describe the features you would use to characterize a suitable binding pocket for DHFR inhibitor docking.
-    (10 points)
+    (5 points)
 2.  In a real-world drug discovery project, how might experimental data (e.g., known inhibitor binding site) be used to validate the chosen pocket for in silico docking simulations?
-    (10 points)
+    (5 points)
 
 **Bonus** (10 points)
 
@@ -147,7 +147,7 @@ After the docking run finishes, the software will provide results for each ligan
     (10 points)
 5.  Compare the docking scores of known DHFR inhibitors with those obtained for your other library hits.
     What insights can you draw from this comparison?
-    (15 points)
+    (10 points)
 
 ## Lead optimization
 
