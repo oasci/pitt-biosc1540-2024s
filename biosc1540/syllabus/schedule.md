@@ -179,21 +179,19 @@ No class
 
 **Tuesday** (Apr 9) [Lecture 24](../../lectures/24/)
 
--   ^^Topics^^: [Molecular simulations](https://cadd.crumblearn.org/sbdd/sims/)
+-   ^^Topics^^: [CADD quiz](/assessments/quizzes/cadd/)
 
 **Thursday** (Apr 11) [Lecture 25](../../lectures/26/)
 
--   ^^Topics^^: [Ligand-based drug design](https://cadd.crumblearn.org/lbdd/)
--   ^^Readings^^:
-    -   Chapter 5 of [Drug design: A conceptual overview][kumar]
--   ^^Due^^:
-    -   [Assignment 06](/assessments/assignments/06/)
+-   ^^Topics^^: [Molecular simulations](https://cadd.crumblearn.org/sbdd/sims/)
 
 ### Week 15
 
 **Tuesday** (Apr 16) [Lecture 26](../../lectures/26/)
 
--   ^^Topics^^: [CADD quiz](/assessments/quizzes/cadd/)
+-   ^^Topics^^: [Ligand-based drug design](https://cadd.crumblearn.org/lbdd/)
+-   ^^Readings^^:
+    -   Chapter 5 of [Drug design: A conceptual overview][kumar]
 
 **Thursday** (Apr 18) [Lecture 27](../../lectures/27/)
 
