@@ -135,7 +135,7 @@ No class
 
 **Thursday** (Mar 21) [Lecture 19](../../lectures/19/)
 
--   ^^Topics^^: [Drug targets](https://cadd.crumblearn.org/sbdd/targets/), [structure prediction](https://cadd.crumblearn.org/sbdd/targets/structure/), [binding sites](https://cadd.crumblearn.org/sbdd/targets/sites/), [receptor theories](https://cadd.crumblearn.org/sbdd/targets/receptor-theories/).
+-   ^^Topics^^: [Drug targets](https://cadd.crumblearn.org/sbdd/targets/), [structure prediction](https://cadd.crumblearn.org/sbdd/targets/structure/), [binding sites](https://cadd.crumblearn.org/sbdd/targets/sites/).
 -   ^^Readings^^:
     -   Chapters 1, 2, 7, 15 of [Structural biology in drug discovery: Methods, techniques, and practices][renaud]
     -   Chapters 2, 4, 8 of [Drug design: A conceptual overview][kumar]
