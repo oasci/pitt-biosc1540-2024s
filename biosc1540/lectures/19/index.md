@@ -18,7 +18,7 @@ Relevant content for today's lecture: [Target classes](https://cadd.crumblearn.o
 
 ## Presentation
 
-[Live link]() for during class.
+[Live link](https://slides.com/d/nZdKKIA/live) for during class.
 Full presentation (below) will be released afterwards.
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-2024s-l19/embed?byline=hidden&share=hidden" width="100%" height="600" title="biosc1540-2024s-L19" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
