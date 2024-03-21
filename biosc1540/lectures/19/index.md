@@ -6,7 +6,11 @@
 
 What you should be able to do after today's lecture.
 
-1.  TODO:
+1.  🧮 Interpret network and pathway analysis to prioritize drug targets.
+2.  🧮 Retrieve and interpret experimental protein structures from the PDB.
+3.  🧮 Explain how AlphaFold predicts protein structures using deep learning.
+4.  🧮 Access and run AlphaFold predictions, understanding their applications and limitations.
+5.  🧮 Assess protein druggability by detecting and analyzing binding pockets.
 
 ## Readings
 
