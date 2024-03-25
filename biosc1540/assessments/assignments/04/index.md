@@ -71,15 +71,3 @@ Briefly explain how AlphaFold2's confidence metrics, such as pLDDT, can be used 
 ## Problem 11
 
 Briefly explain the concept of alpha spheres in the context of pocket detection with fpocket.
-
-## Problem 12
-
-Compare fpocket with other pocket detection methods, such as grid-based or energy-based approaches.
-Discuss the strengths and limitations of each approach and how they can be combined to improve pocket detection accuracy.
-
-## Problem 13
-
-You have identified a novel pocket on a protein target using fpocket.
-The pocket has a moderate volume, a mix of hydrophobic and hydrophilic residues, and a relatively enclosed shape.
-Analyze the druggability of this pocket based on its properties.
-Discuss the potential challenges and opportunities for designing drug-like molecules that could bind to this pocket.
