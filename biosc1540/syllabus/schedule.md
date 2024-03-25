@@ -146,14 +146,14 @@ No class
 
 **Tuesday** (Mar 26) [Lecture 20](../../lectures/20/)
 
--   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/sbdd/binding/), [molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/), and [covalent](https://cadd.crumblearn.org/sbdd/binding/covalent/) interactions
+-   ^^Topics^^: [Thermodynamics of binding](https://cadd.crumblearn.org/sbdd/binding/) and [intermolecular forces](https://cadd.crumblearn.org/sbdd/binding/intermolecular/)
 -   ^^Readings^^:
     -   Chapter 2 of [Introduction to computational chemistry][jensen]
     -   Chapter 6 of [Drug design: A conceptual overview][kumar]
 
 **Thursday** (Mar 28) [Lecture 21](../../lectures/21/)
 
--   ^^Topics^^: [Noncovalent](https://cadd.crumblearn.org/sbdd/binding/noncovalent/) interactions and [entropy](https://cadd.crumblearn.org/sbdd/binding/entropy/)
+-   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/) and [entropy](https://cadd.crumblearn.org/sbdd/binding/entropy/)
 -   ^^Readings^^:
     -   Chapter 2 of [Introduction to computational chemistry][jensen]
     -   Chapter 4 of [Drug design: A conceptual overview][kumar]
