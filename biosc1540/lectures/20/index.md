@@ -19,7 +19,7 @@ Relevant content for today's lecture: [Thermodynamics of binding](https://cadd.c
 
 ## Presentation
 
-[Live link]() for during class.
+[Live link](https://slides.com/d/SyVImLw/live) for during class.
 Full presentation (below) will be released afterwards.
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-2024s-l20/embed?byline=hidden&share=hidden" width="100%" height="600" title="biosc1540-2024s-L20" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
