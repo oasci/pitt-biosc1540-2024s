@@ -6,7 +6,10 @@
 
 What you should be able to do after today's lecture.
 
-1.  TODO:
+1.  🧮 Describe the key steps involved in the protein-ligand docking process.
+2.  🧮 Explain various conformer generation strategies and its significance in docking.
+3.  🧮 Discuss scoring functions used in docking and their strengths and limitations.
+4.  🧮 Understand the process of pose refinement and its role in improving docking results.
 
 ## Readings
 
