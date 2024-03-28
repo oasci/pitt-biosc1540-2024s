@@ -153,10 +153,7 @@ No class
 
 **Thursday** (Mar 28) [Lecture 21](../../lectures/21/)
 
--   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/) and [entropy](https://cadd.crumblearn.org/sbdd/binding/entropy/)
--   ^^Readings^^:
-    -   Chapter 2 of [Introduction to computational chemistry][jensen]
-    -   Chapter 4 of [Drug design: A conceptual overview][kumar]
+-   ^^Topics^^: [Protein-ligand docking](https://cadd.crumblearn.org/sbdd/docking/)
 -   ^^Due^^:
     -   [Assignment 04](/assessments/assignments/04/)
 
@@ -164,7 +161,10 @@ No class
 
 **Tuesday** (Apr 2) [Lecture 22](../../lectures/22/)
 
--   ^^Topics^^: [Protein-ligand docking](https://cadd.crumblearn.org/sbdd/docking/)
+-   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/)
+-   ^^Readings^^:
+    -   Chapter 2 of [Introduction to computational chemistry][jensen]
+    -   Chapter 4 of [Drug design: A conceptual overview][kumar]
 
 **Thursday** (Apr 4) [Lecture 23](../../lectures/23/)
 
