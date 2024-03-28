@@ -6,10 +6,11 @@
 
 What you should be able to do after today's lecture.
 
-1.  🧮 Describe the key steps involved in the protein-ligand docking process.
-2.  🧮 Explain various conformer generation strategies and their significance in docking.
-3.  🧮 Discuss scoring functions used in docking and their strengths and limitations.
-4.  🧮 Understand the process of pose refinement and its role in improving docking results.
+1.  🧮 Explain that entropy is energy dispersal and not "disorder".
+2.  🧮 Describe the key steps involved in the protein-ligand docking process.
+3.  🧮 Explain various conformer generation strategies and their significance in docking.
+4.  🧮 Discuss scoring functions used in docking and their strengths and limitations.
+5.  🧮 Understand the process of pose refinement and its role in improving docking results.
 
 ## Readings
 
