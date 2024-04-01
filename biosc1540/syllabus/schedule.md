@@ -161,7 +161,7 @@ No class
 
 **Tuesday** (Apr 2) [Lecture 22](../../lectures/22/)
 
--   ^^Topics^^: [Molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/)
+-   ^^Topics^^: [Introduction to molecular simulations](https://md.crumblearn.org/intro/) and [Molecular mechanics](https://cadd.crumblearn.org/sbdd/binding/mm/)
 -   ^^Readings^^:
     -   Chapter 2 of [Introduction to computational chemistry][jensen]
     -   Chapter 4 of [Drug design: A conceptual overview][kumar]
