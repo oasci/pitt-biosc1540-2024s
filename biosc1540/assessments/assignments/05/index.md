@@ -57,8 +57,8 @@ Propose a plausible explanation for this phenomenon and describe an experiment y
 **Points**: 3
 
 A common strategy in drug discovery is to make analogs of a lead compound by adding various substituents.
-Imagine a compound with a binding affinity of 10 nM that you want to improve by adding a substituent to form a new hydrogen bond with the protein.
-Assuming no other enthalpic or entropic changes, estimate how much the new hydrogen bond interaction would need to contribute to the binding enthalpy (in kcal/mol) to achieve a 10-fold improvement (1 nM) in binding affinity.
+Imagine a compound with a $K_d$ of 10 nM that you want to improve by adding a substituent to form a new hydrogen bond with the protein.
+Assuming no other enthalpic or entropic changes, estimate how much the new hydrogen bond interaction would need to contribute to the binding enthalpy (in kcal/mol) to achieve a 10-fold improvement ($K_d$ of 1 nM) in binding affinity.
 You can assume reasonable biological conditions (i.e., temperature of 37 °C).
 
 ## Problem 8
