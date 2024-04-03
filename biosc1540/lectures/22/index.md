@@ -6,11 +6,13 @@
 
 What you should be able to do after today's lecture.
 
-1.  TODO:
+1.  🧮 Understand the limitations of protein-ligand docking.
+2.  🧮 Explain the key points of using molecular simulations.
+3.  🧮 Interpret force field interactions and representations.
 
 ## Readings
 
-Relevant content for today's lecture: TODO:
+Relevant content for today's lecture: Please see posted resources on Canvas.
 
 ## Presentation
 
