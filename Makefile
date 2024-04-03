@@ -33,6 +33,7 @@ conda-dependencies:
 	$(CONDA) conda install -y -c conda-forge nodejs
 	$(CONDA) conda install -y -c bioconda clustalw
 	$(CONDA) conda install -y -c bioconda salmon
+	$(CONDA) conda install -y -c conda-forge openmm
 
 .PHONY: nodejs-dependencies
 nodejs-dependencies:
