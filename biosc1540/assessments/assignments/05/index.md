@@ -10,7 +10,7 @@ Please submit your answers as a PDF to gradescope.
 
 **Points**: 7
 
-Explain in simple terms the difference between the equilibrium constant ($K_{eq}$) and the dissociation constant ($K_d$) and how they relate to binding affinity.
+Explain in simple terms the difference between the association constant ($K_a$) and the dissociation constant ($K_d$) and how they relate to binding affinity.
 Would a ligand with a $K_d$ of 1 nM or 1 mM have a higher affinity for its target protein?
 
 ## Problem 2
