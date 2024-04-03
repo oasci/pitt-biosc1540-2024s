@@ -50,7 +50,7 @@ Why are van der Waals interactions always attractive at short range, while elect
 **Points**: 4
 
 The affinity of some protein-ligand interactions strongly depends on salt concentration, decreasing rapidly as ionic strength increases.
-Propose a plausible explanation for this phenomenon and describe an experiment you could perform to test your hypothesis.
+Propose a plausible explanation for this phenomenon and describe a computational or wet-lab experiment you could perform to test your hypothesis.
 
 ## Problem 7
 
