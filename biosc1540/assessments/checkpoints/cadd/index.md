@@ -56,11 +56,9 @@ Based on [target structure selection guidelines](https://cadd.crumblearn.org/sbd
 
 ## Chemical library construction
 
-Search on [PubMed](https://pubchem.ncbi.nlm.nih.gov/) for `Dihydrofolate reductase inhibitor` and download all of those compounds (there should be 30 as of 2024-03-17) as a single 3D SDF file.
-
-Go to the [PubMed Classifications](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=72) and choose a category with more than 500 compounds under `Drug and Medication Information`.
-After selecting a category, tailor the search filters (e.g., molecular weight) to your liking until the number of compounds is between 70 and 170.
-Download these compounds as a single 3D SDF file.
+Search on [PubMed](https://pubchem.ncbi.nlm.nih.gov/) for `Dihydrofolate reductase inhibitor` and download all of those compounds as a single 3D SDF file.
+Go [here](https://pubchem.ncbi.nlm.nih.gov/#input_type=list&query=gsUnD7Sn0RvmNVks21QQBC7dLb3Bp54n5AKFa_8Tl2r_Cqs&collection=compound&alias=PubChem%3A%20PubChem%20Compound%20TOC%3A%20Maximum%20Drug%20Dose&page=4) and download these compounds as well.
+These two SDF files are your chemical library for docking.
 
 **Questions**
 
@@ -75,7 +73,7 @@ Download these compounds as a single 3D SDF file.
 **Bonus** (20 points)
 
 Analyze your SDF files using [RDKit](https://www.rdkit.org/docs/index.html) to identify the main scaffolds present in the library.
-Include example pictures in your submission.
+Include example figures in your submission.
 Discuss the level of diversity observed and suggest ways you could improve it if needed.
 
 ## Target preparation
