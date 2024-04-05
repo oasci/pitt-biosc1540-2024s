@@ -128,8 +128,14 @@ Explain the difference between these sites and discuss why, for DHFR inhibitors,
 ## Docking
 
 Perform docking simulations for each molecule in your library using [MolModa][molmoda].
-If needed, review and adjust the software's default settings for docking parameters (search space, flexibility, etc.).
-Once the docking setup is complete, initiate the docking simulation. The software will calculate the interaction between each ligand molecule in your library and the protein structure.
+
+!!! warning
+
+    Change the exhaustiveness parameter to `2` and only dock around 10 compounds at a time.
+    You can change which molecules to dock by hiding the ones you are not docking on the navigation menu on the left.
+
+Once the docking setup is complete, initiate the docking simulation.
+The software will calculate the interaction between each ligand molecule in your library and the protein structure.
 After the docking run finishes, the software will provide results for each ligand-protein complex.
 
 **Questions**
