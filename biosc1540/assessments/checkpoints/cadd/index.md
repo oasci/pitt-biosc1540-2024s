@@ -57,7 +57,7 @@ Based on [target structure selection guidelines](https://cadd.crumblearn.org/sbd
 ## Chemical library construction
 
 Search on [PubMed](https://pubchem.ncbi.nlm.nih.gov/) for `Dihydrofolate reductase inhibitor` and download all of those compounds as a single 3D SDF file.
-Click [here][download-max-drug-dose] to download 35 additional compounds from the `PubChem Compound TOC: Maximum Drug Dose` list.
+Click [here](./PubChem_compound_records.sdf) to download 35 additional compounds from the `PubChem Compound TOC: Maximum Drug Dose` list.
 These two SDF files are your chemical library for docking.
 
 **Questions**
@@ -170,4 +170,3 @@ Briefly explain how these assays would assess the potential of a ligand as a DHF
 [^raimondi2019dhfr]: Raimondi, M. V., Randazzo, O., La Franca, M., Barone, G., Vignoni, E., Rossi, D., & Collina, S. (2019). DHFR inhibitors: reading the past for discovering novel anticancer agents. *Molecules, 24*(6), 1140.
 [^wrobel2020trimethoprim]: Wróbel, A., Arciszewska, K., Maliszewski, D., & Drozdowska, D. (2020). Trimethoprim and other nonclassical antifolates an excellent template for searching modifications of dihydrofolate reductase enzyme inhibitors. *The Journal of Antibiotics, 73*(1), 5-27.
 [molmoda]: https://durrantlab.pitt.edu/molmoda/
-[download-max-drug-dose]: https://pubchem.ncbi.nlm.nih.gov/pug2/pug2.cgi?format=json&query={%22Query%22:{%22Type%22:%22Download%22,%22Parameter%22:[{%22Name%22:%22DownloadType%22,%22String%22:[%22Records%22]},{%22Name%22:%22RecordIDType%22,%22String%22:[%22CID%22]},{%22Name%22:%22CacheKey%22,%22String%22:[%22reoIbrqq3xboOFch1VkeCT3GLaaBkmP1GdB4uQLBargC2FY%22]},{%22Name%22:%22Format%22,%22String%22:[%22SDF%22]},{%22Name%22:%22RecordType%22,%22String%22:[%22Compound3D%22]}]}}&filename=PubChem_compound_list_reoIbrqq3xboOFch1VkeCT3GLaaBkmP1GdB4uQLBargC2FY_records
