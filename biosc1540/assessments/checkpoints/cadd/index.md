@@ -57,7 +57,7 @@ Based on [target structure selection guidelines](https://cadd.crumblearn.org/sbd
 ## Chemical library construction
 
 Search on [PubMed](https://pubchem.ncbi.nlm.nih.gov/) for `Dihydrofolate reductase inhibitor` and download all of those compounds as a single 3D SDF file.
-Click [here](./PubChem_compound_records.sdf) to download 35 additional compounds from the `PubChem Compound TOC: Maximum Drug Dose` list.
+Click [here](./PubChem_max_dose_records.sdf){:download="PubChem_max_dose_records.sdf"} to download 35 additional compounds from the `PubChem Compound TOC: Maximum Drug Dose` list.
 These two SDF files are your chemical library for docking.
 
 **Questions**
@@ -131,7 +131,7 @@ Perform docking simulations for each molecule in your library using [MolModa][mo
 
 !!! warning
 
-    Change the exhaustiveness parameter to `2` and only dock around 10 compounds at a time.
+    Change the exhaustiveness parameter to `4` and only dock around 10 compounds at a time.
     You can change which molecules to dock by hiding the ones you are not docking on the navigation menu on the left.
 
 Once the docking setup is complete, initiate the docking simulation.
