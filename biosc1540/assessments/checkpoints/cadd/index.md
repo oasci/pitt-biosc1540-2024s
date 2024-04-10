@@ -45,7 +45,7 @@ Discuss the advantages and disadvantages of targeting a protein essential for ba
 ## Target structure selection
 
 Go to the protein's UniProt entry and select one of the [X-ray crystallographic structures](https://www.uniprot.org/uniprotkb/P0ABQ4/entry#structure).
-Based on [target structure selection guidelines](https://cadd.crumblearn.org/sbdd/targets/structure/) and your understanding of the DHFR function, choose an appropriate structure from the available options.
+Based on target structure selection guidelines and your understanding of the DHFR function, choose an appropriate structure from the available options.
 
 **Questions**
 
