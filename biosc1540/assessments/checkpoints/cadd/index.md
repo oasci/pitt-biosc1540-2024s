@@ -56,7 +56,7 @@ Based on target structure selection guidelines and your understanding of the DHF
 
 ## Chemical library construction
 
-Search on [PubMed](https://pubchem.ncbi.nlm.nih.gov/) for `Dihydrofolate reductase inhibitor` and download all of those compounds as a single 3D SDF file.
+Search on [PubChem](https://pubchem.ncbi.nlm.nih.gov/) for `Dihydrofolate reductase inhibitor` and download all of those compounds as a single 3D SDF file.
 Click [here](./PubChem_max_dose_records.sdf){:download="PubChem_max_dose_records.sdf"} to download 35 additional compounds from the `PubChem Compound TOC: Maximum Drug Dose` list.
 These two SDF files are your chemical library for docking.
 
