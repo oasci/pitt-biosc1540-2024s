@@ -33,16 +33,11 @@ theme:
     repo: fontawesome/brands/gitlab
     annotation: material/star-four-points-circle
   features:
-    # - content.action.edit
-    # - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.code.select
     - content.tooltips
     - content.tabs.link
-    # - navigation.instant
-    # - navigation.instant.prefetch
-    # - navigation.instant.progress
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.tracking
@@ -110,7 +105,6 @@ extra_css:
 
 extra_javascript:
   - js/mathjax-config.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - js/d3.js
 

@@ -51,8 +51,8 @@
     --md-footer-fg-color:                #ffffff; /* ??? */
     --md-footer-fg-color--light:         #e9ecef; /* Footer text */
     --md-footer-fg-color--lighter:       #adb5bd; /* ??? */
-    --md-footer-bg-color:                #000000;
-    --md-footer-bg-color--dark:          #212529; /* Footer background */
+    --md-footer-bg-color:                #ff6262;
+    --md-footer-bg-color--dark:          #ff6262; /* Footer background */
 
     /* Accent color shades */
     --md-accent-fg-color:                #032779; /* Hover over link */
@@ -118,8 +118,8 @@
     --md-footer-fg-color:                #ffffff; /* ??? */
     --md-footer-fg-color--light:         #e9ecef; /* Footer text */
     --md-footer-fg-color--lighter:       #adb5bd; /* ??? */
-    --md-footer-bg-color:                #000000;
-    --md-footer-bg-color--dark:          #171717; /* Footer background */
+    --md-footer-bg-color:                #ff6262;
+    --md-footer-bg-color--dark:          #ff6262; /* Footer background */
 
     /* Accent color shades */
     --md-accent-fg-color:                #90e0ef; /* Hover over link */

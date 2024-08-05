@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 
+{% block announce %}
+    {{ super() }}
+    <p>This site is archived; please see <a href="https://pitt-biosc1540-2024f.oasci.org/" style="color:#303132;">our current semester</a>!</p>
+{% endblock %}
+
 {% block header %}
     {{ super() }}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/3Dmol/2.0.6/3Dmol.js"></script>
